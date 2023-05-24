@@ -10,6 +10,12 @@ Dataset Survey & Benchmarks
 
 ## LLM for Feature Engineering
 
+| **Paper** | **Publication** | **Encoded Feature** | **Link** |
+|:---|:---:|:---:|:---:|
+| Language Models are Realistic Tabular Data Generators | ICLR 2023 | [[Link]](https://arxiv.org/abs/2210.06280) |
+| Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning | ICML 2023 | [[Link]](https://arxiv.org/abs/2211.03044) |
+| A First Look at LLM-Powered Generative News Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06566) |
+
 ## LLM as Feature Encoder
 
 | **Paper** | **Publication** | **Encoded Feature** | **Link** |
@@ -45,12 +51,29 @@ Dataset Survey & Benchmarks
 | How to Index Item IDs for Recommendation Foundation Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06569) |
 | Recommender Systems with Generative Retrieval | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 | TabLLM: Few-shot Classification of Tabular Data with Large Language Models | AISTATS 2023 | [[Link]](https://arxiv.org/abs/2210.10723) |
+| Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction | Arxiv 2023 | [[Link]](https://arxiv.org/pdf/2305.06474.pdf) |
+|  |  |  |
+| Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07001) |
+| TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.00447) |
+| PALR: Personalization Aware LLMs for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07622) |
+|  |  |  |
+| Zero-Shot Next-Item Recommendation using Large Pretrained Language Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03153) |
+| Is ChatGPT a Good Recommender? A Preliminary Study | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.10149) |
+| Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.09542) |
+| Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples! | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2303.08559) |
+| Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.04518) |
+| Uncovering ChatGPT's Capabilities in Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.02182) |
+| Large Language Models are Zero-Shot Rankers for Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.08845) |
+| Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07609) |
 
 ## LLM as RS Pipeline Controller
 
 | **Paper** | **Publication** | **Code** |
 |:---:|:---:|:---:|
-|  |  |  |
+| Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2303.14524) |
+| Leveraging Large Language Models in Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07961) |
+| Generative Recommendation: Towards Next-generation Recommender Paradigm | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03516) |
+
 
 
 
