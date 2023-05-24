@@ -59,6 +59,8 @@ Generally two advantages:
 | How to Index Item IDs for Recommendation Foundation Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06569) |
 | Recommender Systems with Generative Retrieval | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 | TabLLM: Few-shot Classification of Tabular Data with Large Language Models | AISTATS 2023 | [[Link]](https://arxiv.org/abs/2210.10723) |
+| Prompt Learning for News Recommendation | SIGIR 2023 | [[Link]](https://arxiv.org/abs/2304.05263) |
+| Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05973) |
 | Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction | Arxiv 2023 | [[Link]](https://arxiv.org/pdf/2305.06474.pdf) |
 |  |  |  |
 | Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07001) |
@@ -108,3 +110,10 @@ Generally two advantages:
 | GoodReads | - | [[Link]](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home) |
 | Anime | - | [[Link]](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) |
 | TABLET | - | [[Link]](https://dylanslacks.website/Tablet) |
+
+## 3. Related Repositories
+
+| **Repo Name** | **Maintainer** |
+|:---:|:---:|
+| [rs-llm-paper-list](https://github.com/wwliu555/rs-llm-paper-list) | [wwliu555](https://github.com/wwliu555) |
+| [awesome-recommend-system-pretraining-papers](https://github.com/archersama/awesome-recommend-system-pretraining-papers) | [archersama](https://github.com/archersama) |
