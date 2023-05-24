@@ -48,6 +48,7 @@ Generally two advantages:
     
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation | RecSys 2020 | [[Link]](https://arxiv.org/abs/2007.15356) |
 | Language Models as Recommender Systems: Evaluations and Limitations | ICBINB 2021 | [[Link]](https://openreview.net/forum?id=hFx3fY7-m9b) |
 | PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models | ICPC 2022 | [[Link]](https://arxiv.org/abs/2203.10965) |
 | M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2205.08084) |
@@ -75,6 +76,7 @@ Generally two advantages:
 | Uncovering ChatGPT's Capabilities in Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.02182) |
 | Large Language Models are Zero-Shot Rankers for Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.08845) |
 | Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07609) |
+| StructGPT: A General Framework for Large Language Model to Reason over Structured Data | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.09645) |
 
 </p>
 </details>
