@@ -1,10 +1,16 @@
 # Awesome-LLM-for-RecSys
 
+Generally two advantages:
+1. Open-world knowledge embedded in the pre-trained parameters
+    - Textual encoder
+    - Reasoning ability
+3. Textual features as the unified language to bridge different recommendation domains
+
+Dataset Survey & Benchmarks
+
 ## LLM for Feature Engineering
 
 ## LLM as Feature Encoder
-
-### User Representation
 
 | **Paper** | **Publication** | **Encoded Feature** | **Link** |
 |:---|:---:|:---:|:---:|
@@ -20,13 +26,25 @@
 | Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation | EMNLP 2022 | Item | [[Link]](https://arxiv.org/abs/2112.00944) |
 | TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations | Arxiv 2022 | Item | [[Link]](https://arxiv.org/abs/2209.07562) |
 | Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders | WWW 2023 | Item | [[Link]](https://arxiv.org/abs/2210.12316) |
+|  |  |  |
+| CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models | ENLSP 2021 | User & Item | [[Link]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf) |
 
 
 ## LLM as Core Recommender Model
 
-| **Paper** | **Publication** | **Code** |
-|:---:|:---:|:---:|
+| **Paper** | **Publication** | **Link** |
+|:---|:---:|:---:|
+| Language Models as Recommender Systems: Evaluations and Limitations | ICBINB 2021 | [[Link]](https://openreview.net/forum?id=hFx3fY7-m9b) |
+| PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models | ICPC 2022 | [[Link]](https://arxiv.org/abs/2203.10965) |
+| M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2205.08084) |
+| PTab: Using the Pre-trained Language Model for Modeling Tabular Data | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2209.08060) |
 |  |  |  |
+| Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) | RecSys 2022 | [[Link]](https://arxiv.org/abs/2203.13366) |
+| GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03879) |
+| Zero-Shot Recommendation as Language Modeling | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2112.04184) |
+| How to Index Item IDs for Recommendation Foundation Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06569) |
+| Recommender Systems with Generative Retrieval | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
+| TabLLM: Few-shot Classification of Tabular Data with Large Language Models | AISTATS 2023 | [[Link]](https://arxiv.org/abs/2210.10723) |
 
 ## LLM as RS Pipeline Controller
 
