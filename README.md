@@ -8,7 +8,7 @@ Generally two advantages:
 
 ## 1. Papers
 
-<details><summary><h3><b>1.1 LLM for Feature Engineering</b></h3></summary>
+<details><summary><b>1.1 LLM for Feature Engineering</b></summary>
 <p>
 
 | **Paper** | **Publication** | **Link** |
@@ -20,7 +20,7 @@ Generally two advantages:
 </p>
 </details>
 
-<details><summary><h3><b>1.2 LLM as Feature Encoder</b></h3></summary>
+<details><summary><b>1.2 LLM as Feature Encoder</b></summary>
 <p>
 
 | **Paper** | **Publication** | **Encoded Feature** | **Link** |
@@ -43,7 +43,7 @@ Generally two advantages:
 </p>
 </details>
 
-<details><summary><h3><b>1.3 LLM as Core Recommender Model</b></h3></summary>
+<details><summary><b>1.3 LLM as Core Recommender Model</b></summary>
 <p>
     
 | **Paper** | **Publication** | **Link** |
@@ -77,7 +77,7 @@ Generally two advantages:
 </p>
 </details>
 
-<details><summary><h3><b>1.4 LLM as RS Pipeline Controller</b></h3></summary>
+<details><summary><b>1.4 LLM as RS Pipeline Controller</b></summary>
 <p>
     
 | **Paper** | **Publication** | **Code** |
@@ -88,7 +88,7 @@ Generally two advantages:
 </p>
 </details>
 
-<details><summary><h3><b>1.5 Related Survey Paper</b></h3></summary>
+<details><summary><b>1.5 Related Survey Paper</b></summary>
 <p>
 
 | **Paper** | **Publication** | **Link** |
