@@ -8,10 +8,16 @@ Generally two advantages:
 
 Dataset Survey & Benchmarks
 
+## Related Survey Paper
+
+| **Paper** | **Publication** | **Link** |
+|:---|:---:|:---:|
+| Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2302.03735) |
+
 ## LLM for Feature Engineering
 
-| **Paper** | **Publication** | **Encoded Feature** | **Link** |
-|:---|:---:|:---:|:---:|
+| **Paper** | **Publication** | **Link** |
+|:---|:---:|:---:|
 | Language Models are Realistic Tabular Data Generators | ICLR 2023 | [[Link]](https://arxiv.org/abs/2210.06280) |
 | Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning | ICML 2023 | [[Link]](https://arxiv.org/abs/2211.03044) |
 | A First Look at LLM-Powered Generative News Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06566) |
@@ -69,7 +75,7 @@ Dataset Survey & Benchmarks
 ## LLM as RS Pipeline Controller
 
 | **Paper** | **Publication** | **Code** |
-|:---:|:---:|:---:|
+|:---|:---:|:---:|
 | Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2303.14524) |
 | Leveraging Large Language Models in Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07961) |
 | Generative Recommendation: Towards Next-generation Recommender Paradigm | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03516) |
