@@ -6,15 +6,10 @@ Generally two advantages:
     - Reasoning ability
 3. Textual features as the unified language to bridge different recommendation domains
 
-Dataset Survey & Benchmarks
+## 1. Papers
 
-## Related Survey Paper
-
-| **Paper** | **Publication** | **Link** |
-|:---|:---:|:---:|
-| Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2302.03735) |
-
-## LLM for Feature Engineering
+<details><summary><h3><b>1.1 LLM for Feature Engineering</b></h3></summary>
+<p>
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
@@ -22,7 +17,11 @@ Dataset Survey & Benchmarks
 | Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning | ICML 2023 | [[Link]](https://arxiv.org/abs/2211.03044) |
 | A First Look at LLM-Powered Generative News Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06566) |
 
-## LLM as Feature Encoder
+</p>
+</details>
+
+<details><summary><h3><b>1.2 LLM as Feature Encoder</b></h3></summary>
+<p>
 
 | **Paper** | **Publication** | **Encoded Feature** | **Link** |
 |:---|:---:|:---:|:---:|
@@ -41,9 +40,12 @@ Dataset Survey & Benchmarks
 |  |  |  |
 | CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models | ENLSP 2021 | User & Item | [[Link]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf) |
 
+</p>
+</details>
 
-## LLM as Core Recommender Model
-
+<details><summary><h3><b>1.3 LLM as Core Recommender Model</b></h3></summary>
+<p>
+    
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
 | Language Models as Recommender Systems: Evaluations and Limitations | ICBINB 2021 | [[Link]](https://openreview.net/forum?id=hFx3fY7-m9b) |
@@ -72,14 +74,37 @@ Dataset Survey & Benchmarks
 | Large Language Models are Zero-Shot Rankers for Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.08845) |
 | Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07609) |
 
-## LLM as RS Pipeline Controller
+</p>
+</details>
 
+<details><summary><h3><b>1.4 LLM as RS Pipeline Controller</b></h3></summary>
+<p>
+    
 | **Paper** | **Publication** | **Code** |
 |:---|:---:|:---:|
 | Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2303.14524) |
 | Leveraging Large Language Models in Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07961) |
 | Generative Recommendation: Towards Next-generation Recommender Paradigm | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03516) |
+</p>
+</details>
 
+<details><summary><h3><b>1.5 Related Survey Paper</b></h3></summary>
+<p>
 
+| **Paper** | **Publication** | **Link** |
+|:---|:---:|:---:|
+| Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2302.03735) |
 
+</p>
+</details>
 
+## 2. Datasets
+
+| **Dataset** | **# Sample** | **Link** |
+|:---|:---:|:---:|
+| MovieLens | - | [[Link]](https://grouplens.org/datasets/movielens/1m/) |
+| Amazon | - | [[Link]](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) |
+| BookCrossing | - | [[Link]](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) |
+| GoodReads | - | [[Link]](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home) |
+| Anime | - | [[Link]](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) |
+| TABLET | - | [[Link]](https://dylanslacks.website/Tablet) |
