@@ -17,6 +17,9 @@ Generally two advantages:
 | Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning | ICML 2023 | [[Link]](https://arxiv.org/abs/2211.03044) |
 | A First Look at LLM-Powered Generative News Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06566) |
 | AnyPredict: Foundation Model for Tabular Prediction | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12081) |
+| Evaluation of Synthetic Datasets for Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2212.08167v1) |
+| Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.09858v1) |
+| TagGPT: Large Language Models are Zero-shot Multimodal Taggers | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03022v1) |
 
 </p>
 </details>
@@ -38,6 +41,7 @@ Generally two advantages:
 | Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation | EMNLP 2022 | Item | [[Link]](https://arxiv.org/abs/2112.00944) |
 | TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations | Arxiv 2022 | Item | [[Link]](https://arxiv.org/abs/2209.07562) |
 | Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders | WWW 2023 | Item | [[Link]](https://arxiv.org/abs/2210.12316) |
+| Improving Code Example Recommendations on Informal Documentation Using BERT and Query-Aware LSH: A Comparative Study | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.03017v1) |
 |  |  |  |
 | CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models | ENLSP 2021 | User & Item | [[Link]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf) |
 
