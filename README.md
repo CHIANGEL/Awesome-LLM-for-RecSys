@@ -16,6 +16,7 @@ Generally two advantages:
 | Language Models are Realistic Tabular Data Generators | ICLR 2023 | [[Link]](https://arxiv.org/abs/2210.06280) |
 | Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning | ICML 2023 | [[Link]](https://arxiv.org/abs/2211.03044) |
 | A First Look at LLM-Powered Generative News Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06566) |
+| AnyPredict: Foundation Model for Tabular Prediction | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12081) |
 
 </p>
 </details>
@@ -63,6 +64,7 @@ Generally two advantages:
 | Prompt Learning for News Recommendation | SIGIR 2023 | [[Link]](https://arxiv.org/abs/2304.05263) |
 | Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05973) |
 | Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction | Arxiv 2023 | [[Link]](https://arxiv.org/pdf/2305.06474.pdf) |
+| UP5: Unbiased Foundation Model for Fairness-aware Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12090) |
 |  |  |  |
 | Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07001) |
 | TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.00447) |
