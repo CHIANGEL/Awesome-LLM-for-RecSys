@@ -1,10 +1,6 @@
 # Awesome-LLM-for-RecSys
 
-Generally two advantages:
-1. Open-world knowledge embedded in the pre-trained parameters
-    - Textual encoder
-    - Reasoning ability
-3. Textual features as the unified language to bridge different recommendation domains
+A collection of papers and resources on the large language model (LLM) related recommender system topics.
 
 ## 1. Papers
 
@@ -90,7 +86,7 @@ Generally two advantages:
 <details><summary><b>1.4 LLM as RS Pipeline Controller</b></summary>
 <p>
     
-| **Paper** | **Publication** | **Code** |
+| **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
 | Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2303.14524) |
 | Leveraging Large Language Models in Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07961) |
@@ -109,6 +105,8 @@ Generally two advantages:
 </details>
 
 ## 2. Datasets
+
+The datasets for LLM-related RS topics should maintain the original samantic/textual features, instead of anonymous feature IDs.
 
 | **Dataset** | **# Sample** | **Link** |
 |:---|:---:|:---:|
