@@ -38,7 +38,7 @@ A collection of papers and resources on the large language model (LLM) related r
 | TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations | Arxiv 2022 | Item | [[Link]](https://arxiv.org/abs/2209.07562) |
 | Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders | WWW 2023 | Item | [[Link]](https://arxiv.org/abs/2210.12316) |
 | Improving Code Example Recommendations on Informal Documentation Using BERT and Query-Aware LSH: A Comparative Study | Arxiv 2023 | Item | [[Link]](https://arxiv.org/abs/2305.03017v1) |
-|  |  |  |
+| Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15036) |
 | CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models | ENLSP 2021 | User & Item | [[Link]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf) |
 
 </p>
@@ -65,6 +65,7 @@ A collection of papers and resources on the large language model (LLM) related r
 | Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05973) |
 | Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction | Arxiv 2023 | [[Link]](https://arxiv.org/pdf/2305.06474.pdf) |
 | UP5: Unbiased Foundation Model for Fairness-aware Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12090) |
+| VIP5: Towards Multimodal Foundation Models for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.14302) |
 |  |  |  |
 | Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07001) |
 | TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.00447) |
