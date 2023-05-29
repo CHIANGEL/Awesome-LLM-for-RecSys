@@ -54,6 +54,8 @@ A collection of papers and resources on the large language model (LLM) related r
 | PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models | ICPC 2022 | [[Link]](https://arxiv.org/abs/2203.10965) |
 | M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2205.08084) |
 | PTab: Using the Pre-trained Language Model for Modeling Tabular Data | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2209.08060) |
+| Text Is All You Need: Learning Language Representations for Sequential Recommendation | KDD 2023 | [[Link]](https://arxiv.org/abs/2305.13731v1) |
+| UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation | ACL 2023 | [[Link]](https://arxiv.org/abs/2305.15756) |
 |  |  |  |
 | Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) | RecSys 2022 | [[Link]](https://arxiv.org/abs/2203.13366) |
 | GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03879) |
@@ -80,6 +82,7 @@ A collection of papers and resources on the large language model (LLM) related r
 | Large Language Models are Zero-Shot Rankers for Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.08845) |
 | Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07609) |
 | StructGPT: A General Framework for Large Language Model to Reason over Structured Data | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.09645) |
+| BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15673v1) |
 
 </p>
 </details>
