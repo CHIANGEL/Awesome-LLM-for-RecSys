@@ -41,6 +41,7 @@ A collection of papers and resources on the large language model (LLM) related r
 | Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15036) |
 | CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models | ENLSP 2021 | User & Item | [[Link]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf) |
 | Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited | SIGIR 2023 | Item | [[Link]](https://arxiv.org/abs/2303.13835) |
+| Zero-Shot Recommender Systems | Arxiv 2021 | Item | [[Link]](https://arxiv.org/abs/2105.08318) |
 
 </p>
 </details>
