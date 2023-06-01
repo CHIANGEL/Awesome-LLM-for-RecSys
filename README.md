@@ -16,6 +16,7 @@ A collection of papers and resources on the large language model (LLM) related r
 | Evaluation of Synthetic Datasets for Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2212.08167v1) |
 | Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.09858v1) |
 | TagGPT: Large Language Models are Zero-shot Multimodal Taggers | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03022v1) |
+| Large Language Models for User Interest Journeys | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15498) |
 
 </p>
 </details>
