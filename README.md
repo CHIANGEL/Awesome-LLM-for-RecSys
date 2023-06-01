@@ -85,6 +85,7 @@ A collection of papers and resources on the large language model (LLM) related r
 | Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07609) |
 | StructGPT: A General Framework for Large Language Model to Reason over Structured Data | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.09645) |
 | BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15673v1) |
+| LANISTR: Multimodal Learning from Structured and Unstructured Data | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.16556) |
 
 </p>
 </details>
