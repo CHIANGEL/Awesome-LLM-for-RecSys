@@ -2,7 +2,7 @@
 
 A collection of papers and resources on the large language model (LLM) related recommender system topics.
 
-## 1. Papers
+## 1. Paper Taxonomy about "Where to Adapt LLMs"
 
 <details><summary><b>1.1 LLM for Feature Engineering</b></summary>
 <p>
@@ -49,9 +49,10 @@ A collection of papers and resources on the large language model (LLM) related r
 </p>
 </details>
 
-<details><summary><b>1.3 LLM as Core Recommender Model</b></summary>
+<details><summary><b>1.3 LLM as Scoring/Ranking Function</b></summary>
 <p>
-    
+
+<b>1.3.1 Discriminative Function</b>
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
 | Language Models as Recommender Systems: Evaluations and Limitations | ICBINB 2021 | [[Link]](https://openreview.net/forum?id=hFx3fY7-m9b) |
@@ -64,7 +65,10 @@ A collection of papers and resources on the large language model (LLM) related r
 | BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15673v1) |
 | Prompt Learning for News Recommendation | SIGIR 2023 | [[Link]](https://arxiv.org/abs/2304.05263) |
 | TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.00447) |
-|  |  |  |
+    
+<b>1.3.2 Generative Function</b>
+| **Paper** | **Publication** | **Link** |
+|:---|:---:|:---:|
 | GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03879) |
 | Recommender Systems with Generative Retrieval | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 | UP5: Unbiased Foundation Model for Fairness-aware Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12090) |
@@ -74,7 +78,10 @@ A collection of papers and resources on the large language model (LLM) related r
 | PALR: Personalization Aware LLMs for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07622) |
 | Large Language Models are Zero-Shot Rankers for Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.08845) |
 | Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.04518) |
-|  |  |  |
+
+<b>1.3.2 Hybrid Function</b>
+| **Paper** | **Publication** | **Link** |
+|:---|:---:|:---:|
 | M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2205.08084) |
 | Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) | RecSys 2022 | [[Link]](https://arxiv.org/abs/2203.13366) |
 | Is ChatGPT a Good Recommender? A Preliminary Study | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.10149) |
