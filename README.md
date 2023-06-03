@@ -56,7 +56,6 @@ A collection of papers and resources on the large language model (LLM) related r
 |:---|:---:|:---:|
 | Language Models as Recommender Systems: Evaluations and Limitations | ICBINB 2021 | [[Link]](https://openreview.net/forum?id=hFx3fY7-m9b) |
 | PTab: Using the Pre-trained Language Model for Modeling Tabular Data | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2209.08060) |
-| M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2205.08084) |
 | Zero-Shot Recommendation as Language Modeling | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2112.04184) |
 | UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation | ACL 2023 | [[Link]](https://arxiv.org/abs/2305.15756) |
 | Text Is All You Need: Learning Language Representations for Sequential Recommendation | KDD 2023 | [[Link]](https://arxiv.org/abs/2305.13731v1) |
@@ -76,6 +75,7 @@ A collection of papers and resources on the large language model (LLM) related r
 | Large Language Models are Zero-Shot Rankers for Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.08845) |
 | Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.04518) |
 |  |  |  |
+| M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2205.08084) |
 | Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) | RecSys 2022 | [[Link]](https://arxiv.org/abs/2203.13366) |
 | Is ChatGPT a Good Recommender? A Preliminary Study | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.10149) |
 | Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.09542) |
