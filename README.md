@@ -78,6 +78,7 @@ A collection of papers and resources on the large language model (LLM) related r
 | PALR: Personalization Aware LLMs for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07622) |
 | Large Language Models are Zero-Shot Rankers for Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.08845) |
 | Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.04518) |
+| Zero-Shot Next-Item Recommendation using Large Pretrained Language Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03153) |
 
 <b>1.3.2 Hybrid Function</b>
 | **Paper** | **Publication** | **Link** |
@@ -86,7 +87,6 @@ A collection of papers and resources on the large language model (LLM) related r
 | Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) | RecSys 2022 | [[Link]](https://arxiv.org/abs/2203.13366) |
 | Is ChatGPT a Good Recommender? A Preliminary Study | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.10149) |
 | Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.09542) |
-| Zero-Shot Next-Item Recommendation using Large Pretrained Language Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03153) |
 | Uncovering ChatGPT's Capabilities in Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.02182) |
 | Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07001) |
 |  |  |  |
