@@ -70,7 +70,6 @@ A collection of papers and resources on the large language model (LLM) related r
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
 | GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03879) |
-| Recommender Systems with Generative Retrieval | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 | UP5: Unbiased Foundation Model for Fairness-aware Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12090) |
 | VIP5: Towards Multimodal Foundation Models for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.14302) |
 | How to Index Item IDs for Recommendation Foundation Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06569) |
@@ -92,6 +91,7 @@ A collection of papers and resources on the large language model (LLM) related r
 |  |  |  |
 |  |  |  |
 |  |  |  |
+| Recommender Systems with Generative Retrieval | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 | What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation | RecSys 2020 | [[Link]](https://arxiv.org/abs/2007.15356) |
 | Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples! | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2303.08559) |
 | StructGPT: A General Framework for Large Language Model to Reason over Structured Data | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.09645) |
