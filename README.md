@@ -4,19 +4,26 @@ A collection of papers and resources on the large language model (LLM) related r
 
 ## 1. Papers
 
+The abbreviations we use are as follows:
+- **Tuning Strategy**
+    - **FFT**: full finetuning
+    - **LAT**: layerwise adaptor tuning
+    - **OT**: option tuning
+    - **LoRA**: low-rank adaption
+
 <details><summary><b>1.1 LLM for Feature Engineering</b></summary>
 <p>
 
-| **Paper** | **Publication** | **Link** |
-|:---|:---:|:---:|
-| Language Models are Realistic Tabular Data Generators | ICLR 2023 | [[Link]](https://arxiv.org/abs/2210.06280) |
-| A First Look at LLM-Powered Generative News Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06566) |
-| AnyPredict: Foundation Model for Tabular Prediction | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12081) |
-| Evaluation of Synthetic Datasets for Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2212.08167v1) |
-| Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.09858v1) |
-| TagGPT: Large Language Models are Zero-shot Multimodal Taggers | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03022v1) |
-| Large Language Models for User Interest Journeys | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15498) |
-| Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05973) |
+| **Name** | **Paper** | **LLM Backbone (Largest)** | **Tuning Strategy** | **Publication** | **Link** |
+|:---|:---|:---:|:---:|:---:|:---:|
+| | Language Models are Realistic Tabular Data Generators |  |  | ICLR 2023 | [[Link]](https://arxiv.org/abs/2210.06280) |
+| | A First Look at LLM-Powered Generative News Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06566) |
+| | AnyPredict: Foundation Model for Tabular Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12081) |
+| | Evaluation of Synthetic Datasets for Conversational Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2212.08167v1) |
+| | Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.09858v1) |
+| | TagGPT: Large Language Models are Zero-shot Multimodal Taggers |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03022v1) |
+| | Large Language Models for User Interest Journeys |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15498) |
+| | Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05973) |
 
 </p>
 </details>
