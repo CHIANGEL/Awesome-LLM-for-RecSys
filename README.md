@@ -10,7 +10,6 @@ A collection of papers and resources on the large language model (LLM) related r
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
 | Language Models are Realistic Tabular Data Generators | ICLR 2023 | [[Link]](https://arxiv.org/abs/2210.06280) |
-| Tuning Language Models as Training Data Generators for Augmentation-Enhanced Few-Shot Learning | ICML 2023 | [[Link]](https://arxiv.org/abs/2211.03044) |
 | A First Look at LLM-Powered Generative News Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06566) |
 | AnyPredict: Foundation Model for Tabular Prediction | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12081) |
 | Evaluation of Synthetic Datasets for Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2212.08167v1) |
