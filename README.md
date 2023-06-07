@@ -116,6 +116,7 @@ A collection of papers and resources on the large language model (LLM) related r
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| A Survey on Large Language Models for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.19860) |
 | Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2302.03735) |
 
 </p>
@@ -140,3 +141,4 @@ The datasets for LLM-related RS topics should maintain the original samantic/tex
 |:---:|:---:|
 | [rs-llm-paper-list](https://github.com/wwliu555/rs-llm-paper-list) | [wwliu555](https://github.com/wwliu555) |
 | [awesome-recommend-system-pretraining-papers](https://github.com/archersama/awesome-recommend-system-pretraining-papers) | [archersama](https://github.com/archersama) |
+| [LLM4Rec](https://github.com/WLiK/LLM4Rec) | [WLiK](https://github.com/WLiK) |
