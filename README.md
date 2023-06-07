@@ -2,7 +2,7 @@
 
 A collection of papers and resources on the large language model (LLM) related recommender system topics.
 
-## 1. Paper Taxonomy about "Where to Adapt LLMs"
+## 1. Papers"
 
 <details><summary><b>1.1 LLM for Feature Engineering</b></summary>
 <p>
