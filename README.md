@@ -4,13 +4,6 @@ A collection of papers and resources on the large language model (LLM) related r
 
 ## 1. Papers
 
-The abbreviations we use are as follows:
-- **Tuning Strategy**
-    - **FFT**: full finetuning
-    - **LAT**: layerwise adaptor tuning
-    - **OT**: option tuning
-    - **LoRA**: low-rank adaption
-
 <details><summary><b>1.1 LLM for Feature Engineering</b></summary>
 <p>
 
@@ -31,26 +24,25 @@ The abbreviations we use are as follows:
 <details><summary><b>1.2 LLM as Feature Encoder</b></summary>
 <p>
 
-| **Paper** | **Publication** | **Encoded Feature** | **Link** |
-|:---|:---:|:---:|:---:|
-| U-BERT: Pre-training User Representations for Improved Recommendation | AAAI 2021 | User | [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/16557) |
-|  |  |  |  |
-| UNBERT: User-News Matching BERT for News Recommendation | IJCAI 2021 | Item | [[Link]](https://www.ijcai.org/proceedings/2021/462) |
-| Pre-trained Language Model based Ranking in Baidu Search | KDD 2021 | Item | [[Link]](https://arxiv.org/abs/2105.11108) |
-| Pre-trained Language Model for Web-scale Retrieval in Baidu Search | KDD 2021 | Item | [[Link]](https://arxiv.org/abs/2106.03373) |
-| Empowering News Recommendation with Pre-trained Language Models | SIGIR 2021 | Item | [[Link]](https://arxiv.org/abs/2104.07413) |
-| Towards Universal Sequence Representation Learning for Recommender Systems | KDD 2022 | Item | [[Link]](https://arxiv.org/abs/2206.05941) |
-| Boosting Deep CTR Prediction with a Plug-and-Play Pre-trainer for News Recommendation | COLING 2022 | Item | [[Link]](https://aclanthology.org/2022.coling-1.249/) |
-| MM-Rec: Visiolinguistic Model Empowered Multimodal News Recommendation | SIGIR 2022 | Item | [[Link]](https://dl.acm.org/doi/abs/10.1145/3477495.3531896) |
-| Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation | EMNLP 2022 | Item | [[Link]](https://arxiv.org/abs/2112.00944) |
-| TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations | Arxiv 2022 | Item | [[Link]](https://arxiv.org/abs/2209.07562) |
-| Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders | WWW 2023 | Item | [[Link]](https://arxiv.org/abs/2210.12316) |
-| Improving Code Example Recommendations on Informal Documentation Using BERT and Query-Aware LSH: A Comparative Study | Arxiv 2023 | Item | [[Link]](https://arxiv.org/abs/2305.03017v1) |
-| Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15036) |
-| CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models | ENLSP 2021 | User & Item | [[Link]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf) |
-| Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited | SIGIR 2023 | Item | [[Link]](https://arxiv.org/abs/2303.13835) |
-| Zero-Shot Recommender Systems | Arxiv 2021 | Item | [[Link]](https://arxiv.org/abs/2105.08318) |
-| PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models | ICPC 2022 | [[Link]](https://arxiv.org/abs/2203.10965) |
+| **Name** | **Paper** | **LLM Backbone (Largest)** | **Tuning Strategy** | **Publication** | **Link** |
+|:---|:---|:---:|:---:|:---:|:---:|
+| | U-BERT: Pre-training User Representations for Improved Recommendation |  |  | AAAI 2021 | [[Link]](https://ojs.aaai.org/index.php/AAAI/article/view/16557) |
+| | UNBERT: User-News Matching BERT for News Recommendation |  |  | IJCAI 2021 | [[Link]](https://www.ijcai.org/proceedings/2021/462) |
+| | Pre-trained Language Model based Ranking in Baidu Search |  |  | KDD 2021 | [[Link]](https://arxiv.org/abs/2105.11108) |
+| | Pre-trained Language Model for Web-scale Retrieval in Baidu Search |  |  | KDD 2021 | [[Link]](https://arxiv.org/abs/2106.03373) |
+| | Empowering News Recommendation with Pre-trained Language Models |  |  | SIGIR 2021 | [[Link]](https://arxiv.org/abs/2104.07413) |
+| | Towards Universal Sequence Representation Learning for Recommender Systems |  |  | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.05941) |
+| | Boosting Deep CTR Prediction with a Plug-and-Play Pre-trainer for News Recommendation |  |  | COLING 2022 | Item | [[Link]](https://aclanthology.org/2022.coling-1.249/) |
+| | MM-Rec: Visiolinguistic Model Empowered Multimodal News Recommendation |  |  | SIGIR 2022 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3477495.3531896) |
+| | Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation |  |  | EMNLP 2022 | [[Link]](https://arxiv.org/abs/2112.00944) |
+| | TwHIN-BERT: A Socially-Enriched Pre-trained Language Model for Multilingual Tweet Representations |  |  | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2209.07562) |
+| | Learning Vector-Quantized Item Representation for Transferable Sequential Recommenders |  |  | WWW 2023 | [[Link]](https://arxiv.org/abs/2210.12316) |
+| | Improving Code Example Recommendations on Informal Documentation Using BERT and Query-Aware LSH: A Comparative Study |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.03017v1) |
+| | Exploring Adapter-based Transfer Learning for Recommender Systems: Empirical Studies and Practical Insights |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15036) |
+| | CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models |  |  | ENLSP 2021 | [[Link]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf) |
+| | Where to Go Next for Recommender Systems? ID- vs. Modality-based Recommender Models Revisited |  |  | SIGIR 2023 | [[Link]](https://arxiv.org/abs/2303.13835) |
+| | Zero-Shot Recommender Systems |  |  | Arxiv 2021 | | [[Link]](https://arxiv.org/abs/2105.08318) |
+|  | PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models |  |  | ICPC 2022 | [[Link]](https://arxiv.org/abs/2203.10965) |
 
 </p>
 </details>
@@ -58,50 +50,43 @@ The abbreviations we use are as follows:
 <details><summary><b>1.3 LLM as Scoring/Ranking Function</b></summary>
 <p>
 
-<b>1.3.1 Discriminative Function</b>
-| **Paper** | **Publication** | **Link** |
-|:---|:---:|:---:|
-| Language Models as Recommender Systems: Evaluations and Limitations | ICBINB 2021 | [[Link]](https://openreview.net/forum?id=hFx3fY7-m9b) |
-| PTab: Using the Pre-trained Language Model for Modeling Tabular Data | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2209.08060) |
-| Zero-Shot Recommendation as Language Modeling | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2112.04184) |
-| UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation | ACL 2023 | [[Link]](https://arxiv.org/abs/2305.15756) |
-| Text Is All You Need: Learning Language Representations for Sequential Recommendation | KDD 2023 | [[Link]](https://arxiv.org/abs/2305.13731v1) |
-| TabLLM: Few-shot Classification of Tabular Data with Large Language Models | AISTATS 2023 | [[Link]](https://arxiv.org/abs/2210.10723) |
-| Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction | Arxiv 2023 | [[Link]](https://arxiv.org/pdf/2305.06474.pdf) |
-| BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15673v1) |
-| Prompt Learning for News Recommendation | SIGIR 2023 | [[Link]](https://arxiv.org/abs/2304.05263) |
-| TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.00447) |
+| **Name** | **Paper** | **LLM Backbone (Largest)** | **Tuning Strategy** | **Publication** | **Link** |
+|:---|:---|:---:|:---:|:---:|:---:|
+|  | Language Models as Recommender Systems: Evaluations and Limitations |  |  | ICBINB 2021 | [[Link]](https://openreview.net/forum?id=hFx3fY7-m9b) |
+|  | PTab: Using the Pre-trained Language Model for Modeling Tabular Data |  |  | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2209.08060) |
+|  | Zero-Shot Recommendation as Language Modeling |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2112.04184) |
+|  | UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation |  |  | ACL 2023 | [[Link]](https://arxiv.org/abs/2305.15756) |
+|  | Text Is All You Need: Learning Language Representations for Sequential Recommendation |  |  | KDD 2023 | [[Link]](https://arxiv.org/abs/2305.13731v1) |
+|  | TabLLM: Few-shot Classification of Tabular Data with Large Language Models |  |  | AISTATS 2023 | [[Link]](https://arxiv.org/abs/2210.10723) |
+|  | Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/pdf/2305.06474.pdf) |
+|  | BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15673v1) |
+|  | Prompt Learning for News Recommendation |  |  | SIGIR 2023 | [[Link]](https://arxiv.org/abs/2304.05263) |
+|  | TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.00447) |
     
 <b>1.3.2 Generative Function</b>
-| **Paper** | **Publication** | **Link** |
-|:---|:---:|:---:|
-| GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03879) |
-| UP5: Unbiased Foundation Model for Fairness-aware Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12090) |
-| VIP5: Towards Multimodal Foundation Models for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.14302) |
-| How to Index Item IDs for Recommendation Foundation Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06569) |
-| Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07609) |
-| PALR: Personalization Aware LLMs for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07622) |
-| Large Language Models are Zero-Shot Rankers for Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.08845) |
-| Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.04518) |
-| Zero-Shot Next-Item Recommendation using Large Pretrained Language Models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03153) |
+
+| **Name** | **Paper** | **LLM Backbone (Largest)** | **Tuning Strategy** | **Publication** | **Link** |
+|:---|:---|:---:|:---:|:---:|:---:|
+|  | GPT4Rec: A Generative Framework for Personalized Recommendation and User Interests Interpretation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03879) |
+|  | UP5: Unbiased Foundation Model for Fairness-aware Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12090) |
+|  | VIP5: Towards Multimodal Foundation Models for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.14302) |
+|  | How to Index Item IDs for Recommendation Foundation Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06569) |
+|  | Is ChatGPT Fair for Recommendation? Evaluating Fairness in Large Language Model Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07609) |
+|  | PALR: Personalization Aware LLMs for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07622) |
+|  | Large Language Models are Zero-Shot Rankers for Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.08845) |
+|  | Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.04518) |
+|  | Zero-Shot Next-Item Recommendation using Large Pretrained Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03153) |
 
 <b>1.3.2 Hybrid Function</b>
-| **Paper** | **Publication** | **Link** |
-|:---|:---:|:---:|
-| M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2205.08084) |
-| Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) | RecSys 2022 | [[Link]](https://arxiv.org/abs/2203.13366) |
-| Is ChatGPT a Good Recommender? A Preliminary Study | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.10149) |
-| Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.09542) |
-| Uncovering ChatGPT's Capabilities in Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.02182) |
-| Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07001) |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| Recommender Systems with Generative Retrieval | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
-| What does BERT know about books, movies and music? Probing BERT for Conversational Recommendation | RecSys 2020 | [[Link]](https://arxiv.org/abs/2007.15356) |
-| Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples! | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2303.08559) |
-| StructGPT: A General Framework for Large Language Model to Reason over Structured Data | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.09645) |
-| LANISTR: Multimodal Learning from Structured and Unstructured Data | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.16556) |
+
+| **Name** | **Paper** | **LLM Backbone (Largest)** | **Tuning Strategy** | **Publication** | **Link** |
+|:---|:---|:---:|:---:|:---:|:---:|
+|  | M6-Rec: Generative Pretrained Language Models are Open-Ended Recommender Systems |  |  | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2205.08084) |
+|  | Recommendation as Language Processing (RLP): A Unified Pretrain, Personalized Prompt & Predict Paradigm (P5) |  |  | RecSys 2022 | [[Link]](https://arxiv.org/abs/2203.13366) |
+|  | Is ChatGPT a Good Recommender? A Preliminary Study |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.10149) |
+|  | Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.09542) |
+|  | Uncovering ChatGPT's Capabilities in Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.02182) |
+|  | Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07001) |
 
 </p>
 </details>
@@ -109,11 +94,11 @@ The abbreviations we use are as follows:
 <details><summary><b>1.4 LLM as RS Pipeline Controller</b></summary>
 <p>
     
-| **Paper** | **Publication** | **Link** |
-|:---|:---:|:---:|
-| Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2303.14524) |
-| Leveraging Large Language Models in Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07961) |
-| Generative Recommendation: Towards Next-generation Recommender Paradigm | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03516) |
+| **Name** | **Paper** | **LLM Backbone (Largest)** | **Tuning Strategy** | **Publication** | **Link** |
+|:---|:---|:---:|:---:|:---:|:---:|
+|  | Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2303.14524) |
+|  | Leveraging Large Language Models in Conversational Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07961) |
+
 </p>
 </details>
 
@@ -124,6 +109,16 @@ The abbreviations we use are as follows:
 |:---|:---:|:---:|
 | A Survey on Large Language Models for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.19860) |
 | Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2302.03735) |
+    
+</p>
+</details>
+
+<details><summary><b>1.6 Paper Pending List: to be Added to Survey Paper</b></summary>
+<p>
+
+| **Paper** | **Publication** | **Link** |
+|:---|:---:|:---:|
+|  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.19860) |
 
 </p>
 </details>
