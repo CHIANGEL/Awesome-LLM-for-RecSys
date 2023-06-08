@@ -50,6 +50,8 @@ A collection of papers and resources on the large language model (LLM) related r
 <details><summary><b>1.3 LLM as Scoring/Ranking Function</b></summary>
 <p>
 
+<b>1.3.1 Item Scoring Task</b>
+
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **Tuning Strategy** | **Publication** | **Link** |
 |:---|:---|:---:|:---:|:---:|:---:|
 |  | Language Models as Recommender Systems: Evaluations and Limitations |  |  | ICBINB 2021 | [[Link]](https://openreview.net/forum?id=hFx3fY7-m9b) |
@@ -63,7 +65,7 @@ A collection of papers and resources on the large language model (LLM) related r
 |  | Prompt Learning for News Recommendation |  |  | SIGIR 2023 | [[Link]](https://arxiv.org/abs/2304.05263) |
 |  | TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.00447) |
     
-<b>1.3.2 Generative Function</b>
+<b>1.3.2 Item Generation Task</b>
 
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **Tuning Strategy** | **Publication** | **Link** |
 |:---|:---|:---:|:---:|:---:|:---:|
@@ -77,7 +79,7 @@ A collection of papers and resources on the large language model (LLM) related r
 |  | Sparks of Artificial General Recommender (AGR): Early Experiments with ChatGPT |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.04518) |
 |  | Zero-Shot Next-Item Recommendation using Large Pretrained Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03153) |
 
-<b>1.3.2 Hybrid Function</b>
+<b>1.3.3 Hybrid Task</b>
 
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **Tuning Strategy** | **Publication** | **Link** |
 |:---|:---|:---:|:---:|:---:|:---:|
@@ -118,7 +120,7 @@ A collection of papers and resources on the large language model (LLM) related r
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
-|  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.19860) |
+| https://arxiv.org/abs/2306.00074 | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.00074) |
 
 </p>
 </details>
