@@ -1,4 +1,4 @@
-# Awesome-LLM-for-RecSys
+# Awesome-LLM-for-RecSys [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of papers and resources on the large language model (LLM) related recommender system topics.
 
@@ -33,7 +33,7 @@ A collection of papers and resources on the large language model (LLM) related r
 | CTR-BERT | CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models | Customized BERT (1.5B) | Full Finetuning | ENLSP 2021 | [[Link]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf) |
 | ZESRec | Zero-Shot Recommender Systems | BERT-base (110M) | Frozen | Arxiv 2021 | [[Link]](https://arxiv.org/abs/2105.08318) |
 | UniSRec | Towards Universal Sequence Representation Learning for Recommender Systems | BERT-base (110M) | Frozen | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.05941) |
-| PREC | Boosting Deep CTR Prediction with a Plug-and-Play Pre-trainer for News Recommendation | BERT-base (110M) | Full Finetuning | COLING 2022 | Item | [[Link]](https://aclanthology.org/2022.coling-1.249/) |
+| PREC | Boosting Deep CTR Prediction with a Plug-and-Play Pre-trainer for News Recommendation | BERT-base (110M) | Full Finetuning | COLING 2022 | [[Link]](https://aclanthology.org/2022.coling-1.249/) |
 | MM-Rec | MM-Rec: Visiolinguistic Model Empowered Multimodal News Recommendation | BERT-base (110M) | Full Finetuning | SIGIR 2022 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3477495.3531896) |
 | Tiny-NewsRec | Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation | UniLMv2-base (110M) | Full Finetuning | EMNLP 2022 | [[Link]](https://arxiv.org/abs/2112.00944) |
 | PLM4Tag | PTM4Tag: Sharpening Tag Recommendation of Stack Overflow Posts with Pre-trained Models | CodeBERT (125M) | Full Finetuning | ICPC 2022 | [[Link]](https://arxiv.org/abs/2203.10965) |
@@ -92,7 +92,7 @@ A collection of papers and resources on the large language model (LLM) related r
 </p>
 </details>
 
-<details><summary><b>1.4 LLM as RS Pipeline Controller</b></summary>
+<details><summary><b>1.4 LLM for RS Pipeline Controller</b></summary>
 <p>
     
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
@@ -129,8 +129,6 @@ A collection of papers and resources on the large language model (LLM) related r
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
-| https://arxiv.org/abs/2306.00074 | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.00074) |
-| https://arxiv.org/abs/2306.00074 | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.00074) |
 
 </p>
 </details>
@@ -139,14 +137,14 @@ A collection of papers and resources on the large language model (LLM) related r
 
 The datasets for LLM-related RS topics should maintain the original samantic/textual features, instead of anonymous feature IDs.
 
-| **Dataset** | **Link** |
-|:---:|:---:|
-| MovieLens | [[Link]](https://grouplens.org/datasets/movielens/1m/) |
-| Amazon | [[Link]](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) |
-| BookCrossing | [[Link]](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) |
-| GoodReads | [[Link]](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home) |
-| Anime | [[Link]](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) |
-| TABLET | [[Link]](https://dylanslacks.website/Tablet) |
+| **Dataset** | **RS Scenario** | **Link** |
+|:---:|:---:|:---:|
+| MovieLens | Movie | [[Link]](https://grouplens.org/datasets/movielens/1m/) |
+| Amazon | E-commerce | [[Link]](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) |
+| BookCrossing | Book | [[Link]](http://www2.informatik.uni-freiburg.de/~cziegler/BX/) |
+| GoodReads | Book | [[Link]](https://sites.google.com/eng.ucsd.edu/ucsdbookgraph/home) |
+| Anime | Anime | [[Link]](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) |
+| TABLET | Tabular | [[Link]](https://dylanslacks.website/Tablet) |
 
 ## 3. Related Repositories
 
@@ -155,3 +153,10 @@ The datasets for LLM-related RS topics should maintain the original samantic/tex
 | [rs-llm-paper-list](https://github.com/wwliu555/rs-llm-paper-list) | [wwliu555](https://github.com/wwliu555) |
 | [awesome-recommend-system-pretraining-papers](https://github.com/archersama/awesome-recommend-system-pretraining-papers) | [archersama](https://github.com/archersama) |
 | [LLM4Rec](https://github.com/WLiK/LLM4Rec) | [WLiK](https://github.com/WLiK) |
+
+## Contributing
+👍 Welcome to contribute to this repository.
+
+If you have come across relevant resources or found some errors in this repesitory, feel free to open an issue or submit a pull request.
+
+**Contact**: chiangel [DOT] ljh [AT] gmail [DOT] com
