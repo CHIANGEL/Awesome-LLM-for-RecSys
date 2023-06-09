@@ -1,6 +1,10 @@
 # Awesome-LLM-for-RecSys [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A collection of papers and resources on the large language model (LLM) related recommender system topics.
+A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics.
+
+:satisfied: Please check out our survey paper for LLM-enhanced RS: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/abs/)
+
+LLM-enhanced RS is a rising and promising research direction. To catch up with the latest research progress, this repesitory will be actively maintained as well as our released survey paper.
 
 ## 1. Papers
 
@@ -124,7 +128,7 @@ A collection of papers and resources on the large language model (LLM) related r
 </p>
 </details>
 
-<details><summary><b>1.6 Paper Pending List: to be Added to Survey Paper</b></summary>
+<details><summary><b>1.6 Paper Pending List: to be Added to Our Survey Paper</b></summary>
 <p>
 
 | **Paper** | **Publication** | **Link** |
