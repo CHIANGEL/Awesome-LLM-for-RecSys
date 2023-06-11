@@ -2,7 +2,7 @@
 
 A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics. 
 
-:satisfied: Please check out our survey paper for LLM-enhanced RS: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/abs/)
+:satisfied: Please check out our survey paper for LLM-enhanced RS: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/blob/main/Our_Survey_Paper.pdf)
 
 To catch up with the latest research progress, this repesitory will be actively maintained as well as our released survey paper.
 
