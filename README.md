@@ -137,6 +137,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
+| Personalized Prompt Learning for Explainable Recommendation | TOIS | [[Link]](https://arxiv.org/abs/2202.07371) |
 
 </p>
 </details>
