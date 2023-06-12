@@ -2,7 +2,7 @@
 
 A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics. 
 
-:satisfied: Please check out our survey paper for LLM-enhanced RS: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/blob/main/Our_Survey_Paper.pdf)
+:satisfied: Please check out our survey paper for LLM-enhanced RS: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/abs/2306.05817)
 
 To catch up with the latest research progress, this repesitory will be actively maintained as well as our released survey paper.
 
@@ -168,3 +168,14 @@ The datasets for LLM-related RS topics should maintain the original samantic/tex
 If you have come across relevant resources or found some errors in this repesitory, feel free to open an issue or submit a pull request.
 
 **Contact**: chiangel [DOT] ljh [AT] gmail [DOT] com
+
+## Citation
+
+```
+@article{lin2023how,
+  title={How Can Recommender Systems Benefit from Large Language Models: A Survey},
+  author={Lin, Jianghao and Dai, Xinyi and Liu, Weiwen and Chen, Bo and Li, Xiangyang and Zhu, Chenxu and Guo, Huifeng and Yu, Yong and Tang, Ruiming and Zhang, Weinan},
+  journal={arXiv preprint arXiv:2306.05817},
+  year={2023}
+}
+```
