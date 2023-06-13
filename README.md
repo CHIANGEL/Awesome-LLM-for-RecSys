@@ -126,6 +126,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| Recommender Systems with Generative Retrieval | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 | Evaluation of Synthetic Datasets for Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2212.08167v1) |
 | Generative Recommendation: Towards Next-generation Recommender Paradigm | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03516) |
     
@@ -139,6 +140,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |:---|:---:|:---:|
 | Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
 | Personalized Prompt Learning for Explainable Recommendation | TOIS | [[Link]](https://arxiv.org/abs/2202.07371) |
+| Privately generating tabular data using language models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.04803) |
+| Large Language Model Augmented Narrative Driven Recommendations | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
 
 </p>
 </details>
