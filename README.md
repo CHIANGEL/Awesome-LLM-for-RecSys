@@ -4,7 +4,9 @@ A collection of AWESOME papers and resources on the large language model (LLM) r
 
 :satisfied: Please check out our survey paper for LLM-enhanced RS: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/abs/2306.05817)
 
-To catch up with the latest research progress, this repesitory will be actively maintained as well as our released survey paper.
+To catch up with the latest research progress, this repesitory will be actively maintained as well as our released survey paper. 
+
+Newly added papers will first appear in ``1.6 Paper Pending List: to be Added to Our Survey Paper`` section.
 
 ## 1. Papers
 
@@ -142,7 +144,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Personalized Prompt Learning for Explainable Recommendation | TOIS | [[Link]](https://arxiv.org/abs/2202.07371) |
 | Privately generating tabular data using language models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.04803) |
 | Large Language Model Augmented Narrative Driven Recommendations | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
-
+| Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.11700) |
+| TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2206.06190) |
+    
 </p>
 </details>
 
