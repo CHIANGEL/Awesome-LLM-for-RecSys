@@ -146,6 +146,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Large Language Model Augmented Narrative Driven Recommendations | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
 | Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.11700) |
 | TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2206.06190) |
+| PBNR: Prompt-based News Recommender System | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.07862) |
     
 </p>
 </details>
