@@ -138,15 +138,15 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 <details><summary><b>1.6 Paper Pending List: to be Added to Our Survey Paper</b></summary>
 <p>
 
-| **Paper** | **Publication** | **Link** |
-|:---|:---:|:---:|
-| Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
-| Personalized Prompt Learning for Explainable Recommendation | TOIS | [[Link]](https://arxiv.org/abs/2202.07371) |
-| Privately generating tabular data using language models | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.04803) |
-| Large Language Model Augmented Narrative Driven Recommendations | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
-| Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.11700) |
-| TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2206.06190) |
-| PBNR: Prompt-based News Recommender System | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.07862) |
+| **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
+|:---:|:---|:---:|:---:|:---:|:---:|
+|  | Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning |  |  | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
+|  | Personalized Prompt Learning for Explainable Recommendation |  |  | TOIS | [[Link]](https://arxiv.org/abs/2202.07371) |
+|  | Privately generating tabular data using language models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.04803) |
+| MINT | Large Language Model Augmented Narrative Driven Recommendations | GPT3 (175B) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
+|  | Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.11700) |
+|  | TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback |  |  | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2206.06190) |
+|  | PBNR: Prompt-based News Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.07862) |
     
 </p>
 </details>
