@@ -140,23 +140,24 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning |  |  | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
-|  | Personalized Prompt Learning for Explainable Recommendation |  |  | TOIS | [[Link]](https://arxiv.org/abs/2202.07371) |
+| UniCRS | Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning | DialoGPT-small (147M) | Frozen | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
 | MINT | Large Language Model Augmented Narrative Driven Recommendations | GPT3 (175B) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
 | TCF | Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights | OPT-175B (175B) | Frozen/ Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.11700) |
 | TransRec | TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback | BERT-base (110M) | Full Finetuning | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2206.06190) |
 | PBNR | PBNR: Prompt-based News Recommender System | T5-small (60M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.07862) |
 | ChatNews | A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.10702) |
-|  | OpenP5: Benchmarking Foundation Models for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.11134) |
 | GPTRec | Generative Sequential Recommendation with GPTRec | GPT2-Medium (355M) | Full Finetuning | Gen-IR@SIGIR 2023 | [[Link]](https://arxiv.org/abs/2306.11114) |
 | KAR | Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.10933) |
     
 </p>
 </details>
 
-## 2. Datasets
+## 2. Datasets & Benchmarks
 
-The datasets for LLM-related RS topics should maintain the original samantic/textual features, instead of anonymous feature IDs.
+The datasets & benchmarks for LLM-related RS topics should maintain the original samantic/textual features, instead of anonymous feature IDs.
+
+<details><summary><b>2.1 Datasets</b></summary>
+<p>
 
 | **Dataset** | **RS Scenario** | **Link** |
 |:---:|:---:|:---:|
@@ -166,6 +167,20 @@ The datasets for LLM-related RS topics should maintain the original samantic/tex
 | GoodReads | Book | [[Link]](https://mengtingwan.github.io/data/goodreads.html) |
 | Anime | Anime | [[Link]](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) |
 | TABLET | Tabular | [[Link]](https://dylanslacks.website/Tablet) |
+    
+</p>
+</details>
+
+<details><summary><b>2.2 Benchmarks</b></summary>
+<p>
+
+| **Benchmarks** | **Webcite Link** | **Paper** |
+|:---:|:---:|:---:|
+| OpenP5 | [[Link]](https://github.com/agiresearch/OpenP5) | [[Paper]](https://arxiv.org/abs/2306.11134) |
+| TABLET | [[Link]](https://dylanslacks.website/Tablet) | [[Paper]](https://arxiv.org/abs/2304.13188) |
+    
+</p>
+</details>
 
 ## 3. Related Repositories
 
