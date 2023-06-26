@@ -142,15 +142,14 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning |  |  | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
 |  | Personalized Prompt Learning for Explainable Recommendation |  |  | TOIS | [[Link]](https://arxiv.org/abs/2202.07371) |
-|  | Privately generating tabular data using language models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.04803) |
 | MINT | Large Language Model Augmented Narrative Driven Recommendations | GPT3 (175B) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
-|  | Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.11700) |
-|  | TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback |  |  | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2206.06190) |
-|  | PBNR: Prompt-based News Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.07862) |
-|  | A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.10702) |
+| TCF | Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights | OPT-175B (175B) | Frozen/ Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.11700) |
+| TransRec | TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback | BERT-base (110M) | Full Finetuning | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2206.06190) |
+| PBNR | PBNR: Prompt-based News Recommender System | T5-small (60M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.07862) |
+| ChatNews | A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.10702) |
 |  | OpenP5: Benchmarking Foundation Models for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.11134) |
-|  | Generative Sequential Recommendation with GPTRec |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.11114) |
-|  | Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.10933) |
+| GPTRec | Generative Sequential Recommendation with GPTRec | GPT2-Medium (355M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.11114) |
+| KAR | Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.10933) |
     
 </p>
 </details>
