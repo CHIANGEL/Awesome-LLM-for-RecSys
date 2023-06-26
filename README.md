@@ -148,7 +148,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | PBNR | PBNR: Prompt-based News Recommender System | T5-small (60M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.07862) |
 | ChatNews | A Preliminary Study of ChatGPT on News Recommendation: Personalization, Provider Fairness, Fake News | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.10702) |
 |  | OpenP5: Benchmarking Foundation Models for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.11134) |
-| GPTRec | Generative Sequential Recommendation with GPTRec | GPT2-Medium (355M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.11114) |
+| GPTRec | Generative Sequential Recommendation with GPTRec | GPT2-Medium (355M) | Full Finetuning | Gen-IR@SIGIR 2023 | [[Link]](https://arxiv.org/abs/2306.11114) |
 | KAR | Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.10933) |
     
 </p>
