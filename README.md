@@ -10,10 +10,12 @@ Newly added papers will first appear in ``1.6 Paper Pending List: to be Added to
 
 <details><summary><b>Paper Update Logs</b></summary>
 
+<p>
 <ul>
   <li>2023.06.12 - Paper <b>v2</b> released. Add summerization table in the appendix.</li>
   <li>2023.06.09 - Paper <b>v1</b> released. Initial version.</li>
 </ul>
+</p>
 
 </details>
 
