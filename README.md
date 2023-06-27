@@ -140,7 +140,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| UniCRS | Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning | DialoGPT-small (147M) | Frozen | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
 | MINT | Large Language Model Augmented Narrative Driven Recommendations | GPT3 (175B) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
 | TCF | Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights | OPT-175B (175B) | Frozen/ Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.11700) |
 | TransRec | TransRec: Learning Transferable Recommendation from Mixture-of-Modality Feedback | BERT-base (110M) | Full Finetuning | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2206.06190) |
