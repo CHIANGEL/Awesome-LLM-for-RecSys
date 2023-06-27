@@ -8,6 +8,15 @@ To catch up with the latest research progress, this repesitory will be actively 
 
 Newly added papers will first appear in ``1.6 Paper Pending List: to be Added to Our Survey Paper`` section.
 
+<details><summary><b>Paper Update Logs</b></summary>
+
+<ul>
+  <li>2023.06.12 - Paper <b>v2</b> released. Add summerization table in the appendix.</li>
+  <li>2023.06.09 - Paper <b>v1</b> released. Initial version.</li>
+</ul>
+
+</details>
+
 ## 1. Papers
 
 We classify papers according to where LLM will be adapted in the pipeline of RS, which is summarized in the figure below.
