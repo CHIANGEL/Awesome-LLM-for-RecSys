@@ -4,16 +4,15 @@ A collection of AWESOME papers and resources on the large language model (LLM) r
 
 :satisfied: Please check out our survey paper for LLM-enhanced RS: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/abs/2306.05817)
 
-To catch up with the latest research progress, this repesitory will be actively maintained as well as our released survey paper. 
+To catch up with the latest research progress, this repesitory will be actively maintained as well as our released survey paper. Newly added papers will first appear in ``1.6 Paper Pending List: to be Added to Our Survey Paper`` section.
 
-Newly added papers will first appear in ``1.6 Paper Pending List: to be Added to Our Survey Paper`` section.
-
-<details><summary><b>Paper Update Logs</b></summary>
+:rocket:	**2023.06.12 - Paper v2 released**: Add summerization table in the appendix.
+<details><summary><b>Survey Paper Update Logs</b></summary>
 
 <p>
 <ul>
-  <li>2023.06.12 - Paper <b>v2</b> released. Add summerization table in the appendix.</li>
-  <li>2023.06.09 - Paper <b>v1</b> released. Initial version.</li>
+  <li><b>2023.06.12 - Paper v2 released</b>: Add summerization table in the appendix.</li>
+  <li><b>2023.06.09 - Paper v1 released</b>: Initial version.</li>
 </ul>
 </p>
 
