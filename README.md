@@ -39,7 +39,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | ICPC | Large Language Models for User Interest Journeys | LaMDA (137B) | Full Finetuning/ Prompt Tuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15498) |
 | DPLLM | Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models | T5-XL (3B) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05973) |
 | KAR | Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.10933) |
-| MINT | Large Language Model Augmented Narrative Driven Recommendations | GPT3 (175B) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
+| MINT | Large Language Model Augmented Narrative Driven Recommendations | GPT3 (175B) | Frozen | RecSys 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
 
 </p>
 </details>
@@ -159,6 +159,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
+|  | Can ChatGPT Make Fair Recommendation? A Fairness Evaluation Benchmark for Recommendation with Large Language Model |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
+|  | Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
+|  | LLM4Rec: Large Language Models for Recommendation via A Lightweight Tuning Framework |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
+|  | CR-SoRec: BERT driven Consistency Regularization for Social Recommendation |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
 
 </p>
 </details>
