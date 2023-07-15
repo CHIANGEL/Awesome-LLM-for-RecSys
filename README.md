@@ -166,6 +166,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | GenRec | Text based Large Language Model for Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
 |  | Towards Personalized Cold-Start Recommendation with Prompts |  |  |  | [[Link]](https://arxiv.org/abs/2306.17256) |
 |  | Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2306.01475) |
+|  | Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2307.05722) |
 
 </p>
 </details>
