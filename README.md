@@ -167,6 +167,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2306.01475) |
 |  | Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2307.05722) |
 | TIGER | Recommender Systems with Generative Retrieval |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
+|  | Better Generalization with Semantic IDs: A case study in Ranking for Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.08121) |
 
 </p>
 </details>
