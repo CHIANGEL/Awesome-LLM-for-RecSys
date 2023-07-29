@@ -178,7 +178,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 ## 2. Datasets & Benchmarks
 
-The datasets & benchmarks for LLM-related RS topics should maintain the original samantic/textual features, instead of anonymous feature IDs.
+The datasets & benchmarks for LLM-related RS topics should maintain the original semantic/textual features, instead of anonymous feature IDs.
 
 ### 2.1 Datasets
 
