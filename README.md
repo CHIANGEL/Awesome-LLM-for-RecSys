@@ -172,6 +172,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Enhancing Job Recommendation through LLM-based Generative Adversarial Networks |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.10747) |
 |  | Generative Job Recommendations with Large Language Model |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.02157) |
 |  | Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2307.14225) |
+|  | LLM-Rec: Personalized Recommendation via Prompting Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.15780) |
 
 </p>
 </details>
