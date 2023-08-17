@@ -211,6 +211,7 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 | [awesome-recommend-system-pretraining-papers](https://github.com/archersama/awesome-recommend-system-pretraining-papers) | [archersama](https://github.com/archersama) |
 | [LLM4Rec](https://github.com/WLiK/LLM4Rec) | [WLiK](https://github.com/WLiK) |
 | [Awesome-LLM4RS-Papers](https://github.com/nancheng58/Awesome-LLM4RS-Papers) | [nancheng58](https://github.com/nancheng58) |
+| [LLM4IR-Survey](https://github.com/RUC-NLPIR/LLM4IR-Survey) | [RUC-NLPIR](https://github.com/RUC-NLPIR) |
 
 ## Contributing
 👍 Welcome to contribute to this repository.
