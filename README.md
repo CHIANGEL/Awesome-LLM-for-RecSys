@@ -139,7 +139,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
-| When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.16376) |
+| Large Language Models for Information Retrieval: A Survey | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.07107) |
+| When Large Language Models Meet Personalization: Perspectives of Challenges and Opportunities | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.16376) | |
 | Recommender Systems in the Era of Large Language Models (LLMs) | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.02046) |
 | A Survey on Large Language Models for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.19860) |
 | Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2302.03735) |
