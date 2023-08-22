@@ -189,6 +189,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Enhancing Recommender Systems with Large Language Model Reasoning Graphs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
 |  | Large Language Models as Zero-Shot Conversational Recommenders |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10053) |
 |  | RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.09904) |
+|  | TBIN: Modeling Long Textual Behavior Data for CTR Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08483) |
 
 </p>
 </details>
