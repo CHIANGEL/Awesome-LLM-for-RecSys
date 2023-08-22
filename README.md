@@ -164,7 +164,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
 |  | LLM4Rec: Large Language Models for Recommendation via A Lightweight Tuning Framework |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
 |  | CR-SoRec: BERT driven Consistency Regularization for Social Recommendation |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
-| GenRec | Text based Large Language Model for Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
+| GenRec | GenRec: Large Language Model for Generative Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
 |  | Towards Personalized Cold-Start Recommendation with Prompts |  |  |  | [[Link]](https://arxiv.org/abs/2306.17256) |
 |  | Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2306.01475) |
 |  | Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2307.05722) |
