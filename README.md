@@ -190,6 +190,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Large Language Models as Zero-Shot Conversational Recommenders |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10053) |
 |  | RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.09904) |
 |  | TBIN: Modeling Long Textual Behavior Data for CTR Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08483) |
+|  | LKPNR: LLM and KG for Personalized News Recommendation Framework |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.12028) |
+|  | LLMRec: Benchmarking Large Language Models on Recommendation Task |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.12241) |
+|  | ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.11131) |
 
 </p>
 </details>
