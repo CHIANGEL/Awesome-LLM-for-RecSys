@@ -193,6 +193,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | LKPNR: LLM and KG for Personalized News Recommendation Framework |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.12028) |
 |  | LLMRec: Benchmarking Large Language Models on Recommendation Task |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.12241) |
 |  | ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.11131) |
+|  | Prompt Distillation for Efficient LLM-based Recommendation |  |  | CIKM 2023 | [[Link]](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf) |
+|  | RecMind: Large Language Model Powered Agent For Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.14296) |
 
 </p>
 </details>
