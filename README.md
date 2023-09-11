@@ -200,6 +200,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Text Matching Improves Sequential Recommendation by Reducing Popularity Biases |  |  | CIKM 2023 | [[Link]](https://arxiv.org/abs/2308.14029) |
 |  | Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.01026) |
 |  | Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.16505) |
+|  | Evaluating ChatGPT as a Recommender System: A Rigorous Approach |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.03613) |
 
 </p>
 </details>
