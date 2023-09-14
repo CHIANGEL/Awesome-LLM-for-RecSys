@@ -201,6 +201,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.01026) |
 |  | Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.16505) |
 |  | Evaluating ChatGPT as a Recommender System: A Rigorous Approach |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.03613) |
+|  | Unveiling Challenging Cases in Text-based Recommender Systems |  |  | RecSys Workshop 2023 | [[Link]](https://ceur-ws.org/Vol-3476/paper5.pdf) |
 
 </p>
 </details>
