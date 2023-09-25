@@ -167,7 +167,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
 |  | LLM4Rec: Large Language Models for Recommendation via A Lightweight Tuning Framework |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
 |  | CR-SoRec: BERT driven Consistency Regularization for Social Recommendation |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
-|  | Leveraging Large Language Models for Sequential Recommendation |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-3-tab) | 
+|  | Leveraging Large Language Models for Sequential Recommendation |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2309.09261) | 
 |  | Beyond Labels: Leveraging Deep Learning and LLMs for Content Metadata |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-6-tab) |
 | GenRec | GenRec: Large Language Model for Generative Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
 |  | Towards Personalized Cold-Start Recommendation with Prompts |  |  |  | [[Link]](https://arxiv.org/abs/2306.17256) |
@@ -205,6 +205,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Unveiling Challenging Cases in Text-based Recommender Systems |  |  | RecSys Workshop 2023 | [[Link]](https://ceur-ws.org/Vol-3476/paper5.pdf) |
 |  | Retrieval-augmented Recommender System: Enhancing Recommender Systems with Large Language Models |  |  | RecSys Doctoral Symposium 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3604915.3608889) |
 |  | User-Centric Conversational Recommendation: Adapting the Need of User with Large Language Models |  |  | RecSys Doctoral Symposium 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3604915.3608885) |
+|  | An Unified Search and Recommendation Foundation Model for Cold-Start Scenario |  |  | CIKM 2023 | [[Link]](https://arxiv.org/abs/2309.08939) |
+|  | JobRecoGPT -- Explainable job recommendations using LLMs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.11805) |
+|  | Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.10435) |
 
 </p>
 </details>
