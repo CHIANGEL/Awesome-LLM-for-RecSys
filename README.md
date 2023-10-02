@@ -190,7 +190,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Learning Supplementary NLP Features for CTR Prediction in Sponsored Search |  |  | KDD 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3534678.3539064) |
 |  | Leveraging Large Language Models for Pre-trained Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10837) |
 |  | Enhancing Recommender Systems with Large Language Model Reasoning Graphs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
-|  | Large Language Models as Zero-Shot Conversational Recommenders |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10053) |
+|  | Large Language Models as Zero-Shot Conversational Recommenders |  |  | CIKM 2023 | [[Link]](https://arxiv.org/abs/2308.10053) |
 |  | RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.09904) |
 |  | TBIN: Modeling Long Textual Behavior Data for CTR Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08483) |
 |  | LKPNR: LLM and KG for Personalized News Recommendation Framework |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.12028) |
