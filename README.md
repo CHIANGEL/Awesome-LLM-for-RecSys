@@ -208,6 +208,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | An Unified Search and Recommendation Foundation Model for Cold-Start Scenario |  |  | CIKM 2023 | [[Link]](https://arxiv.org/abs/2309.08939) |
 |  | JobRecoGPT -- Explainable job recommendations using LLMs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.11805) |
 |  | Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.10435) |
+|  | Towards Efficient and Effective Adaptation of Large Language Models for Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.10435) |
 
 </p>
 </details>
