@@ -116,7 +116,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | InstructRec | Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach | FLAN-T5-XL (3B) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07001) |
 | ChatGPT | Is ChatGPT a Good Recommender? A Preliminary Study | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.10149) |
 | ChatGPT | Is ChatGPT Good at Search? Investigating Large Language Models as Re-Ranking Agent | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.09542) |
-  | ChatGPT | Uncovering ChatGPT's Capabilities in Recommender Systems | ChatGPT | Frozen | RecSys 2023 | [[Link]](https://arxiv.org/abs/2305.02182) |
+| ChatGPT | Uncovering ChatGPT's Capabilities in Recommender Systems | ChatGPT | Frozen | RecSys 2023 | [[Link]](https://arxiv.org/abs/2305.02182) |
 
 </p>
 </details>
@@ -208,7 +208,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | An Unified Search and Recommendation Foundation Model for Cold-Start Scenario |  |  | CIKM 2023 | [[Link]](https://arxiv.org/abs/2309.08939) |
 |  | JobRecoGPT -- Explainable job recommendations using LLMs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.11805) |
 |  | Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.10435) |
-|  | Towards Efficient and Effective Adaptation of Large Language Models for Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.10435) |
+|  | Towards Efficient and Effective Adaptation of Large Language Models for Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.01612) |
 
 </p>
 </details>
