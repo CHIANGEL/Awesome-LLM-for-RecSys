@@ -173,7 +173,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Towards Personalized Cold-Start Recommendation with Prompts |  |  |  | [[Link]](https://arxiv.org/abs/2306.17256) |
 |  | Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2306.01475) |
 |  | Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2307.05722) |
-| TIGER | Recommender Systems with Generative Retrieval |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
+| TIGER | Recommender Systems with Generative Retrieval |  |  | NIPS 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 |  | Better Generalization with Semantic IDs: A case study in Ranking for Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.08121) |
 |  | Product Information Extraction using ChatGPT |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.14921) |
 |  | Enhancing Job Recommendation through LLM-based Generative Adversarial Networks |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.10747) |
