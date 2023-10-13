@@ -225,6 +225,7 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 
 | **Dataset** | **RS Scenario** | **Link** |
 |:---:|:---:|:---:|
+| Reddit-Movie | Conversational & Movie | [[Link]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys#large-language-models-as-zero-shot-conversational-recommenders) |
 | Amazon-M2 | E-commerce | [[Link]](https://arxiv.org/abs/2307.09688) |
 | MovieLens | Movie | [[Link]](https://grouplens.org/datasets/movielens/1m/) |
 | Amazon | E-commerce | [[Link]](https://cseweb.ucsd.edu/~jmcauley/datasets.html#amazon_reviews) |
