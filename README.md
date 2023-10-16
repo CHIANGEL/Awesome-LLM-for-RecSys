@@ -213,6 +213,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | A Multi-facet Paradigm to Bridge Large Language Model and Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06491) |
 |  | MuseChat: A Conversational Music Recommendation System for Videos |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06282) |
 |  | EcomGPT: Instruction-tuning Large Language Models with Chain-of-Task Tasks for E-commerce |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06966) |
+|  | ClickPrompt: CTR Models are Strong Prompt Generators for Adapting Language Models to CTR Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09234) |
 
 </p>
 </details>
