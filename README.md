@@ -219,6 +219,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | On Generative Agents in Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.10108) |
 |  | Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09874) |
 |  | Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09400) |
+|  | A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models |  |  |  Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09497) |
 
 </p>
 </details>
