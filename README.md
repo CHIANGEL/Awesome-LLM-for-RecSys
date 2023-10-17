@@ -216,6 +216,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | ClickPrompt: CTR Models are Strong Prompt Generators for Adapting Language Models to CTR Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09234) |
 |  | AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09233) |
 |  | Factual and Personalized Recommendations using Language Models and Reinforcement Learning |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06176) |
+|  | On Generative Agents in Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.10108) |
+|  | Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09874) |
+|  | Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09400) |
 
 </p>
 </details>
