@@ -222,6 +222,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models |  |  |  Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09497) |
 |  | Language Models As Semantic Indexers |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.07815) |
 |  | Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.13540) |
+|  | MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation |  |  | MM 2023 | [[Link]](https://arxiv.org/abs/2308.11175) |
 
 </p>
 </details>
