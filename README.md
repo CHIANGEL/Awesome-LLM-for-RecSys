@@ -187,7 +187,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | BERT4CTR: An Efficient Framework to Combine Pre-trained Language Model with Non-textual Features for CTR Prediction |  |  | KDD 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3580305.3599780) |
 |  | A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08434) |
 |  | Knowledge Prompt-tuning for Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08459) |
-|  | Learning Supplementary NLP Features for CTR Prediction in Sponsored Search |  |  | KDD 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3534678.3539064) |
+|  | Learning Supplementary NLP Features for CTR Prediction in Sponsored Search |  |  | KDD 2022 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3534678.3539064) |
 |  | Leveraging Large Language Models for Pre-trained Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10837) |
 |  | Enhancing Recommender Systems with Large Language Model Reasoning Graphs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
 |  | Large Language Models as Zero-Shot Conversational Recommenders |  |  | CIKM 2023 | [[Link]](https://arxiv.org/abs/2308.10053) |
