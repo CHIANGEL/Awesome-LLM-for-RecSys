@@ -223,6 +223,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Language Models As Semantic Indexers |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.07815) |
 |  | Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.13540) |
 |  | MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation |  |  | MM 2023 | [[Link]](https://arxiv.org/abs/2308.11175) |
+|  | Representation Learning with Large Language Models for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.15950) |
+|  | One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14304) |
+|  | Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14122) |
 
 </p>
 </details>
