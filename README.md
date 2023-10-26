@@ -226,6 +226,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Representation Learning with Large Language Models for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.15950) |
 |  | One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14304) |
 |  | Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14122) |
+|  | Multiple Key-value Strategy in Recommendation Systems Incorporating Large Language Model |  |  | CIKM GenRec 2023 | [[Link]](https://arxiv.org/abs/2310.16409) |
 
 </p>
 </details>
