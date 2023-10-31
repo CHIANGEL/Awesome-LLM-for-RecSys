@@ -231,6 +231,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.16738) |
 |  | Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14626) |
 |  | LLMRec: Large Language Models with Graph Augmentation for Recommendation |  |  | WSDM 2023 | [[Link]](https://llmrec.files.wordpress.com/2023/10/llmrec-2.pdf) |
+|  | CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19488) |
+|  | ALT: Towards Fine-grained Alignment between Language and CTR Models for Click-Through Rate Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19453) |
 
 
 </p>
