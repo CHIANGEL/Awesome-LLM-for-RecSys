@@ -233,7 +233,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | LLMRec: Large Language Models with Graph Augmentation for Recommendation |  |  | WSDM 2023 | [[Link]](https://llmrec.files.wordpress.com/2023/10/llmrec-2.pdf) |
 |  | CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19488) |
 |  | ALT: Towards Fine-grained Alignment between Language and CTR Models for Click-Through Rate Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19453) |
-
+|  | Enhancing Recommender Systems with Large Language Model Reasoning Graphs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
+|  | Large Language Model Can Interpret Latent Space of Sequential Recommender |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.20487) |
+|  | BTRec: BERT-Based Trajectory Recommendation for Personalized Tours |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19886) |
+|  | Large Multi-modal Encoders for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.20343) |
 
 </p>
 </details>
