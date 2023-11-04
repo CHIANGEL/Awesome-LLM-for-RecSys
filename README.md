@@ -237,6 +237,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Large Language Model Can Interpret Latent Space of Sequential Recommender |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.20487) |
 |  | BTRec: BERT-Based Trajectory Recommendation for Personalized Tours |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19886) |
 |  | Large Multi-modal Encoders for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.20343) |
+|  | Collaborative Large Language Model for Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01343) |
+|  | Recommendations by Concise User Profiles from Review Text |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01314) |
 
 </p>
 </details>
