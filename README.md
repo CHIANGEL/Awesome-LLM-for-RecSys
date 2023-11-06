@@ -90,6 +90,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | BookGPT | BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15673v1) |
 | TALLRec | TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation | LLaMA (7B) | LoRA | RecSys 2023 | [[Link]](https://arxiv.org/abs/2305.00447) |
 | PBNR | PBNR: Prompt-based News Recommender System | T5-small (60M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.07862) |
+| LLMRec | LLMRec: Large Language Models with Graph Augmentation for Recommendation | ChatGPT | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/pdf/2311.00423.pdf) |
     
 <b>1.3.2 Item Generation Task</b>
 
@@ -259,6 +260,7 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 | GoodReads | Book | [[Link]](https://mengtingwan.github.io/data/goodreads.html) |
 | Anime | Anime | [[Link]](https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database) |
 | PixelRec | Short Video | [[Link]](https://github.com/westlake-repl/PixelRec) |
+| Netflix | Movie | [[Link]](https://github.com/HKUDS/LLMRec) |
     
 ### 2.2 Benchmarks
 
