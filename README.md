@@ -241,6 +241,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Collaborative Large Language Model for Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01343) |
 |  | Recommendations by Concise User Profiles from Review Text |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01314) |
 |  | Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01555) |
+|  | LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking |  |  | PGAI@CIKM 2023 | [[Link]](https://arxiv.org/abs/2311.02089) |
+|  | ITEm: Unsupervised Image-Text Embedding Learning for eCommerce |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.02084) |
 
 </p>
 </details>
