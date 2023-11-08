@@ -243,6 +243,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01555) |
 |  | LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking |  |  | PGAI@CIKM 2023 | [[Link]](https://arxiv.org/abs/2311.02089) |
 |  | ITEm: Unsupervised Image-Text Embedding Learning for eCommerce |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.02084) |
+|  | Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.04199) |
+|  | OLaLa: Ontology Matching with Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.03837) |
+|  | Bridging the Information Gap Between Domain-Specific Model and General LLM for Personalized Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.03778) |
+|  | Large Language Model based Long-tail Query Rewriting in Taobao Search |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.03758) |
 
 </p>
 </details>
