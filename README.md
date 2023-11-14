@@ -247,6 +247,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | OLaLa: Ontology Matching with Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.03837) |
 |  | Bridging the Information Gap Between Domain-Specific Model and General LLM for Personalized Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.03778) |
 |  | Large Language Model based Long-tail Query Rewriting in Taobao Search |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.03758) |
+|  | ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.05956) |
+|  | Exploring Fine-tuning ChatGPT for News Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.05850) |
 
 </p>
 </details>
