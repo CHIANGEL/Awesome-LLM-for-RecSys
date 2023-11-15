@@ -250,6 +250,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.05956) |
 |  | Exploring Fine-tuning ChatGPT for News Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.05850) |
 |  | Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An Empirical Study |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.07054) |
+|  | Modeling User Viewing Flow using Large Language Models for Article Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.07619) |
 
 </p>
 </details>
