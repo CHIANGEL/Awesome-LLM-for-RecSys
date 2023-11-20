@@ -252,6 +252,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An Empirical Study |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.07054) |
 |  | Modeling User Viewing Flow using Large Language Models for Article Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.07619) |
 |  | Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.09049) |
+|  | Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10501) |
 
 </p>
 </details>
