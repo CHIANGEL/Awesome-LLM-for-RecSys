@@ -253,6 +253,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Modeling User Viewing Flow using Large Language Models for Article Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.07619) |
 |  | Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.09049) |
 |  | Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10501) |
+|  | RecExplainer: Aligning Large Language Models for Recommendation Model Interpretability |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10947) |
+|  | Knowledge Plugins: Enhancing Large Language Models for Domain-Specific Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10779) |
+|  | A BERT based Ensemble Approach for Sentiment Classification of Customer Reviews and its Application to Nudge Marketing in e-Commerce |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10782) |
 
 </p>
 </details>
