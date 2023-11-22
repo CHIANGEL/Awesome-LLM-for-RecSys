@@ -140,6 +140,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| A Survey on Large Language Models for Personalized and Explainable Recommendations | Arxiv 2023 |[[Link]](https://arxiv.org/abs/2311.12338) |
 | Large Language Models for Information Retrieval: A Survey By admin One Comment | Arxiv 2023 | [[Link]](https://your-restaurant-ai.com/large-language-models-for-information-retrieval-a-survey/) |
 | Large Language Models for Generative Recommendation: A Survey and Visionary Discussions | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.01157) |
 | Large Language Models for Information Retrieval: A Survey | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.07107) |
@@ -257,6 +258,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | RecExplainer: Aligning Large Language Models for Recommendation Model Interpretability |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10947) |
 |  | Knowledge Plugins: Enhancing Large Language Models for Domain-Specific Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10779) |
 |  | A BERT based Ensemble Approach for Sentiment Classification of Customer Reviews and its Application to Nudge Marketing in e-Commerce |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10782) |
+|  | Utilizing Language Models for Tour Itinerary Recommendation |  |  | PMAI@IJCAI 2023 | [[Link]](https://arxiv.org/abs/2311.12355) |
+|  | Adapting LLMs for Efficient, Personalized Information Retrieval: Methods and Implications |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.12287) |
 
 </p>
 </details>
