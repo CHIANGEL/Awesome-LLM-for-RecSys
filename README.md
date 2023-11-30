@@ -260,6 +260,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | A BERT based Ensemble Approach for Sentiment Classification of Customer Reviews and its Application to Nudge Marketing in e-Commerce |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10782) |
 |  | Utilizing Language Models for Tour Itinerary Recommendation |  |  | PMAI@IJCAI 2023 | [[Link]](https://arxiv.org/abs/2311.12355) |
 |  | Adapting LLMs for Efficient, Personalized Information Retrieval: Methods and Implications |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.12287) |
+|  | UFIN: Universal Feature Interaction Network for Multi-Domain Click-Through Rate Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.15493) |
 
 </p>
 </details>
