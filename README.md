@@ -261,6 +261,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Adapting LLMs for Efficient, Personalized Information Retrieval: Methods and Implications |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.12287) |
 |  | UFIN: Universal Feature Interaction Network for Multi-Domain Click-Through Rate Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.15493) |
 |  | ControlRec: Bridging the Semantic Gap between Language Model and Personalized Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.16441) |
+|  | LLaRA: Aligning Large Language Models with Sequential Recommenders |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.02445) |
+|  | E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.02443) |
 
 </p>
 </details>
