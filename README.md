@@ -264,6 +264,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | LLaRA: Aligning Large Language Models with Sequential Recommenders |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.02445) |
 |  | E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.02443) |
 |  | Large Language Models for Intent-Driven Session Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.07552) |
+|  | Multi-Modality is All You Need for Transferable Recommender Systems |  |  | ICDE 2024 | [[Link]](https://arxiv.org/abs/2312.09602) |
 
 </p>
 </details>
