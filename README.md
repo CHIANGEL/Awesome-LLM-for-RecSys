@@ -265,6 +265,11 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.02443) |
 |  | Large Language Models for Intent-Driven Session Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.07552) |
 |  | Multi-Modality is All You Need for Transferable Recommender Systems |  |  | ICDE 2024 | [[Link]](https://arxiv.org/abs/2312.09602) |
+|  | A Unified Framework for Multi-Domain CTR Prediction via Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.10743) |
+|  | DRDT: Dynamic Reflection with Divergent Thinking for LLM-based Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.11336) |
+|  | RecPrompt: A Prompt Tuning Framework for News Recommendation Using Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.10463) |
+|  | Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.10967) |
+|  | The Problem of Coherence in Natural Language Explanations of Recommendations |  |  | ECAI 2023 | [[Link]](https://arxiv.org/abs/2312.11356) |
 
 </p>
 </details>
