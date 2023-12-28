@@ -139,6 +139,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| User Modeling in the Era of Large Language Models: Current Research and Future Directions | IEEE Data Engineering Bulletin 2023 | [[Link]](https://arxiv.org/abs/2312.11518) |
 | A Survey on Large Language Models for Personalized and Explainable Recommendations | Arxiv 2023 |[[Link]](https://arxiv.org/abs/2311.12338) |
 | Large Language Models for Information Retrieval: A Survey By admin One Comment | Arxiv 2023 | [[Link]](https://your-restaurant-ai.com/large-language-models-for-information-retrieval-a-survey/) |
 | Large Language Models for Generative Recommendation: A Survey and Visionary Discussions | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.01157) |
@@ -270,6 +271,17 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | RecPrompt: A Prompt Tuning Framework for News Recommendation Using Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.10463) |
 |  | Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.10967) |
 |  | The Problem of Coherence in Natural Language Explanations of Recommendations |  |  | ECAI 2023 | [[Link]](https://arxiv.org/abs/2312.11356) |
+|  | Scaling Down, LiTting Up: Efficient Zero-Shot Listwise Reranking with Seq2seq Encoder-Decoder Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.16098) |
+|  | Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.16159) |
+|  | RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.16018) |
+|  | Large Language Models are Not Stable Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15746) |
+|  | Unlocking the Potential of Large Language Models for Explainable Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
+|  | Preliminary Study on Incremental Learning for Large Language Model-based Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15599) |
+|  | Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15450) |
+|  | The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15524) |
+|  | Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations |  |  | IEEE Access | [[Link]](https://arxiv.org/abs/2312.13557) |
+|  | dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.13264) |
+|  | Large Language Models for Intent-Driven Session Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.07552) |
 
 </p>
 </details>
