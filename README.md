@@ -282,6 +282,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations |  |  | IEEE Access | [[Link]](https://arxiv.org/abs/2312.13557) |
 |  | dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.13264) |
 |  | Large Language Models for Intent-Driven Session Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.07552) |
+|  | Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.16275) |
 
 </p>
 </details>
