@@ -283,6 +283,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.13264) |
 |  | Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.16275) |
 |  | Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs |  |  | WSDM 2024 | [[Link]](https://arxiv.org/abs/2312.14345) |
+|  | Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04057) |
+|  | ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.03605) |
 
 </p>
 </details>
