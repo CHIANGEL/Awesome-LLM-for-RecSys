@@ -285,6 +285,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs |  |  | WSDM 2024 | [[Link]](https://arxiv.org/abs/2312.14345) |
 |  | Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04057) |
 |  | ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.03605) |
+|  | Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04474) |
 
 </p>
 </details>
