@@ -288,6 +288,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.03605) |
 |  | Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04474) |
 |  | User Embedding Model for Personalized Language Prompting |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04858) |
+|  | Social-LLM: Modeling User Behavior at Scale using Language Models and Social Network Data |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.00893) |
 
 </p>
 </details>
