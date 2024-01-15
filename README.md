@@ -289,6 +289,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04474) |
 |  | User Embedding Model for Personalized Language Prompting |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04858) |
 |  | Social-LLM: Modeling User Behavior at Scale using Language Models and Social Network Data |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.00893) |
+|  | LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.06676) |
 
 </p>
 </details>
