@@ -32,7 +32,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
 | GReaT | Language Models are Realistic Tabular Data Generators | GPT2-medium (355M) | Full Finetuning | ICLR 2023 | [[Link]](https://arxiv.org/abs/2210.06280) |
-| GENRE | A First Look at LLM-Powered Generative News Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06566) |
+| ONCE | A First Look at LLM-Powered Generative News Recommendation | ChatGPT | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/abs/2305.06566) |
 | AnyPredict | AnyPredict: Foundation Model for Tabular Prediction | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12081) |
 | LLM4KGC | Knowledge Graph Completion Models are Few-shot Learners: An Empirical Study of Relation Labeling in E-commerce with LLMs | PaLM (540B)/ ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.09858v1) |
 | TagGPT | TagGPT: Large Language Models are Zero-shot Multimodal Taggers | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03022v1) |
@@ -40,6 +40,11 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | DPLLM | Privacy-Preserving Recommender Systems with Synthetic Query Generation using Differentially Private Large Language Models | T5-XL (3B) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.05973) |
 | KAR | Towards Open-World Recommendation with Knowledge Augmentation from Large Language Models | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.10933) |
 | MINT | Large Language Model Augmented Narrative Driven Recommendations | GPT3 (175B) | Frozen | RecSys 2023 | [[Link]](https://arxiv.org/abs/2306.02250) |
+| PIE | Product Information Extraction using ChatGPT | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.14921) |
+| LGIR | Enhancing Job Recommendation through LLM-based Generative Adversarial Networks | GhatGLM (6B) | Frozen | AAAI 2024 | [[Link]](https://arxiv.org/abs/2307.10747) |
+| GIRL | Generative Job Recommendations with Large Language Model | Full Finetuning | BELLE (7B) | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.02157) |
+| LLM-Rec | LLM-Rec: Personalized Recommendation via Prompting Large Language Models | text-davinci-003 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.15780) |
+| Agent4Rec | On Generative Agents in Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.10108) |
 
 </p>
 </details>
@@ -179,10 +184,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2307.05722) |
 | TIGER | Recommender Systems with Generative Retrieval |  |  | NIPS 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 |  | Better Generalization with Semantic IDs: A case study in Ranking for Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.08121) |
-| PIE | Product Information Extraction using ChatGPT | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.14921) |
-| LGIR | Enhancing Job Recommendation through LLM-based Generative Adversarial Networks | GhatGLM (6B) | Frozen | AAAI 2024 | [[Link]](https://arxiv.org/abs/2307.10747) |
-| GIRL | Generative Job Recommendations with Large Language Model | Full Finetuning | BELLE (7B) | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.02157) |
-| LLM-Rec | LLM-Rec: Personalized Recommendation via Prompting Large Language Models | text-davinci-003 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.15780) |
 |  | Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2308.03333) |
 |  | A Large Language Model Enhanced Conversational Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06212) |
 |  | LLaMA-E: Empowering E-commerce Authoring with Multi-Aspect Instruction Following |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.04913) |
@@ -219,7 +220,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | ClickPrompt: CTR Models are Strong Prompt Generators for Adapting Language Models to CTR Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09234) |
 |  | AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09233) |
 |  | Factual and Personalized Recommendations using Language Models and Reinforcement Learning |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06176) |
-|  | On Generative Agents in Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.10108) |
 |  | Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09874) |
 |  | Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09400) |
 |  | A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models |  |  |  Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09497) |
