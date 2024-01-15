@@ -181,9 +181,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Better Generalization with Semantic IDs: A case study in Ranking for Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.08121) |
 | PIE | Product Information Extraction using ChatGPT | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.14921) |
 | LGIR | Enhancing Job Recommendation through LLM-based Generative Adversarial Networks | GhatGLM (6B) | Frozen | AAAI 2024 | [[Link]](https://arxiv.org/abs/2307.10747) |
-|  | Generative Job Recommendations with Large Language Model |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.02157) |
-|  | Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2307.14225) |
-|  | LLM-Rec: Personalized Recommendation via Prompting Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.15780) |
+| GIRL | Generative Job Recommendations with Large Language Model | Full Finetuning | BELLE (7B) | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.02157) |
+| LLM-Rec | LLM-Rec: Personalized Recommendation via Prompting Large Language Models | text-davinci-003 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.15780) |
 |  | Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2308.03333) |
 |  | A Large Language Model Enhanced Conversational Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06212) |
 |  | LLaMA-E: Empowering E-commerce Authoring with Multi-Aspect Instruction Following |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.04913) |
