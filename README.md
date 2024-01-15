@@ -47,6 +47,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Agent4Rec | On Generative Agents in Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.10108) |
 | TF-DCon | Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09874) |
 | LLMRG | Enhancing Recommender Systems with Large Language Model Reasoning Graphs | GPT-4 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
+| RLMRec | Representation Learning with Large Language Models for Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.15950) |
 
 </p>
 </details>
@@ -226,7 +227,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Language Models As Semantic Indexers |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.07815) |
 |  | Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.13540) |
 |  | MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation |  |  | MM 2023 | [[Link]](https://arxiv.org/abs/2308.11175) |
-|  | Representation Learning with Large Language Models for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.15950) |
 |  | One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14304) |
 |  | Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14122) |
 |  | Multiple Key-value Strategy in Recommendation Systems Incorporating Large Language Model |  |  | CIKM GenRec 2023 | [[Link]](https://arxiv.org/abs/2310.16409) |
