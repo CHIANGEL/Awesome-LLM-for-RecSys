@@ -49,6 +49,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | RLMRec | Representation Learning with Large Language Models for Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.15950) |
 | LLMRec | LLMRec: Large Language Models with Graph Augmentation for Recommendation | ChatGPT | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/pdf/2311.00423.pdf) |
 | LLMRG | Enhancing Recommender Systems with Large Language Model Reasoning Graphs | GPT-4 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
+| SINGLE | Modeling User Viewing Flow using Large Language Models for Article Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.07619) |
 
 </p>
 </details>
@@ -252,7 +253,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | ID Embedding as Subtle Features of Content and Structure for Multimodal Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.05956) |
 |  | Exploring Fine-tuning ChatGPT for News Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.05850) |
 |  | Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An Empirical Study |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.07054) |
-|  | Modeling User Viewing Flow using Large Language Models for Article Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.07619) |
 |  | Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.09049) |
 |  | Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation |  |  | ICDM 2023 | [[Link]](https://arxiv.org/abs/2311.10501) |
 |  | RecExplainer: Aligning Large Language Models for Recommendation Model Interpretability |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10947) |
