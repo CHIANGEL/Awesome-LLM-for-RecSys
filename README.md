@@ -46,8 +46,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LLM-Rec | LLM-Rec: Personalized Recommendation via Prompting Large Language Models | text-davinci-003 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.15780) |
 | Agent4Rec | On Generative Agents in Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.10108) |
 | TF-DCon | Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09874) |
-| LLMRG | Enhancing Recommender Systems with Large Language Model Reasoning Graphs | GPT-4 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
 | RLMRec | Representation Learning with Large Language Models for Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.15950) |
+| LLMRec | LLMRec: Large Language Models with Graph Augmentation for Recommendation | ChatGPT | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/pdf/2311.00423.pdf) |
+| LLMRG | Enhancing Recommender Systems with Large Language Model Reasoning Graphs | GPT-4 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
 
 </p>
 </details>
@@ -235,7 +236,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14626) |
 |  | CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19488) |
 |  | FLIP: Towards Fine-grained Alignment between ID-based Models and Pretrained Language Models for CTR Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19453) |
-| LLMRec | LLMRec: Large Language Models with Graph Augmentation for Recommendation | ChatGPT | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/pdf/2311.00423.pdf) |
 |  | Enhancing Recommender Systems with Large Language Model Reasoning Graphs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
 |  | Large Language Model Can Interpret Latent Space of Sequential Recommender |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.20487) |
 |  | BTRec: BERT-Based Trajectory Recommendation for Personalized Tours |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19886) |
