@@ -81,6 +81,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | TBIN | TBIN: Modeling Long Textual Behavior Data for CTR Prediction | BERT-base (110M) | Frozen | DLP-RecSys 2023 | [[Link]](https://arxiv.org/abs/2308.08483) |
 | LKPNR | LKPNR: LLM and KG for Personalized News Recommendation Framework | LLaMA2 (7B) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.12028) |
 | S&R Foundation | An Unified Search and Recommendation Foundation Model for Cold-Start Scenario | ChatGLM (6B) | Frozen | CIKM 2023 | [[Link]](https://arxiv.org/abs/2309.08939) |
+| CollabContext | Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model | Instructor-XL (1.5B) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09400) |
+| Stack | A BERT based Ensemble Approach for Sentiment Classification of Customer Reviews and its Application to Nudge Marketing in e-Commerce | BERT-base (110M) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10782) |
+| N/A | Utilizing Language Models for Tour Itinerary Recommendation | BERT-base (110M) | Full Finetuning | PMAI@IJCAI 2023 | [[Link]](https://arxiv.org/abs/2311.12355) |
 | UFIN | UFIN: Universal Feature Interaction Network for Multi-Domain Click-Through Rate Prediction | Flan-T5-base (250M) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.15493) |
 
 </p>
@@ -186,7 +189,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | LLM4Rec: Large Language Models for Recommendation via A Lightweight Tuning Framework |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
 |  | CR-SoRec: BERT driven Consistency Regularization for Social Recommendation |  |  | RecSys 2023 | [[Link]](https://dl.acm.org/doi/fullHtml/10.1145/3604915.3608844) |
 |  | Leveraging Large Language Models for Sequential Recommendation |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2309.09261) | 
-|  | Beyond Labels: Leveraging Deep Learning and LLMs for Content Metadata |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-6-tab) |
 | GenRec | GenRec: Large Language Model for Generative Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
 |  | Towards Personalized Cold-Start Recommendation with Prompts |  |  |  | [[Link]](https://arxiv.org/abs/2306.17256) |
 |  | Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2306.01475) |
@@ -225,7 +227,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | ClickPrompt: CTR Models are Strong Prompt Generators for Adapting Language Models to CTR Prediction |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09234) |
 |  | AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09233) |
 |  | Factual and Personalized Recommendations using Language Models and Reinforcement Learning |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06176) |
-|  | Collaborative Contextualization: Bridging the Gap between Collaborative Filtering and Pre-trained Language Model |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09400) |
 |  | A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models |  |  |  Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09497) |
 |  | Language Models As Semantic Indexers |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.07815) |
 |  | Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.13540) |
@@ -258,8 +259,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Collaborative Word-based Pre-trained Item Representation for Transferable Recommendation |  |  | ICDM 2023 | [[Link]](https://arxiv.org/abs/2311.10501) |
 |  | RecExplainer: Aligning Large Language Models for Recommendation Model Interpretability |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10947) |
 |  | Knowledge Plugins: Enhancing Large Language Models for Domain-Specific Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10779) |
-|  | A BERT based Ensemble Approach for Sentiment Classification of Customer Reviews and its Application to Nudge Marketing in e-Commerce |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10782) |
-|  | Utilizing Language Models for Tour Itinerary Recommendation |  |  | PMAI@IJCAI 2023 | [[Link]](https://arxiv.org/abs/2311.12355) |
 |  | Adapting LLMs for Efficient, Personalized Information Retrieval: Methods and Implications |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.12287) |
 |  | ControlRec: Bridging the Semantic Gap between Language Model and Personalized Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.16441) |
 |  | LLaRA: Aligning Large Language Models with Sequential Recommenders |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.02445) |
