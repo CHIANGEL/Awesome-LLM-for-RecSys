@@ -172,6 +172,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| INTERS: Unlocking the Power of Large Language Models in Search with Instruction Tuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.06532) |
 | Evaluation of Synthetic Datasets for Conversational Recommender Systems | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2212.08167v1) |
 | Generative Recommendation: Towards Next-generation Recommender Paradigm | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03516) |
 | Towards Personalized Prompt-Model Retrieval for Generative Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.02205) |
@@ -287,6 +288,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | User Embedding Model for Personalized Language Prompting |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04858) |
 |  | Social-LLM: Modeling User Behavior at Scale using Language Models and Social Network Data |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.00893) |
 |  | LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.06676) |
+|  | LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.08217) |
 
 </p>
 </details>
