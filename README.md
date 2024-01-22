@@ -288,6 +288,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Social-LLM: Modeling User Behavior at Scale using Language Models and Social Network Data |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.00893) |
 |  | LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.06676) |
 |  | LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.08217) |
+|  | Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.10545) |
 
 </p>
 </details>
