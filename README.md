@@ -107,6 +107,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | BookGPT | BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15673v1) |
 | TALLRec | TALLRec: An Effective and Efficient Tuning Framework to Align Large Language Model with Recommendation | LLaMA (7B) | LoRA | RecSys 2023 | [[Link]](https://arxiv.org/abs/2305.00447) |
 | PBNR | PBNR: Prompt-based News Recommender System | T5-small (60M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.07862) |
+| CR-SoRec | CR-SoRec: BERT driven Consistency Regularization for Social Recommendation | BERT-base (110M) | Full Finetuning | RecSys 2023 | [[Link]](https://dl.acm.org/doi/fullHtml/10.1145/3604915.3608844) |
+| PromptRec | Towards Personalized Cold-Start Recommendation with Prompts | LLaMA (7B) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.17256) |
     
 <b>1.3.2 Item Generation Task</b>
 
@@ -186,10 +188,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
-|  | CR-SoRec: BERT driven Consistency Regularization for Social Recommendation |  |  | RecSys 2023 | [[Link]](https://dl.acm.org/doi/fullHtml/10.1145/3604915.3608844) |
 |  | Leveraging Large Language Models for Sequential Recommendation |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2309.09261) | 
 | GenRec | GenRec: Large Language Model for Generative Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
-|  | Towards Personalized Cold-Start Recommendation with Prompts |  |  |  | [[Link]](https://arxiv.org/abs/2306.17256) |
 |  | Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2306.01475) |
 |  | Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2307.05722) |
 | TIGER | Recommender Systems with Generative Retrieval |  |  | NIPS 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
