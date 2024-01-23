@@ -67,6 +67,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | CTR-BERT | CTR-BERT: Cost-effective knowledge distillation for billion-parameter teacher models | Customized BERT (1.5B) | Full Finetuning | ENLSP 2021 | [[Link]](https://neurips2021-nlp.github.io/papers/20/CameraReady/camera_ready_final.pdf) |
 | ZESRec | Zero-Shot Recommender Systems | BERT-base (110M) | Frozen | Arxiv 2021 | [[Link]](https://arxiv.org/abs/2105.08318) |
 | UniSRec | Towards Universal Sequence Representation Learning for Recommender Systems | BERT-base (110M) | Frozen | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.05941) |
+| SuKD | Learning Supplementary NLP Features for CTR Prediction in Sponsored Search | RoBERTa-large (355M) | Full Finetuning | KDD 2022 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3534678.3539064) |
 | PREC | Boosting Deep CTR Prediction with a Plug-and-Play Pre-trainer for News Recommendation | BERT-base (110M) | Full Finetuning | COLING 2022 | [[Link]](https://aclanthology.org/2022.coling-1.249/) |
 | MM-Rec | MM-Rec: Visiolinguistic Model Empowered Multimodal News Recommendation | BERT-base (110M) | Full Finetuning | SIGIR 2022 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3477495.3531896) |
 | Tiny-NewsRec | Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation | UniLMv2-base (110M) | Full Finetuning | EMNLP 2022 | [[Link]](https://arxiv.org/abs/2112.00944) |
@@ -109,9 +110,18 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | PBNR | PBNR: Prompt-based News Recommender System | T5-small (60M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.07862) |
 | CR-SoRec | CR-SoRec: BERT driven Consistency Regularization for Social Recommendation | BERT-base (110M) | Full Finetuning | RecSys 2023 | [[Link]](https://dl.acm.org/doi/fullHtml/10.1145/3604915.3608844) |
 | PromptRec | Towards Personalized Cold-Start Recommendation with Prompts | LLaMA (7B) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.17256) |
+| GLRec | Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations | BELLE-LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.05722) |
+| BERT4CTR | BERT4CTR: An Efficient Framework to Combine Pre-trained Language Model with Non-textual Features for CTR Prediction | RoBERTa-large (355M) | Full Finetuning | KDD 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3580305.3599780) |
+| ReLLa | ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation | Vicuna (13B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.11131) |
+| TASTE | Text Matching Improves Sequential Recommendation by Reducing Popularity Biases | T5-base (223M) | Full Finetuning | CIKM 2023 | [[Link]](https://arxiv.org/abs/2308.14029) |
+| N/A | Unveiling Challenging Cases in Text-based Recommender Systems | BERT-base (110M) | Full Finetuning | RecSys Workshop 2023 | [[Link]](https://ceur-ws.org/Vol-3476/paper5.pdf) |
 | ClickPrompt | ClickPrompt: CTR Models are Strong Prompt Generators for Adapting Language Models to CTR Prediction | RoBERTa-large (355M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09234) |
+| UPSR | Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language | T5-base (223M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.13540) |
+| LLM-Rec | One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems | OPT (6.7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14304) |
+| LLMRanker | Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels | Flan PaLM2 S | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14122) |
 | CoLLM | CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation | Vicuna (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19488) |
 | FLIP | FLIP: Towards Fine-grained Alignment between ID-based Models and Pretrained Language Models for CTR Prediction | RoBERTa-large (355M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19453) |
+| CLLM4Rec | Collaborative Large Language Model for Recommender Systems | GPT2 (110M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01343) |
 | E4SRec | E4SRec: An Elegant Effective Efficient Extensible Solution of Large Language Models for Sequential Recommendation | LLaMA2 (13B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.02443) |
     
 <b>1.3.2 Item Generation Task</b>
@@ -195,34 +205,28 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Leveraging Large Language Models for Sequential Recommendation |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2309.09261) | 
 | GenRec | GenRec: Large Language Model for Generative Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
 |  | Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2306.01475) |
-|  | Exploring Large Language Model for Graph Data Understanding in Online Job Recommendations |  |  |  | [[Link]](https://arxiv.org/abs/2307.05722) |
 | TIGER | Recommender Systems with Generative Retrieval |  |  | NIPS 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 |  | Better Generalization with Semantic IDs: A case study in Ranking for Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.08121) |
 |  | Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2308.03333) |
 |  | A Large Language Model Enhanced Conversational Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06212) |
 |  | LLaMA-E: Empowering E-commerce Authoring with Multi-Aspect Instruction Following |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.04913) |
 |  | The Unequal Opportunities of Large Language Models: Revealing Demographic Bias through Job Recommendations |  |  | EAAMO 2023 | [[Link]](https://arxiv.org/abs/2308.02053) |
-|  | BERT4CTR: An Efficient Framework to Combine Pre-trained Language Model with Non-textual Features for CTR Prediction |  |  | KDD 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3580305.3599780) |
 |  | A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08434) |
 |  | Knowledge Prompt-tuning for Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08459) |
-|  | Learning Supplementary NLP Features for CTR Prediction in Sponsored Search |  |  | KDD 2022 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3534678.3539064) |
 |  | Leveraging Large Language Models for Pre-trained Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10837) |
 |  | Large Language Models as Zero-Shot Conversational Recommenders |  |  | CIKM 2023 | [[Link]](https://arxiv.org/abs/2308.10053) |
 |  | RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.09904) |
 |  | LLMRec: Benchmarking Large Language Models on Recommendation Task |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.12241) |
-|  | ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.11131) |
 |  | Prompt Distillation for Efficient LLM-based Recommendation |  |  | CIKM 2023 | [[Link]](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf) |
 |  | RecMind: Large Language Model Powered Agent For Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.14296) |
-|  | Text Matching Improves Sequential Recommendation by Reducing Popularity Biases |  |  | CIKM 2023 | [[Link]](https://arxiv.org/abs/2308.14029) |
 |  | Zero-Shot Recommendations with Pre-Trained Large Language Models for Multimodal Nudging |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.01026) |
 |  | Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.16505) |
 |  | Evaluating ChatGPT as a Recommender System: A Rigorous Approach |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.03613) |
-|  | Unveiling Challenging Cases in Text-based Recommender Systems |  |  | RecSys Workshop 2023 | [[Link]](https://ceur-ws.org/Vol-3476/paper5.pdf) |
 |  | Retrieval-augmented Recommender System: Enhancing Recommender Systems with Large Language Models |  |  | RecSys Doctoral Symposium 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3604915.3608889) |
 |  | User-Centric Conversational Recommendation: Adapting the Need of User with Large Language Models |  |  | RecSys Doctoral Symposium 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3604915.3608885) |
 |  | JobRecoGPT -- Explainable job recommendations using LLMs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.11805) |
 |  | Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.10435) |
-|  | Towards Efficient and Effective Adaptation of Large Language Models for Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.01612) |
+| | Towards Efficient and Effective Adaptation of Large Language Models for Sequential Recommendation | DistilRoBERTa-base (83M) | Layerwise Adapter Tuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.01612) |
 |  | Lending Interaction Wings to Recommender Systems with Conversational Agents |  |  | NIPS 2023 | [[Link]](https://arxiv.org/abs/2310.04230) |
 |  | A Multi-facet Paradigm to Bridge Large Language Model and Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06491) |
 |  | MuseChat: A Conversational Music Recommendation System for Videos |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06282) |
@@ -231,10 +235,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Factual and Personalized Recommendations using Language Models and Reinforcement Learning |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06176) |
 |  | A Setwise Approach for Effective and Highly Efficient Zero-shot Ranking with Large Language Models |  |  |  Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09497) |
 |  | Language Models As Semantic Indexers |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.07815) |
-|  | Thoroughly Modeling Multi-domain Pre-trained Recommendation as Language |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.13540) |
 |  | MISSRec: Pre-training and Transferring Multi-modal Interest-aware Sequence Representation for Recommendation |  |  | MM 2023 | [[Link]](https://arxiv.org/abs/2308.11175) |
-|  | One Model for All: Large Language Models are Domain-Agnostic Recommendation Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14304) |
-|  | Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14122) |
 |  | Multiple Key-value Strategy in Recommendation Systems Incorporating Large Language Model |  |  | CIKM GenRec 2023 | [[Link]](https://arxiv.org/abs/2310.16409) |
 |  | LightLM: A Lightweight Deep and Narrow Language Model for Generative Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.17488) |
 |  | Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.16738) |
@@ -243,7 +244,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Large Language Model Can Interpret Latent Space of Sequential Recommender |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.20487) |
 |  | BTRec: BERT-Based Trajectory Recommendation for Personalized Tours |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19886) |
 |  | Large Multi-modal Encoders for Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.20343) |
-|  | Collaborative Large Language Model for Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01343) |
 |  | Recommendations by Concise User Profiles from Review Text |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01314) |
 |  | Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01555) |
 |  | LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking |  |  | PGAI@CIKM 2023 | [[Link]](https://arxiv.org/abs/2311.02089) |
