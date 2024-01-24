@@ -44,6 +44,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LGIR | Enhancing Job Recommendation through LLM-based Generative Adversarial Networks | GhatGLM (6B) | Frozen | AAAI 2024 | [[Link]](https://arxiv.org/abs/2307.10747) |
 | GIRL | Generative Job Recommendations with Large Language Model | Full Finetuning | BELLE (7B) | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.02157) |
 | LLM-Rec | LLM-Rec: Personalized Recommendation via Prompting Large Language Models | text-davinci-003 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.15780) |
+| LLaMA-E | LLaMA-E: Empowering E-commerce Authoring with Multi-Aspect Instruction Following | LLaMA (30B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.04913) |
 | Agent4Rec | On Generative Agents in Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.10108) |
 | TF-DCon | Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09874) |
 | RLMRec | Representation Learning with Large Language Models for Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.15950) |
@@ -212,10 +213,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
 |  | Leveraging Large Language Models for Sequential Recommendation |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2309.09261) | 
 | GenRec | GenRec: Large Language Model for Generative Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
-|  | Better Generalization with Semantic IDs: A case study in Ranking for Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.08121) |
 |  | Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2308.03333) |
 |  | A Large Language Model Enhanced Conversational Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06212) |
-|  | LLaMA-E: Empowering E-commerce Authoring with Multi-Aspect Instruction Following |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.04913) |
 |  | The Unequal Opportunities of Large Language Models: Revealing Demographic Bias through Job Recommendations |  |  | EAAMO 2023 | [[Link]](https://arxiv.org/abs/2308.02053) |
 |  | A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08434) |
 |  | Knowledge Prompt-tuning for Sequential Recommendation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08459) |
