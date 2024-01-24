@@ -81,6 +81,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LSH | Improving Code Example Recommendations on Informal Documentation Using BERT and Query-Aware LSH: A Comparative Study | BERT-base (110M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.03017v1) |
 | TCF | Exploring the Upper Limits of Text-Based Collaborative Filtering Using Large Language Models: Discoveries and Insights | OPT-175B (175B) | Frozen/ Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.11700) |
 | LLM4ARec | Prompt Tuning Large Language Models on Personalized Aspect Extraction for Recommendations | GPT2 (110M) | Prompt Tuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.01475) |
+| TIGER | Recommender Systems with Generative Retrieval |  |  | NIPS 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 | TBIN | TBIN: Modeling Long Textual Behavior Data for CTR Prediction | BERT-base (110M) | Frozen | DLP-RecSys 2023 | [[Link]](https://arxiv.org/abs/2308.08483) |
 | LKPNR | LKPNR: LLM and KG for Personalized News Recommendation Framework | LLaMA2 (7B) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.12028) |
 | SSNA | Towards Efficient and Effective Adaptation of Large Language Models for Sequential Recommendation | DistilRoBERTa-base (83M) | Layerwise Adapter Tuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.01612) |
@@ -211,7 +212,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences |  |  | RecSys 2023 | [[Link]](https://recsys.acm.org/recsys23/accepted-contributions/#content-tab-1-1-tab) |
 |  | Leveraging Large Language Models for Sequential Recommendation |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2309.09261) | 
 | GenRec | GenRec: Large Language Model for Generative Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
-| TIGER | Recommender Systems with Generative Retrieval |  |  | NIPS 2023 | [[Link]](https://arxiv.org/abs/2305.05065) |
 |  | Better Generalization with Semantic IDs: A case study in Ranking for Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.08121) |
 |  | Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM |  |  | RecSys 2023 | [[Link]](https://arxiv.org/abs/2308.03333) |
 |  | A Large Language Model Enhanced Conversational Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06212) |
