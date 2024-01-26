@@ -295,6 +295,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.06676) |
 |  | LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.08217) |
 |  | Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.10545) |
+|  | Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.13870) |
 
 </p>
 </details>
