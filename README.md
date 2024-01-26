@@ -207,7 +207,16 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 </p>
 </details>
 
-<details><summary><b>1.4 LLM for RS Pipeline Controller</b></summary>
+<details><summary><b>1.4 LLM for User Interaction</b></summary>
+<p>
+    
+| **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
+|:---:|:---|:---:|:---:|:---:|:---:|
+
+</p>
+</details>
+
+<details><summary><b>1.5 LLM for RS Pipeline Controller</b></summary>
 <p>
     
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
@@ -222,10 +231,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 </p>
 </details>
 
-<details><summary><b>1.5 Other Related Papers</b></summary>
+<details><summary><b>1.6 Other Related Papers</b></summary>
 <p>
 
-<b>1.5.1 Related Survey Papers</b>
+<b>1.6.1 Related Survey Papers</b>
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
@@ -240,7 +249,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems | TACL 2023 | [[Link]](https://arxiv.org/abs/2302.03735) |
 | Self-Supervised Learning for Recommender Systems: A Survey | TKDE 2022 | [[Link]](https://arxiv.org/abs/2203.15876) |
 
-<b>1.5.2 Other Papers</b>
+<b>1.6.2 Other Papers</b>
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
@@ -255,7 +264,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 </p>
 </details>
 
-<details><summary><b>1.6 Paper Pending List: to be Added to Our Survey Paper</b></summary>
+<details><summary><b>1.7 Paper Pending List: to be Added to Our Survey Paper</b></summary>
 <p>
 
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
