@@ -296,6 +296,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.08217) |
 |  | Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.10545) |
 |  | Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.13870) |
+|  | LLM4Vis: Explainable Visualization Recommendation using ChatGPT |  |  | EMNLP 2023 | [[Link]](https://arxiv.org/abs/2310.07652) |
 
 </p>
 </details>
