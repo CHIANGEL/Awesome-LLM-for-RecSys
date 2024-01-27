@@ -216,7 +216,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | TCP | Follow Me: Conversation Planning for Target-driven Recommendation Dialogue Systems | BERT-base (110M) | Full Finetuning | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2208.03516) |
 | MESE | Improving Conversational Recommendation Systems' Quality with Context-Aware Item Meta-Information | DistilBERT (67M) & GPT2 (110M) | Full Finetuning | ACL 2022 | [[Link]](https://arxiv.org/abs/2112.08140) |
 | UniMIND | A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems | BART-base (139M) | Full Finetuning | ACM TOIS 2023 | [[Link]](https://arxiv.org/abs/2204.06923) |
-| VRICR | Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation | BERT-base (110M) | WSDM 2023 | [[Link]](https://arxiv.org/abs/2212.11868) |
+| VRICR | Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation | BERT-base (110M) | Full Finetuning | WSDM 2023 | [[Link]](https://arxiv.org/abs/2212.11868) |
 | KECR | Explicit Knowledge Graph Reasoning for Conversational Recommendation | BERT-base (110M) & GPT2 (110M) | Frozen | ACM TIST 2023 | [[Link]](https://arxiv.org/abs/2305.00783) |
 
 
