@@ -173,7 +173,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LLMSeqPrompt | Leveraging Large Language Models for Sequential Recommendation | OpenAI ada model | Finetune | RecSys 2023 | [[Link]](https://arxiv.org/abs/2309.09261) | 
 | GenRec | GenRec: Large Language Model for Generative Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
 | HKFR | Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM | ChatGLM (6B) | LoRA | RecSys 2023 | [[Link]](https://arxiv.org/abs/2308.03333) |
-| N/A | The Unequal Opportunities of Large Language Models: Revealing Demographic Bias through Job Recommendations |  | EAAMO 2023 | EAAMO 2023 | [[Link]](https://arxiv.org/abs/2308.02053) |
+| N/A | The Unequal Opportunities of Large Language Models: Revealing Demographic Bias through Job Recommendations | ChatGPT | Frozen | EAAMO 2023 | [[Link]](https://arxiv.org/abs/2308.02053) |
 | BIGRec | A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08434) |
 | KP4SR | Knowledge Prompt-tuning for Sequential Recommendation | T5-small (60M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08459) |
 | RecSysLLM | Leveraging Large Language Models for Pre-trained Recommender Systems | GLM (10B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10837) |
