@@ -49,7 +49,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | EcomGPT | EcomGPT: Instruction-tuning Large Language Models with Chain-of-Task Tasks for E-commerce | BLOOMZ (7.1B) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06966) |
 | Agent4Rec | On Generative Agents in Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.10108) |
 | TF-DCon | Leveraging Large Language Models (LLMs) to Empower Training-Free Dataset Condensation for Content-Based Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.09874) |
-| RLMRec | Representation Learning with Large Language Models for Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.15950) |
+| RLMRec | Representation Learning with Large Language Models for Recommendation | ChatGPT | Frozen | WWW 2024 | [[Link]](https://arxiv.org/abs/2310.15950) |
 | LLMRec | LLMRec: Large Language Models with Graph Augmentation for Recommendation | ChatGPT | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/pdf/2311.00423.pdf) |
 | LLMRG | Enhancing Recommender Systems with Large Language Model Reasoning Graphs | GPT-4 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
 | CUP | Recommendations by Concise User Profiles from Review Text | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01314) |
