@@ -313,6 +313,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04474) |
 |  | Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.10545) |
 |  | LLM4Vis: Explainable Visualization Recommendation using ChatGPT |  |  | EMNLP 2023 | [[Link]](https://arxiv.org/abs/2310.07652) |
+|  | Parameter-Efficient Conversational Recommender System as a Language Processing Task |  |  | EACL 2024 | [[Link]](https://arxiv.org/abs/2401.14194) |
 
 </p>
 </details>
