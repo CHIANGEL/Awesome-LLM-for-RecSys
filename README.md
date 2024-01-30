@@ -226,7 +226,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | TG-ReDial | Towards Topic-Guided Conversational Recommender System | BERT-base (110M) & GPT2 (110M) | Unknown | COLING 2020 | [[Link]](https://arxiv.org/abs/2010.04125) |
 | TCP | Follow Me: Conversation Planning for Target-driven Recommendation Dialogue Systems | BERT-base (110M) | Full Finetuning | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2208.03516) |
 | BARCOR | BARCOR: Towards A Unified Framework for Conversational Recommendation Systems | BART-base (139M) | Selective-layer Finetuning | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2203.14257) |
-| RecInDial | RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models | DialoGPT (110M) | AACL 2022 | [[Link]](https://arxiv.org/abs/2110.07477) |
+| RecInDial | RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models | DialoGPT (110M) | Full Finetuning | AACL 2022 | [[Link]](https://arxiv.org/abs/2110.07477) |
 | MESE | Improving Conversational Recommendation Systems' Quality with Context-Aware Item Meta-Information | DistilBERT (67M) & GPT2 (110M) | Full Finetuning | ACL 2022 | [[Link]](https://arxiv.org/abs/2112.08140) |
 | UniCRS | Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning | DialoGPT-small (176M) | Frozen | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
 | UniMIND | A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems | BART-base (139M) | Full Finetuning | ACM TOIS 2023 | [[Link]](https://arxiv.org/abs/2204.06923) |
