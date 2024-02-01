@@ -198,7 +198,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | JobRecoGPT | JobRecoGPT -- Explainable job recommendations using LLMs | GPT4 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.11805) |
 | LANCER | Reformulating Sequential Recommendation: Learning Dynamic User Interest with Content-enriched Language Modeling | GPT2 (110M) | Prefix Tuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2309.10435) |
 | TransRec | A Multi-facet Paradigm to Bridge Large Language Model and Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06491) |
-| AgentCF | AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems | textdavinci-003 & gpt-3.5-turbo | Frozen | WWW 2024 | [[Link]](https://arxiv.org/abs/2310.09233) |
+| AgentCF | AgentCF: Collaborative Learning with Autonomous Language Agents for Recommender Systems | text-davinci-003 & gpt-3.5-turbo | Frozen | WWW 2024 | [[Link]](https://arxiv.org/abs/2310.09233) |
 | P4LM | Factual and Personalized Recommendations using Language Models and Reinforcement Learning | PaLM2-XS | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06176) |
 | InstructMK | Multiple Key-value Strategy in Recommendation Systems Incorporating Large Language Model | LLaMA (7B) | Full Finetuning | CIKM GenRec 2023 | [[Link]](https://arxiv.org/abs/2310.16409) |
 | LightLM | LightLM: A Lightweight Deep and Narrow Language Model for Generative Recommendation | T5-small (60M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.17488) |
