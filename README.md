@@ -316,6 +316,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Parameter-Efficient Conversational Recommender System as a Language Processing Task |  |  | EACL 2024 | [[Link]](https://arxiv.org/abs/2401.14194) |
 |  | Data-efficient Fine-tuning for LLM-based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.17197) |
 |  | Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation |  |  | WWW 2024 | [[Link]](https://arxiv.org/abs/2401.14678) |
+|  | LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.17723) |
 
 </p>
 </details>
