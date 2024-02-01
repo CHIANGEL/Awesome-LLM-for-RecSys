@@ -204,7 +204,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LightLM | LightLM: A Lightweight Deep and Narrow Language Model for Generative Recommendation | T5-small (60M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.17488) |
 | LlamaRec | LlamaRec: Two-Stage Recommendation using Large Language Models for Ranking | LLaMA2 (7B) | QLoRA | PGAI@CIKM 2023 | [[Link]](https://arxiv.org/abs/2311.02089) |
 | N/A | Exploring Recommendation Capabilities of GPT-4V(ision): A Preliminary Case Study | GPT-4V | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.04199) |
-| N/A | Exploring Fine-tuning ChatGPT for News Recommendation | ChatGPT | gpt-3.5-urbo finetuning API | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.05850) |
+| N/A | Exploring Fine-tuning ChatGPT for News Recommendation | ChatGPT | gpt-3.5-turbo finetuning API | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.05850) |
 | N/A | Do LLMs Implicitly Exhibit User Discrimination in Recommendation? An Empirical Study | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.07054) |
 | LC-Rec | Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.09049) |
 | DOKE | Knowledge Plugins: Enhancing Large Language Models for Domain-Specific Recommendations | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10779) |
