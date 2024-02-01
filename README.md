@@ -235,25 +235,31 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 <details><summary><b>1.4 LLM for User Interaction</b></summary>
 <p>
+
+<b>1.4.1 Task-oriented User Interaction</b>
     
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
 | TG-ReDial | Towards Topic-Guided Conversational Recommender System | BERT-base (110M) & GPT2 (110M) | Unknown | COLING 2020 | [[Link]](https://arxiv.org/abs/2010.04125) |
 | TCP | Follow Me: Conversation Planning for Target-driven Recommendation Dialogue Systems | BERT-base (110M) | Full Finetuning | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2208.03516) |
-| BARCOR | BARCOR: Towards A Unified Framework for Conversational Recommendation Systems | BART-base (139M) | Selective-layer Finetuning | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2203.14257) |
-| RecInDial | RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models | DialoGPT (110M) | Full Finetuning | AACL 2022 | [[Link]](https://arxiv.org/abs/2110.07477) |
 | MESE | Improving Conversational Recommendation Systems' Quality with Context-Aware Item Meta-Information | DistilBERT (67M) & GPT2 (110M) | Full Finetuning | ACL 2022 | [[Link]](https://arxiv.org/abs/2112.08140) |
-| UniCRS | Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning | DialoGPT-small (176M) | Frozen | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
 | UniMIND | A Unified Multi-task Learning Framework for Multi-goal Conversational Recommender Systems | BART-base (139M) | Full Finetuning | ACM TOIS 2023 | [[Link]](https://arxiv.org/abs/2204.06923) |
 | VRICR | Variational Reasoning over Incomplete Knowledge Graphs for Conversational Recommendation | BERT-base (110M) | Full Finetuning | WSDM 2023 | [[Link]](https://arxiv.org/abs/2212.11868) |
 | KECR | Explicit Knowledge Graph Reasoning for Conversational Recommendation | BERT-base (110M) & GPT2 (110M) | Frozen | ACM TIST 2023 | [[Link]](https://arxiv.org/abs/2305.00783) |
-| T5-CR | Multi-Task End-to-End Training Improves Conversational Recommendation | T5-base (223M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06218) |
-| TtW | Talk the Walk: Synthetic Data Generation for Conversational Music Recommendation | T5-base (223M) & T5-XXL (11B) | Full Finetuning & Frozen | Arxiv 2023 | 
-| N/A | Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models | ChatGPT | Frozen | EMNLP 2023 | [[Link]](https://arxiv.org/abs/2305.13112) |
 | N/A | Large Language Models as Zero-Shot Conversational Recommenders | GPT4 | Frozen | CIKM 2023 | [[Link]](https://arxiv.org/abs/2308.10053) |
 | MuseChat | MuseChat: A Conversational Music Recommendation System for Videos | Vicuna (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06282) |
 | N/A | Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue | Chinese-Alpaca-7B | LoRA | EMNLP 2023 Findings | [[Link]](https://arxiv.org/abs/2310.14626) |
 
+<b>1.4.2 Open-ended User Interaction</b>
+    
+| **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
+|:---:|:---|:---:|:---:|:---:|:---:|
+| BARCOR | BARCOR: Towards A Unified Framework for Conversational Recommendation Systems | BART-base (139M) | Selective-layer Finetuning | Arxiv 2022 | [[Link]](https://arxiv.org/abs/2203.14257) |
+| RecInDial | RecInDial: A Unified Framework for Conversational Recommendation with Pretrained Language Models | DialoGPT (110M) | Full Finetuning | AACL 2022 | [[Link]](https://arxiv.org/abs/2110.07477) |
+| UniCRS | Towards Unified Conversational Recommender Systems via Knowledge-Enhanced Prompt Learning | DialoGPT-small (176M) | Frozen | KDD 2022 | [[Link]](https://arxiv.org/abs/2206.09363) |
+| T5-CR | Multi-Task End-to-End Training Improves Conversational Recommendation | T5-base (223M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06218) |
+| TtW | Talk the Walk: Synthetic Data Generation for Conversational Music Recommendation | T5-base (223M) & T5-XXL (11B) | Full Finetuning & Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2301.11489) |
+| N/A | Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models | ChatGPT | Frozen | EMNLP 2023 | [[Link]](https://arxiv.org/abs/2305.13112) |
 
 </p>
 </details>
