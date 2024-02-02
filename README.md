@@ -248,7 +248,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | KECR | Explicit Knowledge Graph Reasoning for Conversational Recommendation | BERT-base (110M) & GPT2 (110M) | Frozen | ACM TIST 2023 | [[Link]](https://arxiv.org/abs/2305.00783) |
 | N/A | Large Language Models as Zero-Shot Conversational Recommenders | GPT4 | Frozen | CIKM 2023 | [[Link]](https://arxiv.org/abs/2308.10053) |
 | MuseChat | MuseChat: A Conversational Music Recommendation System for Videos | Vicuna (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06282) |
-| N/A | Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue | Chinese-Alpaca-7B | LoRA | EMNLP 2023 Findings | [[Link]](https://arxiv.org/abs/2310.14626) |
+| N/A | Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue | Chinese-Alpaca (7B) | LoRA | EMNLP 2023 Findings | [[Link]](https://arxiv.org/abs/2310.14626) |
 
 <b>1.4.2 Open-ended User Interaction</b>
     
