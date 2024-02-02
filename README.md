@@ -160,6 +160,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LLMRanker | Beyond Yes and No: Improving Zero-Shot LLM Rankers via Scoring Fine-Grained Relevance Labels | FLAN PaLM2 S | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.14122) |
 | CoLLM | CoLLM: Integrating Collaborative Embeddings into Large Language Models for Recommendation | Vicuna (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19488) |
 | FLIP | FLIP: Towards Fine-grained Alignment between ID-based Models and Pretrained Language Models for CTR Prediction | RoBERTa-large (355M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19453) |
+| BTRec | BTRec: BERT-Based Trajectory Recommendation for Personalized Tours | BERT-base (110M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19886) |
 | CLLM4Rec | Collaborative Large Language Model for Recommender Systems | GPT2 (110M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01343) |
 | CUP | Recommendations by Concise User Profiles from Review Text | BERT-base (110M) | Last-layer Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01314) |
 | N/A | Instruction Distillation Makes Large Language Models Efficient Zero-shot Rankers | FLAN-T5-XL (3B) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.01555) |
@@ -318,10 +319,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | A Large Language Model Enhanced Conversational Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06212) |
-|  | User-Centric Conversational Recommendation: Adapting the Need of User with Large Language Models |  |  | RecSys Doctoral Symposium 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3604915.3608885) |
 |  | Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.16738) |
 |  | Enhancing Recommender Systems with Large Language Model Reasoning Graphs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
-|  | BTRec: BERT-Based Trajectory Recommendation for Personalized Tours |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.19886) |
 |  | Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.10967) |
 |  | Unlocking the Potential of Large Language Models for Explainable Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
 |  | The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15524) |
@@ -337,6 +336,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Data-efficient Fine-tuning for LLM-based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.17197) |
 |  | Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation |  |  | WWW 2024 | [[Link]](https://arxiv.org/abs/2401.14678) |
 |  | LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.17723) |
+|  | PAP-REC: Personalized Automatic Prompt for Recommendation Language Model |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.00284) |
+|  | From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.00421) |
 
 </p>
 </details>
