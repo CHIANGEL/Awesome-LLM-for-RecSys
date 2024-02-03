@@ -140,7 +140,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Prompt4NR | Prompt Learning for News Recommendation | BERT-base (110M) | Full Finetuning | SIGIR 2023 | [[Link]](https://arxiv.org/abs/2304.05263) |
 | RecFormer | Text Is All You Need: Learning Language Representations for Sequential Recommendation | LongFormer (149M) | Full Finetuning | KDD 2023 | [[Link]](https://arxiv.org/abs/2305.13731v1) |
 | TabLLM | TabLLM: Few-shot Classification of Tabular Data with Large Language Models | T0 (11B) | Few-shot Parameter-effiecnt Finetuning | AISTATS 2023 | [[Link]](https://arxiv.org/abs/2210.10723) |
-| UP5 | UP5: Unbiased Foundation Model for Fairness-aware Recommendation | T5-base (223M) | Prefix Tuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12090) |
 | Zero-shot GPT | Zero-Shot Recommendation as Language Modeling | GPT2-medium (355M) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2112.04184) |
 | FLAN-T5 | Do LLMs Understand User Preferences? Evaluating LLMs On User Rating Prediction | FLAN-5-XXL (11B) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/pdf/2305.06474.pdf) |
 | BookGPT | BookGPT: A General Framework for Book Recommendation Empowered by Large Language Model | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.15673v1) |
@@ -188,6 +187,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | N/A | Large Language Models are Competitive Near Cold-start Recommenders for Language- and Item-based Preferences | PaLM (62B) | Frozen | RecSys 2023 | [[Link]](https://arxiv.org/abs/2307.14225) |
 | LLMSeqPrompt | Leveraging Large Language Models for Sequential Recommendation | OpenAI ada model | Finetune | RecSys 2023 | [[Link]](https://arxiv.org/abs/2309.09261) | 
 | GenRec | GenRec: Large Language Model for Generative Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2307.00457) |
+| UP5 | UP5: Unbiased Foundation Model for Fairness-aware Recommendation | T5-base (223M) | Prefix Tuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12090) |
 | HKFR | Heterogeneous Knowledge Fusion: A Novel Approach for Personalized Recommendation via LLM | ChatGLM (6B) | LoRA | RecSys 2023 | [[Link]](https://arxiv.org/abs/2308.03333) |
 | N/A | The Unequal Opportunities of Large Language Models: Revealing Demographic Bias through Job Recommendations | ChatGPT | Frozen | EAAMO 2023 | [[Link]](https://arxiv.org/abs/2308.02053) |
 | BIGRec | A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.08434) |
