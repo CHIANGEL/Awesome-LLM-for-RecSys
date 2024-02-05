@@ -6,11 +6,12 @@ A collection of AWESOME papers and resources on the large language model (LLM) r
 
 To catch up with the latest research progress, this repository will be actively maintained as well as our released survey paper. Newly added papers will first appear in ``1.6 Paper Pending List: to be Added to Our Survey Paper`` section.
 
-:rocket:	**2023.06.29 - Paper v4 released**: 7 papers have been newly added.
+:rocket:	**2024.02.05 - Paper v5 released**: New release with 27-page main content & more thorough taxonomies.
 <details><summary><b>Survey Paper Update Logs</b></summary>
 
 <p>
 <ul>
+  <li><b>2023.06.29 - Paper v5 released</b>: New release with 27-page main content & more thorough taxonomies.</li>
   <li><b>2023.06.29 - Paper v4 released</b>: 7 papers have been newly added.</li>
   <li><b>2023.06.28 - Paper v3 released</b>: Fix typos.</li>
   <li><b>2023.06.12 - Paper v2 released</b>: Add summerization table in the appendix.</li>
