@@ -25,7 +25,7 @@ To catch up with the latest research progress, this repository will be actively 
 
 We classify papers according to where LLM will be adapted in the pipeline of RS, which is summarized in the figure below.
 
-<img width="550" src="https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/blob/main/where-framework-1.png">
+<img width="650" src="https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/blob/main/where-framework-1.png">
 
 <details><summary><b>1.1 LLM for Feature Engineering</b></summary>
 <p>
