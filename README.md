@@ -339,6 +339,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.17723) |
 |  | PAP-REC: Personalized Automatic Prompt for Recommendation Language Model |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.00284) |
 |  | From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.00421) |
+|  | Improving Sequential Recommendations with LLMs |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01339) |
+|  | A Multi-Agent Conversational Recommender System |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01135) |
+|  | TransFR: Transferable Federated Recommendation with Pre-trained Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01124) |
 
 </p>
 </details>
