@@ -343,6 +343,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | A Multi-Agent Conversational Recommender System |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01135) |
 |  | TransFR: Transferable Federated Recommendation with Pre-trained Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01124) |
 |  | Large Language Model Distilling Medication Recommendation Model |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.02803) |
+｜  ｜ Uncertainty-Aware Explainable Recommendation with Large Language Models ｜  ｜  ｜ Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.03366) |
 
 </p>
 </details>
