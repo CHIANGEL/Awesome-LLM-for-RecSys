@@ -344,6 +344,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | TransFR: Transferable Federated Recommendation with Pre-trained Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01124) |
 |  | Large Language Model Distilling Medication Recommendation Model |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.02803) |
 |  | Uncertainty-Aware Explainable Recommendation with Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.03366) |
+|  | Natural Language User Profiles for Transparent and Scrutable Recommendations |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.05810) |
+|  | Leveraging LLMs for Unsupervised Dense Retriever Ranking |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.04853) |
+|  | RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.04527) |
 
 </p>
 </details>
