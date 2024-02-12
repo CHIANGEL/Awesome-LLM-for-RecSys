@@ -348,6 +348,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Leveraging LLMs for Unsupervised Dense Retriever Ranking |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.04853) |
 |  | RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.04527) |
 |  | A Multi-Agent Conversational Recommender System |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01135) |
+|  | Fairly Evaluating Large Language Model-based Recommendation Needs Revisit the Cross-Entropy Loss |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.06216) |
+|  | SearchAgent: A Lightweight Collaborative Search Agent with Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.06360) |
 
 </p>
 </details>
