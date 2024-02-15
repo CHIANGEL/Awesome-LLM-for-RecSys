@@ -350,6 +350,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | A Multi-Agent Conversational Recommender System |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01135) |
 |  | Fairly Evaluating Large Language Model-based Recommendation Needs Revisit the Cross-Entropy Loss |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.06216) |
 |  | SearchAgent: A Lightweight Collaborative Search Agent with Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.06360) |
+|  | Large Language Model Interaction Simulator for Cold-Start Item Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09176) |
+|  | Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08921) |
+|  | eCeLLM: Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08831) |
 
 </p>
 </details>
