@@ -353,6 +353,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Large Language Model Interaction Simulator for Cold-Start Item Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09176) |
 |  | Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08921) |
 |  | eCeLLM: Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08831) |
+|  | LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09617) |
+|  | LLM-based Federated Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09959) |
+|  | Rethinking Large Language Model Architectures for Sequential Recommendations |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09543) |
 
 </p>
 </details>
