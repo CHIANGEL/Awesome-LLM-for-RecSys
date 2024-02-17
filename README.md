@@ -357,6 +357,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | LLM-based Federated Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09959) |
 |  | Rethinking Large Language Model Architectures for Sequential Recommendations |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09543) |
 |  | Large Language Model with Graph Convolution for Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08859) |
+|  | Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08670) |
 
 </p>
 </details>
