@@ -358,6 +358,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Rethinking Large Language Model Architectures for Sequential Recommendations |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09543) |
 |  | Large Language Model with Graph Convolution for Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08859) |
 |  | Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08670) |
+|  | Enhancing Recommendation Diversity by Re-ranking with Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.11506) |
 
 </p>
 </details>
