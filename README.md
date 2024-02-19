@@ -359,6 +359,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Large Language Model with Graph Convolution for Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08859) |
 |  | Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08670) |
 |  | Enhancing Recommendation Diversity by Re-ranking with Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.11506) |
+|  | Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.10602) |
+|  | SPAR: Personalized Content-Based Recommendation via Long Engagement Attention |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.10555) |
+|  | Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism |  |  | WWW 2024 | [[Link]](https://arxiv.org/abs/2402.10548) |
 
 </p>
 </details>
