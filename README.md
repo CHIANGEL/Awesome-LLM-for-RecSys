@@ -288,6 +288,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| Foundation Models for Recommender Systems: A Survey and New Perspectives | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.11143) |
 | Prompting Large Language Models for Recommender Systems: A Comprehensive Framework and Empirical Analysis | Arixv 2024 | [[Link]](https://arxiv.org/abs/2401.04997) |
 | User Modeling in the Era of Large Language Models: Current Research and Future Directions | IEEE Data Engineering Bulletin 2023 | [[Link]](https://arxiv.org/abs/2312.11518) |
 | A Survey on Large Language Models for Personalized and Explainable Recommendations | Arxiv 2023 |[[Link]](https://arxiv.org/abs/2311.12338) |
@@ -362,6 +363,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.10602) |
 |  | SPAR: Personalized Content-Based Recommendation via Long Engagement Attention |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.10555) |
 |  | Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism |  |  | WWW 2024 | [[Link]](https://arxiv.org/abs/2402.10548) |
+|  | Large Language Models as Data Augmenters for Cold-Start Item Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.11724) |
+|  | Explain then Rank: Scale Calibration of Neural Rankers Using Natural Language Explanations from Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.12276) |
 
 </p>
 </details>
