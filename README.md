@@ -365,6 +365,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism |  |  | WWW 2024 | [[Link]](https://arxiv.org/abs/2402.10548) |
 |  | Large Language Models as Data Augmenters for Cold-Start Item Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.11724) |
 |  | Explain then Rank: Scale Calibration of Neural Rankers Using Natural Language Explanations from Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.12276) |
+|  | LLM4SBR: A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.13840) |
+|  | Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph |  |  | Arxiv 2024 | [][Link]](https://arxiv.org/abs/2402.13750) |
 
 </p>
 </details>
