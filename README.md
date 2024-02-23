@@ -322,7 +322,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | A Large Language Model Enhanced Conversational Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06212) |
 |  | Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.16738) |
-|  | Enhancing Recommender Systems with Large Language Model Reasoning Graphs |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.10835) |
 |  | Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.10967) |
 |  | Unlocking the Potential of Large Language Models for Explainable Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
 |  | The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15524) |
