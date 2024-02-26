@@ -367,6 +367,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | LLM4SBR: A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.13840) |
 |  | Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.13750) |
 |  | User-LLM: Efficient LLM Contextualization with User Embeddings |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.13598) |
+|  | Stealthy Attack on Large Language Model based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.14836) |
+|  | Multi-Agent Collaboration Framework for Recommender Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.15235) |
+|  | Item-side Fairness of Large Language Model-based Recommendation System |  |  | WWW 2024 | [[Link]](https://arxiv.org/abs/2402.15215) |
 
 </p>
 </details>
