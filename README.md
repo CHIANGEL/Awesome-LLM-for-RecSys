@@ -370,8 +370,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Stealthy Attack on Large Language Model based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.14836) |
 |  | Multi-Agent Collaboration Framework for Recommender Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.15235) |
 |  | Item-side Fairness of Large Language Model-based Recommendation System |  |  | WWW 2024 | [[Link]](https://arxiv.org/abs/2402.15215) |
+|  | Integrating Large Language Models with Graphical Session-Based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.16539) |
+|  | Language-Based User Profiles for Recommendation |  |  | LLM-IGS@WSDM2024 | [[Link]](https://arxiv.org/abs/2402.15623) |
 
-</p>
+</p >
 </details>
 
 ## 2. Datasets & Benchmarks
