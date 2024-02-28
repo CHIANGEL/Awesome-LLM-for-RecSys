@@ -372,6 +372,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Item-side Fairness of Large Language Model-based Recommendation System |  |  | WWW 2024 | [[Link]](https://arxiv.org/abs/2402.15215) |
 |  | Integrating Large Language Models with Graphical Session-Based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.16539) |
 |  | Language-Based User Profiles for Recommendation |  |  | LLM-IGS@WSDM2024 | [[Link]](https://arxiv.org/abs/2402.15623) |
+|  | BASES: Large-scale Web Search User Simulation with Large Language Model based Agents |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.17505) |
 
 </p >
 </details>
