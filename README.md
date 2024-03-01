@@ -288,6 +288,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| Exploring the Impact of Large Language Models on Recommender Systems: An Extensive Review | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18590) |
 | Foundation Models for Recommender Systems: A Survey and New Perspectives | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.11143) |
 | Prompting Large Language Models for Recommender Systems: A Comprehensive Framework and Empirical Analysis | Arixv 2024 | [[Link]](https://arxiv.org/abs/2401.04997) |
 | User Modeling in the Era of Large Language Models: Current Research and Future Directions | IEEE Data Engineering Bulletin 2023 | [[Link]](https://arxiv.org/abs/2312.11518) |
