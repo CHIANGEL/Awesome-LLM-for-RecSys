@@ -376,7 +376,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | BASES: Large-scale Web Search User Simulation with Large Language Model based Agents |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.17505) |
 |  | Prospect Personalized Recommendation on Large Language Model-based Agent Platform |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18240) |
 |  | Sequence-level Semantic Representation Fusion for Recommender Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18166) |
-|  | Corpus-Steered Query Expansion with Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18031) |
+|  | Corpus-Steered Query Expansion with Large Language Models |  |  | ECAL 2024 | [[Link]](https://arxiv.org/abs/2402.18031) |
 
 </p >
 </details>
