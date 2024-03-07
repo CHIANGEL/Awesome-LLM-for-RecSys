@@ -377,6 +377,15 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 |  | Prospect Personalized Recommendation on Large Language Model-based Agent Platform |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18240) |
 |  | Sequence-level Semantic Representation Fusion for Recommender Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18166) |
 |  | Corpus-Steered Query Expansion with Large Language Models |  |  | ECAL 2024 | [[Link]](https://arxiv.org/abs/2402.18031) |
+| NoteLLM | NoteLLM: A Retrievable Large Language Model for Note Recommendation | LLaMA2 (7B) | Full Finetuning | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.01744) |
+| PP-GLAM | An Interpretable Ensemble of Graph and Language Models for Improving Search Relevance in E-Commerce | M-DeBERTa-base (276M) | Full Finetuning | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.00923) |
+| LLM-Ensemble | LLM-Ensemble: Optimal Large Language Model Ensemble Method for E-commerce Product Attribute Value Extraction | GPT4 | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.00863) |
+| BiLLP | Enhancing Long-Term Recommendation with Bi-level Learnable Large Language Model Planning | ChatGPT | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.00843) |
+| InteraRec | InteraRec: Interactive Recommendations Using Multimodal Large Language Models | GPT4-V | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.00822) |
+| ChatDiet | ChatDiet: Empowering Personalized Nutrition-Oriented Food Recommender Chatbots through an LLM-Augmented Framework | ChatGPT | Frozen | CHASE 2024 | [[Link]](https://arxiv.org/abs/2403.00781) |
+| E2URec | Towards Efficient and Effective Unlearning of Large Language Models for Recommendation | T5-base (223M) | LoRA | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.03536) |
+| GNR | Generative News Recommendation | ChatGPT | Frozen | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.03424) |
+| BLAIR | Bridging Language and Items for Retrieval and Recommendation | RoBERTa-large (355M) | Full Finetuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.03952) |
 
 </p >
 </details>
@@ -389,6 +398,7 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 
 | **Dataset** | **RS Scenario** | **Link** |
 |:---:|:---:|:---:|
+| Amazon-Review 2023 | E-commerce | [[Link]](https://arxiv.org/abs/2403.03952) |
 | Reddit-Movie | Conversational & Movie | [[Link]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys#large-language-models-as-zero-shot-conversational-recommenders) |
 | Amazon-M2 | E-commerce | [[Link]](https://arxiv.org/abs/2307.09688) |
 | MovieLens | Movie | [[Link]](https://grouplens.org/datasets/movielens/1m/) |
