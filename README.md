@@ -386,6 +386,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | E2URec | Towards Efficient and Effective Unlearning of Large Language Models for Recommendation | T5-base (223M) | LoRA | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.03536) |
 | GNR | Generative News Recommendation | ChatGPT | Frozen | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.03424) |
 | BLAIR | Bridging Language and Items for Retrieval and Recommendation | RoBERTa-large (355M) | Full Finetuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.03952) |
+| SLIM | Can Small Language Models be Good Reasoners for Sequential Recommendation? | LLaMA2 (7B) | LoRA | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.04260) |
 
 </p >
 </details>
