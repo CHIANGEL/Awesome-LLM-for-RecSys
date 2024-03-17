@@ -394,6 +394,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | CoRAL | CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation | GPT4 | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06447) |
 | RecAI | RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems |  |  | WWW 2024 Demo | [[Link]](https://arxiv.org/pdf/2403.06465.pdf) |
 | KELLMRec | KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation | InternLM (7B) | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06642) |
+| USimAgent | USimAgent: Large Language Models for Simulating Search Users | GPT4 | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.09142) |
 
 </p >
 </details>
