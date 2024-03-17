@@ -387,6 +387,13 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | GNR | Generative News Recommendation | ChatGPT | Frozen | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.03424) |
 | BLAIR | Bridging Language and Items for Retrieval and Recommendation | RoBERTa-large (355M) | Full Finetuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.03952) |
 | SLIM | Can Small Language Models be Good Reasoners for Sequential Recommendation? | LLaMA2 (7B) | LoRA | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.04260) |
+| N/A | Aligning Large Language Models for Controllable Recommendations | LLaMA2 (7B) | LoRA | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.05063) |
+| 2T-HGNN | Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks | Sentence-BERT (110M) | Frozen | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.05185) |
+| N/A | Towards Graph Foundation Models for Personalization | Sentence-BERT (110M) | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.07478) |
+| CFaiRLLM | CFaiRLLM: Consumer Fairness Evaluation in Large-Language Model Recommender System | GPT4 | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.05668) |
+| CoRAL | CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation | GPT4 | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06447) |
+| RecAI | RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems |  |  | WWW 2024 Demo | [[Link]](https://arxiv.org/pdf/2403.06465.pdf) |
+| KELLMRec | KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation | InternLM (7B) | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06642) |
 
 </p >
 </details>
