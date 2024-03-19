@@ -407,6 +407,8 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 
 | **Dataset** | **RS Scenario** | **Link** |
 |:---:|:---:|:---:|
+| NineRec | 9 Domains | [[Link]](https://github.com/westlake-repl/NineRec) |
+| MicroLens | Video Streaming | [[Link]](https://github.com/westlake-repl/MicroLens?tab=readme-ov-file) |
 | Amazon-Review 2023 | E-commerce | [[Link]](https://arxiv.org/abs/2403.03952) |
 | Reddit-Movie | Conversational & Movie | [[Link]](https://github.com/AaronHeee/LLMs-as-Zero-Shot-Conversational-RecSys#large-language-models-as-zero-shot-conversational-recommenders) |
 | Amazon-M2 | E-commerce | [[Link]](https://arxiv.org/abs/2307.09688) |
