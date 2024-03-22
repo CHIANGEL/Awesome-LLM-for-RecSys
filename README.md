@@ -274,7 +274,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Chat-REC | Chat-REC: Towards Interactive and Explainable LLMs-Augmented Recommender System | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2303.14524) |
 | RecLLM | Leveraging Large Language Models in Conversational Recommender Systems | LLaMA (7B) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.07961) |
 | RAH | RAH! RecSys-Assistant-Human: A Human-Central Recommendation Framework with Large Language Models | GPT4 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.09904) |
-| RecMind | RecMind: Large Language Model Powered Agent For Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.14296) |
+| RecMind | RecMind: Large Language Model Powered Agent For Recommendation | ChatGPT | Frozen | NAACL 2024 | [[Link]](https://arxiv.org/abs/2308.14296) |
 | InteRecAgent | Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations | GPT4 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.16505) |
 | CORE | Lending Interaction Wings to Recommender Systems with Conversational Agents | N/A | N/A | NIPS 2023 | [[Link]](https://arxiv.org/abs/2310.04230) |
 
