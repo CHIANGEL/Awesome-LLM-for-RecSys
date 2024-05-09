@@ -396,6 +396,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | RecAI | RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems |  |  | WWW 2024 Demo | [[Link]](https://arxiv.org/pdf/2403.06465.pdf) |
 | KELLMRec | KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation | InternLM (7B) | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06642) |
 | USimAgent | USimAgent: Large Language Models for Simulating Search Users | GPT4 | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.09142) |
+| CALRec | CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation | PaLM2-XXS | Full Finetuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.02429) |
 
 </p >
 </details>
