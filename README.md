@@ -453,7 +453,7 @@ If you have come across relevant resources or found some errors in this repesito
 ```
 @article{lin2023can,
   title={How Can Recommender Systems Benefit from Large Language Models: A Survey},
-  author={Lin, Jianghao and Dai, Xinyi and Xi, Yunjia and Liu, Weiwen and Chen, Bo and Li, Xiangyang and Zhu, Chenxu and Guo, Huifeng and Yu, Yong and Tang, Ruiming and others},
+  author={Lin, Jianghao and Dai, Xinyi and Xi, Yunjia and Liu, Weiwen and Chen, Bo and Zhang, Hao and Liu, Yong and Wu, Chuhan and Li, Xiangyang and Zhu, Chenxu and Guo, Huifeng and Yu, Yong and Tang, Ruiming and Zhang, Weinan},
   journal={arXiv preprint arXiv:2306.05817},
   year={2023}
 }
