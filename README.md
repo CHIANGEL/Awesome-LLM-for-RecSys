@@ -4,7 +4,7 @@ A collection of AWESOME papers and resources on the large language model (LLM) r
 
 :tada: Our survey paper has been accepted by **_ACM Transactions on Information Systems (TOIS)_**: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/pdf/2306.05817.pdf)
 
-:bell: Since our survey paper is archived, we will update the latest research works at ``1.6 Newest Research Work List``.
+:bell: Since our survey paper is archived, we will update the latest research works at ``1.7 Newest Research Work List``.
 
 :rocket:	**2024.07.09 - Paper v6 released**: Our camera-ready Version for TOIS, which will be archived.
 <details><summary><b>Survey Paper Update Logs</b></summary>
@@ -293,10 +293,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 </p>
 </details>
 
-<details><summary><b>1.6 Other Related Papers</b></summary>
+<details><summary><b>1.6 Related Survey Papers</b></summary>
 <p>
-
-<b>1.6.1 Related Survey Papers</b>
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
@@ -314,8 +312,12 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | A Survey on Large Language Models for Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.19860) |
 | Pre-train, Prompt and Recommendation: A Comprehensive Survey of Language Modelling Paradigm Adaptations in Recommender Systems | TACL 2023 | [[Link]](https://arxiv.org/abs/2302.03735) |
 | Self-Supervised Learning for Recommender Systems: A Survey | TKDE 2022 | [[Link]](https://arxiv.org/abs/2203.15876) |
+    
+</p>
+</details>
 
-<b>1.6.2 Other Papers</b>
+<details><summary><b>1.7 Newest Research Work List</b></summary>
+<p>
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
@@ -328,15 +330,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Generative Next-Basket Recommendation | RecSys 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3604915.3608823) |
 | LLMXRec | Unlocking the Potential of Large Language Models for Explainable Recommendations | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
 | Logic-Scaffolding | Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs | Falcon (40B) | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/abs/2312.14345) |
-    
-</p>
-</details>
 
-<details><summary><b>1.7 Paper Pending List: to be Added to Our Survey Paper</b></summary>
-<p>
-
-| **Paper** | **Publication** | **Link** |
-|:---|:---:|:---:|
 | Improving Sequential Recommendations with LLMs | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01339) |
 | A Multi-Agent Conversational Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01135) |
 | TransFR: Transferable Federated Recommendation with Pre-trained Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01124) |
