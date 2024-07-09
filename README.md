@@ -335,6 +335,66 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 <details><summary><b>1.7 Paper Pending List: to be Added to Our Survey Paper</b></summary>
 <p>
 
+| **Paper** | **Publication** | **Link** |
+|:---|:---:|:---:|
+| Improving Sequential Recommendations with LLMs | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01339) |
+| A Multi-Agent Conversational Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01135) |
+| TransFR: Transferable Federated Recommendation with Pre-trained Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01124) |
+| Large Language Model Distilling Medication Recommendation Model | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.02803) |
+| Uncertainty-Aware Explainable Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.03366) |
+| Natural Language User Profiles for Transparent and Scrutable Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.05810) |
+| Leveraging LLMs for Unsupervised Dense Retriever Ranking | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.04853) |
+| RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.04527) |
+| A Multi-Agent Conversational Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01135) |
+| Fairly Evaluating Large Language Model-based Recommendation Needs Revisit the Cross-Entropy Loss | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.06216) |
+| SearchAgent: A Lightweight Collaborative Search Agent with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.06360) |
+| Large Language Model Interaction Simulator for Cold-Start Item Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09176) |
+| Enhancing ID and Text Fusion via Alternative Training in Session-based Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08921) |
+| eCeLLM: Generalizing Large Language Models for E-commerce from Large-scale, High-quality Instruction Data | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08831) |
+| LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09617) |
+| LLM-based Federated Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09959) |
+| Rethinking Large Language Model Architectures for Sequential Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.09543) |
+| Large Language Model with Graph Convolution for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08859) |
+| Rec-GPT4V: Multimodal Recommendation with Large Vision-Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.08670) |
+| Enhancing Recommendation Diversity by Re-ranking with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.11506) |
+| Are ID Embeddings Necessary? Whitening Pre-trained Text Embeddings for Effective Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.10602) |
+| SPAR: Personalized Content-Based Recommendation via Long Engagement Attention | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.10555) |
+| Cognitive Personalized Search Integrating Large Language Models with an Efficient Memory Mechanism | WWW 2024 | [[Link]](https://arxiv.org/abs/2402.10548) |
+| Large Language Models as Data Augmenters for Cold-Start Item Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.11724) |
+| Explain then Rank: Scale Calibration of Neural Rankers Using Natural Language Explanations from Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.12276) |
+| LLM4SBR: A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.13840) |
+| Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.13750) |
+| User-LLM: Efficient LLM Contextualization with User Embeddings | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.13598) |
+| Stealthy Attack on Large Language Model based Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.14836) |
+| Multi-Agent Collaboration Framework for Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.15235) |
+| Item-side Fairness of Large Language Model-based Recommendation System | WWW 2024 | [[Link]](https://arxiv.org/abs/2402.15215) |
+| Integrating Large Language Models with Graphical Session-Based Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.16539) |
+| Language-Based User Profiles for Recommendation | LLM-IGS@WSDM2024 | [[Link]](https://arxiv.org/abs/2402.15623) |
+| BASES: Large-scale Web Search User Simulation with Large Language Model based Agents | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.17505) |
+| Prospect Personalized Recommendation on Large Language Model-based Agent Platform | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18240) |
+| Sequence-level Semantic Representation Fusion for Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18166) |
+| Corpus-Steered Query Expansion with Large Language Models | ECAL 2024 | [[Link]](https://arxiv.org/abs/2402.18031) |
+| NoteLLM: A Retrievable Large Language Model for Note Recommendation | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.01744) |
+| An Interpretable Ensemble of Graph and Language Models for Improving Search Relevance in E-Commerce | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.00923) |
+| LLM-Ensemble: Optimal Large Language Model Ensemble Method for E-commerce Product Attribute Value Extraction | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.00863) |
+| Enhancing Long-Term Recommendation with Bi-level Learnable Large Language Model Planning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.00843) |
+| InteraRec: Interactive Recommendations Using Multimodal Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.00822) |
+| ChatDiet: Empowering Personalized Nutrition-Oriented Food Recommender Chatbots through an LLM-Augmented Framework  | CHASE 2024 | [[Link]](https://arxiv.org/abs/2403.00781) |
+| Towards Efficient and Effective Unlearning of Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.03536) |
+| Generative News Recommendation | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.03424) |
+| Bridging Language and Items for Retrieval and Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.03952) |
+| Can Small Language Models be Good Reasoners for Sequential Recommendation? | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.04260) |
+| Aligning Large Language Models for Controllable Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.05063) |
+| Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.05185) |
+| Towards Graph Foundation Models for Personalization | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.07478) |
+| CFaiRLLM: Consumer Fairness Evaluation in Large-Language Model Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.05668) |
+| CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06447) |
+| RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems | WWW 2024 Demo | [[Link]](https://arxiv.org/pdf/2403.06465.pdf) |
+| KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06642) |
+| USimAgent: Large Language Models for Simulating Search Users | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.09142) |
+| CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.02429) |
+
+<!---
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
 |  | Improving Sequential Recommendations with LLMs |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01339) |
@@ -393,6 +453,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | KELLMRec | KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation | InternLM (7B) | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06642) |
 | USimAgent | USimAgent: Large Language Models for Simulating Search Users | GPT4 | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.09142) |
 | CALRec | CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation | PaLM2-XXS | Full Finetuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.02429) |
+-->
 
 </p >
 </details>
