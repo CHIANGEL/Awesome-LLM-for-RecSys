@@ -70,6 +70,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | PO4ISR | Large Language Models for Intent-Driven Session Recommendations | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.07552) |
 | BEQUE | Large Language Model based Long-tail Query Rewriting in Taobao Search | ChatGLM (6B) | FFT | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.03758) |
 | Agent4Ranking | Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15450) |
+| PopNudge | Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.16738) |
 
 </p>
 </details>
@@ -277,6 +278,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | RecMind | RecMind: Large Language Model Powered Agent For Recommendation | ChatGPT | Frozen | NAACL 2024 | [[Link]](https://arxiv.org/abs/2308.14296) |
 | InteRecAgent | Recommender AI Agent: Integrating Large Language Models for Interactive Recommendations | GPT4 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.16505) |
 | CORE | Lending Interaction Wings to Recommender Systems with Conversational Agents | N/A | N/A | NIPS 2023 | [[Link]](https://arxiv.org/abs/2310.04230) |
+| LLMCRS | A Large Language Model Enhanced Conversational Recommender System | LLaMA (7B) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06212) |
 
 </p>
 </details>
@@ -288,6 +290,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| When Search Engine Services meet Large Language Models: Visions and Challenges | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.00128) |
 | A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys) | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.00579) |
 | Exploring the Impact of Large Language Models on Recommender Systems: An Extensive Review | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18590) |
 | Foundation Models for Recommender Systems: A Survey and New Perspectives | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.11143) |
@@ -322,9 +325,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
-|  | A Large Language Model Enhanced Conversational Recommender System |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.06212) |
-|  | Improving Conversational Recommendation Systems via Bias Analysis and Language-Model-Enhanced Data Augmentation |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.16738) |
-|  | Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.10967) |
+| KERL | Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems |  |  | TNNLS | [[Link]](https://arxiv.org/abs/2312.10967) |
 |  | Unlocking the Potential of Large Language Models for Explainable Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
 |  | The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15524) |
 |  | Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations |  |  | IEEE Access | [[Link]](https://arxiv.org/abs/2312.13557) |
