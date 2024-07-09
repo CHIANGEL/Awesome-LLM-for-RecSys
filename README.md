@@ -55,6 +55,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | UEM | User Embedding Model for Personalized Language Prompting | FLAN-T5-base (250M) | Full Finetuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04858) |
 | LLMHG | LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation | GPT4 | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.08217) |
 | Llama4Rec | Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation | LLaMA2 (7B) | Full Finetuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.13870) |
+| LLM4Vis | LLM4Vis: Explainable Visualization Recommendation using ChatGPT | ChatGPT | Frozen | EMNLP 2023 | [[Link]](https://arxiv.org/abs/2310.07652) |
+| LoRec | LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks | LLaMA2 | Frozen | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2401.17723) |
 
 <b>1.1.2 Instance-level Sample Generation</b>
 
@@ -109,6 +111,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Social-LLM | Social-LLM: Modeling User Behavior at Scale using Language Models and Social Network Data | SBERT-MPNet-base (110M) | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.00893) |
 | LLMRS | LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase | MPNet (110M) | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.06676) |
 | KERL | Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems | BERT-mini | Frozen | TNNLS | [[Link]](https://arxiv.org/abs/2312.10967) |
+| N/A | Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations | ChatGPT | Frozen | IEEE Access | [[Link]](https://arxiv.org/abs/2312.13557) |
 
 <b>1.2.2 Unified Cross-domain Recommendation</b>
 
@@ -126,6 +129,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | UFIN | UFIN: Universal Feature Interaction Network for Multi-Domain Click-Through Rate Prediction | FLAN-T5-base (250M) | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.15493) |
 | PMMRec | Multi-Modality is All You Need for Transferable Recommender Systems | RoBERTa-large (355M) | Top-2-layer Finetuning | ICDE 2024 | [[Link]](https://arxiv.org/abs/2312.09602) |
 | Uni-CTR | A Unified Framework for Multi-Domain CTR Prediction via Large Language Models | Sheared-LLaMA (1.3B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.10743) |
+| PCDR | Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation | BERT-base (110M) | Frozen | WWW 2024 | [[Link]](https://arxiv.org/abs/2401.14678) |
 
 </p>
 </details>
@@ -220,6 +224,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LiT5 | Scaling Down, LiTting Up: Efficient Zero-Shot Listwise Reranking with Seq2seq Encoder-Decoder Models | T5-XL (3B) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.16098) |
 | STELLA | Large Language Models are Not Stable Recommender Systems | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15746) |
 | Llama4Rec | Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation | LLaMA2 (7B) | Full Finetuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.13870) |
+| RECLLM | Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency | ChatGPT | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.10545) |
+| DEALRec | Data-efficient Fine-tuning for LLM-based Recommendation | LLaMA (7B) | LoRA | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.17197) |
 
 <b>1.3.3 Hybrid Task</b>
 
@@ -253,6 +259,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | N/A | Large Language Models as Zero-Shot Conversational Recommenders | GPT4 | Frozen | CIKM 2023 | [[Link]](https://arxiv.org/abs/2308.10053) |
 | MuseChat | MuseChat: A Conversational Music Recommendation System for Videos | Vicuna (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2310.06282) |
 | N/A | Conversational Recommender System and Large Language Model Are Made for Each Other in E-commerce Pre-sales Dialogue | Chinese-Alpaca (7B) | LoRA | EMNLP 2023 Findings | [[Link]](https://arxiv.org/abs/2310.14626) |
+| N/A | ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback | ChatGPT | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.03605) |
 
 <b>1.4.2 Open-ended User Interaction</b>
     
@@ -264,6 +271,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | T5-CR | Multi-Task End-to-End Training Improves Conversational Recommendation | T5-base (223M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.06218) |
 | TtW | Talk the Walk: Synthetic Data Generation for Conversational Music Recommendation | T5-base (223M) & T5-XXL (11B) | Full Finetuning & Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2301.11489) |
 | N/A | Rethinking the Evaluation for Conversational Recommendation in the Era of Large Language Models | ChatGPT | Frozen | EMNLP 2023 | [[Link]](https://arxiv.org/abs/2305.13112) |
+| PECRS | Parameter-Efficient Conversational Recommender System as a Language Processing Task | GPT2-medium (355M) | LoRA | EACL 2024 | [[Link]](https://arxiv.org/abs/2401.14194) |
 
 </p>
 </details>
@@ -317,6 +325,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Generative Recommendation: Towards Next-generation Recommender Paradigm | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03516) |
 | Towards Personalized Prompt-Model Retrieval for Generative Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.02205) |
 | Generative Next-Basket Recommendation | RecSys 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3604915.3608823) |
+| LLMXRec | Unlocking the Potential of Large Language Models for Explainable Recommendations | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
+| Logic-Scaffolding | Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs | Falcon (40B) | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/abs/2312.14345) |
     
 </p>
 </details>
@@ -326,22 +336,6 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
-| LLMXRec | Unlocking the Potential of Large Language Models for Explainable Recommendations |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
-|  | The Challenge of Using LLMs to Simulate Human Behavior: A Causal Inference Perspective |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15524) |
-|  | Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations |  |  | IEEE Access | [[Link]](https://arxiv.org/abs/2312.13557) |
-|  | dIR -- Discrete Information Retrieval: Conversational Search over Unstructured (and Structured) Data with Large Language Models |  |  | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.13264) |
-| Logic-Scaffolding | Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs | Falcon (40B) | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/abs/2312.14345) |
-|  | Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04057) |
-|  | ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.03605) |
-|  | Combining Embedding-Based and Semantic-Based Models for Post-hoc Explanations in Recommender Systems |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.04474) |
-|  | Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.10545) |
-|  | LLM4Vis: Explainable Visualization Recommendation using ChatGPT |  |  | EMNLP 2023 | [[Link]](https://arxiv.org/abs/2310.07652) |
-|  | Parameter-Efficient Conversational Recommender System as a Language Processing Task |  |  | EACL 2024 | [[Link]](https://arxiv.org/abs/2401.14194) |
-|  | Data-efficient Fine-tuning for LLM-based Recommendation |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.17197) |
-|  | Prompt-enhanced Federated Content Representation Learning for Cross-domain Recommendation |  |  | WWW 2024 | [[Link]](https://arxiv.org/abs/2401.14678) |
-|  | LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.17723) |
-|  | PAP-REC: Personalized Automatic Prompt for Recommendation Language Model |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.00284) |
-|  | From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.00421) |
 |  | Improving Sequential Recommendations with LLMs |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01339) |
 |  | A Multi-Agent Conversational Recommender System |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01135) |
 |  | TransFR: Transferable Federated Recommendation with Pre-trained Language Models |  |  | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01124) |
