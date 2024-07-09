@@ -2,16 +2,17 @@
 
 A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics. 
 
-:satisfied: Please check out our survey paper for LLM-enhanced RS: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/pdf/2306.05817v5.pdf)
+:tada: Our survey paper has been accepted by **_ACM Transactions on Information Systems (TOIS)_**: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/pdf/2306.05817.pdf)
 
-To catch up with the latest research progress, this repository will be actively maintained as well as our released survey paper. Newly added papers will first appear in ``1.6 Paper Pending List: to be Added to Our Survey Paper`` section.
+:bell: Since our survey paper is archived, we will update the latest research works at ``1.6 Newest Research Work List``.
 
-:rocket:	**2024.02.05 - Paper v5 released**: New release with 27-page main content & more thorough taxonomies.
+:rocket:	**2024.07.09 - Paper v6 released**: Our camera-ready Version for TOIS, which will be archived.
 <details><summary><b>Survey Paper Update Logs</b></summary>
 
 <p>
 <ul>
-  <li><b>2023.06.29 - Paper v5 released</b>: New release with 27-page main content & more thorough taxonomies.</li>
+  <li><b>2024.07.09 - Paper v6 released</b>: Our camera-ready Version for TOIS, which will be archived.</li>
+  <li><b>2024.02.05 - Paper v5 released</b>: New release with 27-page main content & more thorough taxonomies.</li>
   <li><b>2023.06.29 - Paper v4 released</b>: 7 papers have been newly added.</li>
   <li><b>2023.06.28 - Paper v3 released</b>: Fix typos.</li>
   <li><b>2023.06.12 - Paper v2 released</b>: Add summerization table in the appendix.</li>
