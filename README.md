@@ -6,7 +6,7 @@ A collection of AWESOME papers and resources on the large language model (LLM) r
 
 :bell: Since our survey paper is archived, we will update the latest research works at ``1.7 Newest Research Work List``.
 
-:rocket:	**2024.07.09 - Paper v6 released**: Our camera-ready Version for TOIS, which will be archived.
+:rocket:	**2024.07.09 - Paper v6 released**: Our archived camera-ready version for TOIS.
 <details><summary><b>Survey Paper Update Logs</b></summary>
 
 <p>
