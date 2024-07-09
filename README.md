@@ -298,6 +298,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| Survey for Landing Generative AI in Social and E-commerce Recsys - the Industry Perspectives | Arxiv 2024 | [[Link]](https://www.arxiv.org/abs/2406.06475) |
+| A Survey of Generative Search and Recommendation in the Era of Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.16924) |
 | When Search Engine Services meet Large Language Models: Visions and Challenges | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.00128) |
 | A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys) | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.00579) |
 | Exploring the Impact of Large Language Models on Recommender Systems: An Extensive Review | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18590) |
@@ -328,9 +330,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Generative Recommendation: Towards Next-generation Recommender Paradigm | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03516) |
 | Towards Personalized Prompt-Model Retrieval for Generative Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.02205) |
 | Generative Next-Basket Recommendation | RecSys 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3604915.3608823) |
-| LLMXRec | Unlocking the Potential of Large Language Models for Explainable Recommendations | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
-| Logic-Scaffolding | Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs | Falcon (40B) | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/abs/2312.14345) |
-
+| Unlocking the Potential of Large Language Models for Explainable Recommendations | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
+| Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs | Falcon (40B) | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/abs/2312.14345) |
 | Improving Sequential Recommendations with LLMs | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01339) |
 | A Multi-Agent Conversational Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01135) |
 | TransFR: Transferable Federated Recommendation with Pre-trained Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01124) |
@@ -426,11 +427,90 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Towards LLM-RecSys Alignment with Textual ID Learning | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2403.19021) |
 | Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2403.19347) |
 | Make Large Language Model a Better Ranker | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.19181) |
-|  |  | [[Link]]() |
-|  |  | [[Link]]() |
-|  |  | [[Link]]() |
-
-
+| Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers | NAACL 2024 | [[Link]](https://arxiv.org/abs/2404.03192) |
+| IISAN: Efficiently Adapting Multimodal Representation for Sequential Recommendation with Decoupled PEFT | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2404.02059) |
+| Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.01855) |
+| Tired of Plugins? Large Language Models Can Be End-To-End Recommender | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.00702) |
+| Aligning Large Language Models with Recommendation Knowledge | NAACL 2024 | [[Link]](https://arxiv.org/abs/2404.00245) |
+| Enhancing Content-based Recommendation via Large Language Model | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.00236) |
+| DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.06311) |
+| Optimization Methods for Personalizing Large Language Models through Retrieval Augmentation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.05970) |
+| Q-PEFT: Query-dependent Parameter Efficient Fine-tuning for Text Reranking with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.04522) |
+| JobFormer: Skill-Aware Job Recommendation with Semantic-Enhanced Transformer | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.04313) |
+| PMG : Personalized Multimodal Generation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.08677) |
+| The Elephant in the Room: Rethinking the Usage of Pre-trained Language Model in Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.08796) |
+| Exact and Efficient Unlearning for Large Language Model-based Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.10327) |
+| Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.11343) |
+| Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2404.11773) |
+| Generating Diverse Criteria On-the-Fly to Improve Point-wise LLM Rankers | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.11960) |
+| RecGPT: Generative Personalized Prompts for Sequential Recommendation via ChatGPT Training Paradigm | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.08675) |
+| MMGRec: Multimodal Generative Recommendation with Transformer Model | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.16555) |
+| Hi-Gen: Generative Retrieval For Large-Scale Personalized E-commerce Search | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.15675) |
+| Contrastive Quantization based Semantic Code for Generative Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.14774) |
+| ImplicitAVE: An Open-Source Dataset and Multimodal LLMs Benchmark for Implicit Attribute Value Extraction | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.15592) |
+| Large Language Models for Next Point-of-Interest Recommendation | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2404.17591) |
+| Ranked List Truncation for Large Language Model-based Re-Ranking | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2404.18185) |
+| Large Language Models as Conversational Movie Recommenders: A User Study | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.19093) |
+| Distillation Matters: Empowering Sequential Recommenders to Match the Performance of Large Language Model | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.00338) |
+| Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.00824) |
+| FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.02219) |
+| Improve Temporal Awareness of LLMs for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.02778) |
+| CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.02429) |
+| Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.03988) |
+| DynLLM: When Large Language Models Meet Dynamic Graph Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.07580) |
+| Learnable Tokenizer for LLM-based Generative Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org//2405.07314) |
+| CELA: Cost-Efficient Language Model Alignment for CTR Prediction | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.10596) |
+| RDRec: Rationale Distillation for LLM-based Recommendation | ACL 2024 | [[Link]](https://arxiv.org/abs/2405.10587) |
+| EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations | Arxiv 2024 | [[Link]](https://www.arxiv.org/abs/2405.11441) |
+| Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.12119) |
+| RecGPT: Generative Pre-training for Text-based Recommendation | ACL 2024 | [[Link]](https://arxiv.org/abs/2405.12715) |
+| Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2405.15114) |
+| Finetuning Large Language Model for Personalized Ranking | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.16127) |
+| LLMs for User Interest Exploration: A Hybrid Approach | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.16363) |
+| NoteLLM-2: Multimodal Large Representation Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.16789) |
+| Multimodality Invariant Learning for Multimedia-Based New Item Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.15783) |
+| SLMRec: Empowering Small Language Models for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.17890) |
+| Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.19612) |
+| Generating Query Recommendations via LLMs | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.19749) |
+| Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.20646) |
+| DisCo: Towards Harmonious Disentanglement and Collaboration between Tabular and Semantic Space for Recommendation | KDD 2024 | [[Link]](https://arxiv.org/abs/2406.00011) |
+| LLM-RankFusion: Mitigating Intrinsic Inconsistency in LLM-based Ranking | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.00231) |
+| A Practice-Friendly Two-Stage LLM-Enhanced Paradigm in Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.00333) |
+| Large Language Models as Recommender Systems: A Study of Popularity Bias | Gen-IR@SIGIR24 | [[Link]](https://arxiv.org/abs/2406.01285) |
+| Privacy in LLM-based Recommendation: Recent Advances and Future Directions | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.01363) |
+| An LLM-based Recommender System Environment | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.01631) |
+| Robust Interaction-based Relevance Modeling for Online E-Commerce and LLM-based Retrieval | ECML-PKDD 2024 | [[Link]](https://arxiv.org/abs/2406.02135) |
+| Large Language Models Make Sample-Efficient Recommender Systems | FCS | [[Link]](https://arxiv.org/abs/2406.02368) |
+| XRec: Large Language Models for Explainable Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.02377) |
+| Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.03085) |
+| Large Language Models as Evaluators for Recommendation Explanations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.03248) |
+| Text-like Encoding of Collaborative Information in Large Language Models for Recommendation | ACL 2024 | [[Link]](https://arxiv.org/abs/2406.03210) |
+| Item-Language Model for Conversational Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.02844) |
+| Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.08477) |
+| On Softmax Direct Preference Optimization for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.09215) |
+| TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.10450) |
+| DELRec: Distilling Sequential Pattern to Enhance LLM-based Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.11156) |
+| TourRank: Utilizing Large Language Models for Documents Ranking with a Tournament-Inspired Strategy | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.11678) |
+| Multi-Layer Ranking with Large Language Models for News Source Recommendation | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2406.11745) |
+| Intermediate Distillation: Data-Efficient Distillation from Black-Box LLMs for Information Retrieval | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.12169) |
+| LLM-enhanced Reranking in Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.12433) |
+| LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.12529) |
+| Taxonomy-Guided Zero-Shot Recommendations with LLMs | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.14043) |
+| EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration | KDD 2024 | [[Link]](https://arxiv.org/abs/2406.14017) |
+| An Investigation of Prompt Variations for Zero-shot LLM-based Rankers | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.14117) |
+| Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning | KDD 2024 | [[Link]](https://arxiv.org/abs/2406.14169) |
+| Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning | https://arxiv.org/abs/2406.13235 | [[Link]](https://arxiv.org/abs/2406.13235) |
+| Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.14900) |
+| FIRST: Faster Improved Listwise Reranking with Single Token Decoding | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.15657) |
+| LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.15859) |
+| DemoRank: Selecting Effective Demonstrations for Large Language Models in Ranking Task | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.16332) |
+| ELCoRec: Enhance Language Understanding with Co-Propagation of Numerical and Categorical Features for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.18825) |
+| Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers | ACL 2024 | [[Link]](https://arxiv.org/abs/2406.05255) |
+| ProductAgent: Benchmarking Conversational Product Search Agent with Asking Clarification Questions | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.00942) |
+| MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.04960) |
+| Preference Distillation for Personalized Generative Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.05033) |
+| Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.05420) |
+| Language Models Encode Collaborative Signals in Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.05441) |
 
 <!---
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
