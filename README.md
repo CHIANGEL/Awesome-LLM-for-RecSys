@@ -387,6 +387,50 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06642) |
 | USimAgent: Large Language Models for Simulating Search Users | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.09142) |
 | CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.02429) |
+| Integrating Large Language Models with Graphical Session-Based Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.16539) |
+| Language-Based User Profiles for Recommendation | LLM-IGS@WSDM2024 | [[Link]](https://arxiv.org/abs/2402.15623) |
+| BASES: Large-scale Web Search User Simulation with Large Language Model based Agents | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.17505) |
+| Prospect Personalized Recommendation on Large Language Model-based Agent Platform | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18240) |
+| Sequence-level Semantic Representation Fusion for Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.18166) |
+| Corpus-Steered Query Expansion with Large Language Models | EACL 2024 | [[Link]](https://arxiv.org/abs/2402.18031) |
+| NoteLLM: A Retrievable Large Language Model for Note Recommendation | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.01744) |
+| An Interpretable Ensemble of Graph and Language Models for Improving Search Relevance in E-Commerce | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.00923) |
+| LLM-Ensemble: Optimal Large Language Model Ensemble Method for E-commerce Product Attribute Value Extraction | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2403.00863) |
+| Enhancing Long-Term Recommendation with Bi-level Learnable Large Language Model Planning | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2403.00843) |
+| Towards Efficient and Effective Unlearning of Large Language Models for Recommendation | FCS | [[Link]](https://arxiv.org/abs/2403.03536) |
+| Generative News Recommendation | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.03424) |
+| Bridging Language and Items for Retrieval and Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.03952) |
+| Can Small Language Models be Good Reasoners for Sequential Recommendation? | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.04260) |
+| Aligning Large Language Models for Controllable Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.05063) |
+| Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.05185) |
+| CFaiRLLM: Consumer Fairness Evaluation in Large-Language Model Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.05668) |
+| CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06447) |
+| RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.06465) |
+| KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.06642) |
+| Towards Graph Foundation Models for Personalization | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.07478) |
+| USimAgent: Large Language Models for Simulating Search Users | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.09142) |
+| The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation | NAACL 2024 | [[Link]](https://arxiv.org/abs/2403.10135) |
+| PPM : A Pre-trained Plug-in Model for Click-through Rate Prediction | WWW 2024 | [[Link]](https://arxiv.org/abs/2403.10049) |
+| Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.09738) |
+| Towards Unified Multi-Modal Personalization: Large Vision-Language Models for Generative Recommendation and Beyond | ICLR 2024 | [[Link]](https://arxiv.org/abs/2403.10667) |
+| Harnessing Large Language Models for Text-Rich Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.13325) |
+| A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.13574) |
+| Could Small Language Models Serve as Recommenders? Towards Data-centric Cold-start Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2306.17256) |
+| Play to Your Strengths: Collaborative Intelligence of Conventional Recommender Models and Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.16378) |
+| Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.16948) |
+| Large Language Models Enhanced Collaborative Filtering | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.17688) |
+| Improving Content Recommendation: Knowledge Graph-Based Semantic Contrastive Learning for Diversity and Cold-Start Users | LREC-COLING 2024 | [[Link]](https://arxiv.org/abs/2403.18667) |
+| Sequential Recommendation with Latent Relations based on Large Language Model | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.18348) |
+| Enhanced Generative Recommendation via Content and Collaboration Integration | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.18480) |
+| To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.18628) |
+| Towards LLM-RecSys Alignment with Textual ID Learning | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2403.19021) |
+| Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2403.19347) |
+| Make Large Language Model a Better Ranker | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.19181) |
+|  |  | [[Link]]() |
+|  |  | [[Link]]() |
+|  |  | [[Link]]() |
+
+
 
 <!---
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
