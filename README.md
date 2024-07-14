@@ -2,7 +2,7 @@
 
 A collection of AWESOME papers and resources on the large language model (LLM) related recommender system topics. 
 
-:tada: Our survey paper has been accepted by **_ACM Transactions on Information Systems (TOIS)_**: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://arxiv.org/pdf/2306.05817.pdf)
+:tada: Our survey paper has been accepted by **_ACM Transactions on Information Systems (TOIS)_**: [How Can Recommender Systems Benefit from Large Language Models: A Survey](https://dl.acm.org/doi/10.1145/3678004)
 
 :bell: Since our survey paper is archived, we will update the latest research works at ``1.7 Newest Research Work List``.
 
@@ -628,10 +628,16 @@ If you have come across relevant resources or found some errors in this repesito
 ## Citation
 
 ```
-@article{lin2023can,
-  title={How Can Recommender Systems Benefit from Large Language Models: A Survey},
-  author={Lin, Jianghao and Dai, Xinyi and Xi, Yunjia and Liu, Weiwen and Chen, Bo and Zhang, Hao and Liu, Yong and Wu, Chuhan and Li, Xiangyang and Zhu, Chenxu and Guo, Huifeng and Yu, Yong and Tang, Ruiming and Zhang, Weinan},
-  journal={arXiv preprint arXiv:2306.05817},
-  year={2023}
+@article{10.1145/3678004,
+author = {Lin, Jianghao and Dai, Xinyi and Xi, Yunjia and Liu, Weiwen and Chen, Bo and Zhang, Hao and Liu, Yong and Wu, Chuhan and Li, Xiangyang and Zhu, Chenxu and Guo, Huifeng and Yu, Yong and Tang, Ruiming and Zhang, Weinan},
+title = {How Can Recommender Systems Benefit from Large Language Models: A Survey},
+year = {2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {1046-8188},
+url = {https://doi.org/10.1145/3678004},
+doi = {10.1145/3678004},
+journal = {ACM Trans. Inf. Syst.},
+month = {jul}
 }
 ```
