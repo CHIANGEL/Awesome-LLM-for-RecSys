@@ -513,6 +513,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Preference Distillation for Personalized Generative Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.05033) |
 | Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.05420) |
 | Language Models Encode Collaborative Signals in Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.05441) |
+| A Neural Matrix Decomposition Recommender System Model based on the Multimodal Large Language Model | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.08942) |
 
 <!---
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
