@@ -300,6 +300,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| All Roads Lead to Rome: Unveiling the Trajectory of Recommender Systems Across the LLM Era | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.10081) |
 | Survey for Landing Generative AI in Social and E-commerce Recsys - the Industry Perspectives | Arxiv 2024 | [[Link]](https://www.arxiv.org/abs/2406.06475) |
 | A Survey of Generative Search and Recommendation in the Era of Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2404.16924) |
 | When Search Engine Services meet Large Language Models: Visions and Challenges | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.00128) |
