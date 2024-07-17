@@ -220,7 +220,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LC-Rec | Adapting Large Language Models by Integrating Collaborative Semantics for Recommendation | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.09049) |
 | DOKE | Knowledge Plugins: Enhancing Large Language Models for Domain-Specific Recommendations | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.10779) |
 | ControlRec | ControlRec: Bridging the Semantic Gap between Language Model and Personalized Recommendation | T5-base (223M) | Full Finetuning | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2311.16441) |
-| LLaRA | LLaRA: Aligning Large Language Models with Sequential Recommenders | LLaMA2 (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.02445) |
+| LLaRA | LLaRA: Large Language-Recommendation Assistant | LLaMA2 (7B) | LoRA | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2312.02445) |
 | PO4ISR | Large Language Models for Intent-Driven Session Recommendations | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.07552) |
 | DRDT | DRDT: Dynamic Reflection with Divergent Thinking for LLM-based Sequential Recommendation | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.11336) |
 | RecPrompt | RecPrompt: A Prompt Tuning Framework for News Recommendation Using Large Language Models | GPT4 | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.10463) |
@@ -427,7 +427,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Sequential Recommendation with Latent Relations based on Large Language Model | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.18348) |
 | Enhanced Generative Recommendation via Content and Collaboration Integration | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.18480) |
 | To Recommend or Not: Recommendability Identification in Conversations with Pre-trained Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.18628) |
-| Towards LLM-RecSys Alignment with Textual ID Learning | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2403.19021) |
+| IDGenRec: LLM-RecSys Alignment with Textual ID Learning | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2403.19021) |
 | Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors | SIGIR 2024 | [[Link]](https://arxiv.org/abs/2403.19347) |
 | Make Large Language Model a Better Ranker | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2403.19181) |
 | Do Large Language Models Rank Fairly? An Empirical Study on the Fairness of LLMs as Rankers | NAACL 2024 | [[Link]](https://arxiv.org/abs/2404.03192) |
@@ -515,6 +515,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Towards Bridging the Cross-modal Semantic Gap for Multi-modal Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.05420) |
 | Language Models Encode Collaborative Signals in Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.05441) |
 | A Neural Matrix Decomposition Recommender System Model based on the Multimodal Large Language Model | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.08942) |
+| LLMGR: Large Language Model-based Generative Retrieval in Alipay Search | SIGIR 2024 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3626772.3661364) |
+| Enhancing Sequential Recommenders with Augmented Knowledge from Aligned Large Language Models | SIGIR 2024 | [[Link]](https://dl.acm.org/doi/10.1145/3626772.3657782) |
+
 
 <!---
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
