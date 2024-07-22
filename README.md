@@ -6,7 +6,7 @@ A collection of AWESOME papers and resources on the large language model (LLM) r
 
 :bell: Since our survey paper is archived, we will update the latest research works at ``1.7 Newest Research Work List``.
 
-:grin: *I am also wrting weekly paper notes about latest LLM-enhanced RS at WeChat. Welcome to follow by scanning the [QR-Code](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/blob/main/wechat_for_paper_notes.jpeg).*
+:grin: I am also wrting weekly paper notes about latest LLM-enhanced RS at WeChat. Welcome to follow by scanning the [QR-Code](https://github.com/CHIANGEL/Awesome-LLM-for-RecSys/blob/main/wechat_for_paper_notes.jpeg).
 
 :rocket:	**2024.07.09 - Paper v6 released**: Our archived camera-ready version for TOIS.
 <details><summary><b>Survey Paper Update Logs</b></summary>
