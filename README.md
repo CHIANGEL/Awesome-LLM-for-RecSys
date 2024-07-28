@@ -517,6 +517,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | A Neural Matrix Decomposition Recommender System Model based on the Multimodal Large Language Model | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.08942) |
 | LLMGR: Large Language Model-based Generative Retrieval in Alipay Search | SIGIR 2024 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3626772.3661364) |
 | Enhancing Sequential Recommenders with Augmented Knowledge from Aligned Large Language Models | SIGIR 2024 | [[Link]](https://dl.acm.org/doi/10.1145/3626772.3657782) |
+| Reinforced Prompt Personalization for Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.17115) |
 
 
 <!---
