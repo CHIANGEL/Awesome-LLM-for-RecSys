@@ -502,7 +502,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration | KDD 2024 | [[Link]](https://arxiv.org/abs/2406.14017) |
 | An Investigation of Prompt Variations for Zero-shot LLM-based Rankers | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.14117) |
 | Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning | KDD 2024 | [[Link]](https://arxiv.org/abs/2406.14169) |
-| Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning | https://arxiv.org/abs/2406.13235 | [[Link]](https://arxiv.org/abs/2406.13235) |
+| Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.13235) |
 | Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.14900) |
 | FIRST: Faster Improved Listwise Reranking with Single Token Decoding | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.15657) |
 | LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2406.15859) |
