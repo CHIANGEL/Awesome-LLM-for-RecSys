@@ -519,6 +519,12 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Enhancing Sequential Recommenders with Augmented Knowledge from Aligned Large Language Models | SIGIR 2024 | [[Link]](https://dl.acm.org/doi/10.1145/3626772.3657782) |
 | Reinforced Prompt Personalization for Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.17115) |
 | Improving Retrieval in Sponsored Search by Leveraging Query Context Signals | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.14346) |
+| Generative Retrieval with Preference Optimization for E-commerce Search | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.19829) |
+| GenRec: Generative Personalized Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.21191v1) |
+| Breaking the Hourglass Phenomenon of Residual Quantization: Enhancing the Upper Bound of Generative Retrieval | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.21488) |
+| Semantic Codebook Learning for Dynamic Recommendation Models | Arxiv 2024 | [[Link]](https://www.arxiv.org/abs/2408.00123) |
+| Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights | Arxiv 2024 | [[Link]]() |
+| Adversarial Text Rewriting for Text-aware Recommender Systems | CIKM 2024 | [[Link]](https://arxiv.org/abs/2408.00312) |
 
 
 <!---
