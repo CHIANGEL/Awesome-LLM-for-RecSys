@@ -522,9 +522,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Generative Retrieval with Preference Optimization for E-commerce Search | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.19829) |
 | GenRec: Generative Personalized Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.21191v1) |
 | Breaking the Hourglass Phenomenon of Residual Quantization: Enhancing the Upper Bound of Generative Retrieval | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.21488) |
-| Semantic Codebook Learning for Dynamic Recommendation Models | MM 2024 | [[Link]](https://www.arxiv.org/abs/2408.00123) |
-| Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights | Arxiv 2024 | [[Link]]() |
-| Adversarial Text Rewriting for Text-aware Recommender Systems | CIKM 2024 | [[Link]](https://arxiv.org/abs/2408.00312) |
+| Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.19467) |
 
 
 <!---
