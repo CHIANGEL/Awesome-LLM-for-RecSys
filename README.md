@@ -523,6 +523,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | GenRec: Generative Personalized Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.21191v1) |
 | Breaking the Hourglass Phenomenon of Residual Quantization: Enhancing the Upper Bound of Generative Retrieval | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.21488) |
 | Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights | CIKM 2024 | [[Link]](https://arxiv.org/abs/2407.19467) |
+| Leveraging LLM Reasoning Enhances Personalized Recommender Systems | ACL 2024 |[[Link]](https://arxiv.org/abs/2408.00802) |
+| Multi-Aspect Reviewed-Item Retrieval via LLM Query Decomposition and Aspect Fusion | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.00878) |
 
 
 <!---
