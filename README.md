@@ -525,6 +525,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Enhancing Taobao Display Advertising with Multimodal Representations: Challenges, Approaches and Insights | CIKM 2024 | [[Link]](https://arxiv.org/abs/2407.19467) |
 | Leveraging LLM Reasoning Enhances Personalized Recommender Systems | ACL 2024 |[[Link]](https://arxiv.org/abs/2408.00802) |
 | Multi-Aspect Reviewed-Item Retrieval via LLM Query Decomposition and Aspect Fusion | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.00878) |
+| Lifelong Personalized Low-Rank Adaptation of Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://www.arxiv.org/abs/2408.03533) |
+| Exploring Query Understanding for Amazon Product Search | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.02215) |
 
 
 <!---
