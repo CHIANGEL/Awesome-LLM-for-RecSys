@@ -527,6 +527,12 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Multi-Aspect Reviewed-Item Retrieval via LLM Query Decomposition and Aspect Fusion | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.00878) |
 | Lifelong Personalized Low-Rank Adaptation of Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://www.arxiv.org/abs/2408.03533) |
 | Exploring Query Understanding for Amazon Product Search | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.02215) |
+| A Decoding Acceleration Framework for Industrial Deployable LLM-based Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.05676) |
+| Prompt Tuning as User Inherent Profile Inference Machine | Arxiv 2024 | [[Link]](https://arxiv.org/pdf/2408.06577) |
+| Beyond Inter-Item Relations: Dynamic Adaptive Mixture-of-Experts for LLM-Based Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/pdf/2408.07427) |
+| Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/pdf/2408.06276) |
+| DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/pdf/2408.08231) |
+| LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/pdf/2408.08208) |
 
 
 <!---
