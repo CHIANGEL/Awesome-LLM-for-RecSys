@@ -461,7 +461,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | CALRec: Contrastive Alignment of Generative LLMs For Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.02429) |
 | Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.03988) |
 | DynLLM: When Large Language Models Meet Dynamic Graph Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.07580) |
-| Learnable Tokenizer for LLM-based Generative Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org//2405.07314) |
+| Learnable Tokenizer for LLM-based Generative Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/2405.07314) |
 | CELA: Cost-Efficient Language Model Alignment for CTR Prediction | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2405.10596) |
 | RDRec: Rationale Distillation for LLM-based Recommendation | ACL 2024 | [[Link]](https://arxiv.org/abs/2405.10587) |
 | EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations | Arxiv 2024 | [[Link]](https://www.arxiv.org/abs/2405.11441) |
