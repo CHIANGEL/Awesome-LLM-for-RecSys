@@ -535,8 +535,15 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/pdf/2408.08231) |
 | LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/pdf/2408.08208) |
 | EasyRec: Simple yet Effective Language Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.08821) |
-
-
+| Collaborative Cross-modal Fusion with Large Language Model for Recommendation | CIKM 2024 | [[Link]](https://www.arxiv.org/abs/2408.08564) |
+| Customizing Language Models with Instance-wise LoRA for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.10159) |
+| Efficient and Deployable Knowledge Infusion for Open-World Recommendations via Large Language Models | Arxiv 2024 | [[Link]](https://www.arxiv.org/abs/2408.10520) |
+| CoRA: Collaborative Information Perception by Large Language Model's Weights for Recommendation | Arxiv 2024 | [[Link]](https://www.arxiv.org/abs/2408.10645) |
+| GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.09671) |
+| Harnessing Multimodal Large Language Models for Multimodal Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.09698) |
+| DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems | Arxiv | [[Link]](https://arxiv.org/abs/2408.12470) |
+| LARR: Large Language Model Aided Real-time Scene Recommendation with Semantic Understanding | RecSys 2024 | [[Link]](https://arxiv.org/abs/2408.11523) |
+| SC-Rec: Enhancing Generative Retrieval with Self-Consistent Reranking for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.08686) |
 
 <!---
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
