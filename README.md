@@ -534,6 +534,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/pdf/2408.06276) |
 | DaRec: A Disentangled Alignment Framework for Large Language Model and Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/pdf/2408.08231) |
 | LLM4DSR: Leveraing Large Language Model for Denoising Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/pdf/2408.08208) |
+| EasyRec: Simple yet Effective Language Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.08821) |
+
 
 
 <!---
