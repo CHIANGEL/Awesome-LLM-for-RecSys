@@ -544,6 +544,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems | Arxiv | [[Link]](https://arxiv.org/abs/2408.12470) |
 | LARR: Large Language Model Aided Real-time Scene Recommendation with Semantic Understanding | RecSys 2024 | [[Link]](https://arxiv.org/abs/2408.11523) |
 | SC-Rec: Enhancing Generative Retrieval with Self-Consistent Reranking for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.08686) |
+| Are LLM-based Recommenders Already the Best? Simple Scaled Cross-entropy Unleashes the Potential of Traditional Sequential Recommenders | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.14238) |
+| HRGraph: Leveraging LLMs for HR Data Knowledge Graphs with Information Propagation-based Job Recommendation | KaLLM 2024 | [[Link]](https://arxiv.org/abs/2408.13521) |
+| An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.16032) |
+| CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent | KDD 2024 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3637528.3671837) |
 
 <!---
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
