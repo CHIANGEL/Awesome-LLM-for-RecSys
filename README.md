@@ -334,7 +334,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Generative Recommendation: Towards Next-generation Recommender Paradigm | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2304.03516) |
 | Towards Personalized Prompt-Model Retrieval for Generative Recommendation | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2308.02205) |
 | Generative Next-Basket Recommendation | RecSys 2023 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3604915.3608823) |
-| Unlocking the Potential of Large Language Models for Explainable Recommendations | LLaMA (7B) | LoRA | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
+| Unlocking the Potential of Large Language Models for Explainable Recommendations | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2312.15661) |
 | Logic-Scaffolding: Personalized Aspect-Instructed Recommendation Explanation Generation using LLMs | Falcon (40B) | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/abs/2312.14345) |
 | Improving Sequential Recommendations with LLMs | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01339) |
 | A Multi-Agent Conversational Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2402.01135) |
