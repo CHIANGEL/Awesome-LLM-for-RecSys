@@ -548,6 +548,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | HRGraph: Leveraging LLMs for HR Data Knowledge Graphs with Information Propagation-based Job Recommendation | KaLLM 2024 | [[Link]](https://arxiv.org/abs/2408.13521) |
 | An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2408.16032) |
 | CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent | KDD 2024 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3637528.3671837) |
+| Laser: Parameter-Efficient LLM Bi-Tuning for Sequential Recommendation with Collaborative Information | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2409.01605) |
+| MARS: Matching Attribute-aware Representations for Text-based Sequential Recommendation | CIKM 2024 | [[Link]](https://arxiv.org/abs/2409.00702) |
 
 <!---
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
