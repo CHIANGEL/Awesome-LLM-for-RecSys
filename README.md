@@ -550,6 +550,11 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | CheatAgent: Attacking LLM-Empowered Recommender Systems via LLM Agent | KDD 2024 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3637528.3671837) |
 | Laser: Parameter-Efficient LLM Bi-Tuning for Sequential Recommendation with Collaborative Information | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2409.01605) |
 | MARS: Matching Attribute-aware Representations for Text-based Sequential Recommendation | CIKM 2024 | [[Link]](https://arxiv.org/abs/2409.00702) |
+| End-to-End Learnable Item Tokenization for Generative Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2409.05546) |
+| Incorporate LLMs with Influential Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2409.04827) |
+| Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2409.06377) |
+| STORE: Streamlining Semantic Tokenization and Generative Recommendation with A Single LLM | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2409.07276) |
+| Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2409.07604) |
 
 <!---
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
