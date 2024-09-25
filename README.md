@@ -115,6 +115,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LLMRS | LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase | MPNet (110M) | Frozen | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2401.06676) |
 | KERL | Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems | BERT-mini | Frozen | TNNLS | [[Link]](https://arxiv.org/abs/2312.10967) |
 | N/A | Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations | ChatGPT | Frozen | IEEE Access | [[Link]](https://arxiv.org/abs/2312.13557) |
+| N/A | Better Generalization with Semantic IDs: A Case Study in Ranking for Recommendations | Unknown | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.08121) |
 
 <b>1.2.2 Unified Cross-domain Recommendation</b>
 
