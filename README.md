@@ -567,6 +567,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2409.12740) |
 | Large Language Model Ranker with Graph Reasoning for Zero-Shot Recommendation | ICANN 2024 | [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-72344-5_24) |
 | User Knowledge Prompt for Sequential Recommendation | RecSys 2024 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3640457.3691714) |
+| RLRF4Rec: Reinforcement Learning from Recsys Feedback for Enhanced Recommendation Reranking | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.05939) |
 
 </p >
 </details>
