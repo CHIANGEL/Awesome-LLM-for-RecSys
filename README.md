@@ -568,6 +568,13 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Large Language Model Ranker with Graph Reasoning for Zero-Shot Recommendation | ICANN 2024 | [[Link]](https://link.springer.com/chapter/10.1007/978-3-031-72344-5_24) |
 | User Knowledge Prompt for Sequential Recommendation | RecSys 2024 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3640457.3691714) |
 | RLRF4Rec: Reinforcement Learning from Recsys Feedback for Enhanced Recommendation Reranking | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.05939) |
+| FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.04927) |
+| TLRec: A Transfer Learning Framework to Enhance Large Language Models for Sequential Recommendation Tasks | RecSys 2024 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3640457.3691710) |
+| SeCor: Aligning Semantic and Collaborative Representations by Large Language Models for Next-Point-of-Interest Recommendations | RecSys 2024 | [[Link]](https://dl.acm.org/doi/abs/10.1145/3640457.3688124) |
+| Efficient Inference for Large Language Model-based Generative Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.05165) |
+| Instructing and Prompting Large Language Models for Explainable Cross-domain Recommendations | RecSys 2024 | [[Link]](https://dl.acm.org/doi/10.1145/3640457.3688137) |
+| ReLand: Integrating Large Language Models' Insights into Industrial Recommenders via a Controllable Reasoning Pool | RecSys 2024 | [[Link]](https://dl.acm.org/doi/10.1145/3640457.3688131) |
+| Inductive Generative Recommendation via Retrieval-based Speculation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.02939) |
 
 </p >
 </details>
