@@ -575,6 +575,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Instructing and Prompting Large Language Models for Explainable Cross-domain Recommendations | RecSys 2024 | [[Link]](https://dl.acm.org/doi/10.1145/3640457.3688137) |
 | ReLand: Integrating Large Language Models' Insights into Industrial Recommenders via a Controllable Reasoning Pool | RecSys 2024 | [[Link]](https://dl.acm.org/doi/10.1145/3640457.3688131) |
 | Inductive Generative Recommendation via Retrieval-based Speculation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.02939) |
+| Constructing and Masking Preference Profile with LLMs for Filtering Discomforting Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.05411) |
 
 </p >
 </details>
