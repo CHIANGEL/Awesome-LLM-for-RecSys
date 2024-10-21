@@ -576,6 +576,12 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | ReLand: Integrating Large Language Models' Insights into Industrial Recommenders via a Controllable Reasoning Pool | RecSys 2024 | [[Link]](https://dl.acm.org/doi/10.1145/3640457.3688131) |
 | Inductive Generative Recommendation via Retrieval-based Speculation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.02939) |
 | Constructing and Masking Preference Profile with LLMs for Filtering Discomforting Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.05411) |
+| Towards Scalable Semantic Representation for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.09560) |
+| Large Language Models as Narrative-Driven Recommenders | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.13604) |
+| The Moral Case for Using Language Model Agents for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.12123) |
+| RosePO: Aligning LLM-based Recommenders with Human Values | Arxiv 2024 | [[Link]](RosePO: Aligning LLM-based Recommenders with Human Values) |
+| Comprehending Knowledge Graphs with Large Language Models for Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.12229) |
+| Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.12228) |
 
 </p >
 </details>
