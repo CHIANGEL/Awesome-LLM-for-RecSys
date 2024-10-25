@@ -579,11 +579,12 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Towards Scalable Semantic Representation for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.09560) |
 | Large Language Models as Narrative-Driven Recommenders | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.13604) |
 | The Moral Case for Using Language Model Agents for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.12123) |
-| RosePO: Aligning LLM-based Recommenders with Human Values | Arxiv 2024 | [[Link]](RosePO: Aligning LLM-based Recommenders with Human Values) |
+| RosePO: Aligning LLM-based Recommenders with Human Values | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.12519) |
 | Comprehending Knowledge Graphs with Large Language Models for Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.12229) |
 | Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.12228) |
 | Improving Pinterest Search Relevance Using Large Language Models | CIKM 2024 Workshop | [[Link]](https://arxiv.org/abs/2410.17152) |
 | STAR: A Simple Training-free Approach for Recommendations using Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.16458) |
+| End-to-end Training for Recommendation with Language-based User Profiles | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.18870) |
 
 </p >
 </details>
