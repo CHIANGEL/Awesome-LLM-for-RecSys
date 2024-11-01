@@ -301,6 +301,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.19744) |
 | Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era | KDD 2024 | [[Link]](https://arxiv.org/abs/2404.11457) |
 | All Roads Lead to Rome: Unveiling the Trajectory of Recommender Systems Across the LLM Era | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2407.10081) |
 | Survey for Landing Generative AI in Social and E-commerce Recsys - the Industry Perspectives | Arxiv 2024 | [[Link]](https://www.arxiv.org/abs/2406.06475) |
@@ -585,6 +586,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Improving Pinterest Search Relevance Using Large Language Models | CIKM 2024 Workshop | [[Link]](https://arxiv.org/abs/2410.17152) |
 | STAR: A Simple Training-free Approach for Recommendations using Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.16458) |
 | End-to-end Training for Recommendation with Language-based User Profiles | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.18870) |
+| Knowledge Graph Enhanced Language Agents for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.19627) |
+| Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.20642) |
 
 </p >
 </details>
