@@ -588,6 +588,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | End-to-end Training for Recommendation with Language-based User Profiles | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.18870) |
 | Knowledge Graph Enhanced Language Agents for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.19627) |
 | Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.20642) |
+| Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.23136) |
 
 </p >
 </details>
