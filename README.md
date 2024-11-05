@@ -591,6 +591,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Real-Time Personalization for LLM-based Recommendation with Customized In-Context Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.23136) |
 | ReasoningRec: Bridging Personalized Recommendations and Human-Interpretable Explanations through LLM Reasoning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.23180) |
 | Beyond Utility: Evaluating LLM as Recommender | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.00331) |
+| Enhancing ID-based Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.02041) |
+| LLM4PR: Improving Post-Ranking in Search Engine with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.01178) |
 
 </p >
 </details>
