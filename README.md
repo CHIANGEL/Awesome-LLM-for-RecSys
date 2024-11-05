@@ -593,6 +593,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Beyond Utility: Evaluating LLM as Recommender | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.00331) |
 | Enhancing ID-based Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.02041) |
 | LLM4PR: Improving Post-Ranking in Search Engine with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.01178) |
+| Proactive Detection and Calibration of Seasonal Advertisements with Multimodal Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.00780) |
 
 </p >
 </details>
