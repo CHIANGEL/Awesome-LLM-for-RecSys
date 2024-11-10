@@ -594,6 +594,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Enhancing ID-based Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.02041) |
 | LLM4PR: Improving Post-Ranking in Search Engine with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.01178) |
 | Proactive Detection and Calibration of Seasonal Advertisements with Multimodal Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.00780) |
+| Enhancing ID-based Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.02041) |
+| Transferable Sequential Recommendation via Vector Quantized Meta Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.01785) |
+| Self-Calibrated Listwise Reranking with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.04602) |
 
 </p >
 </details>
@@ -606,6 +609,7 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 
 | **Dataset** | **RS Scenario** | **Link** |
 |:---:|:---:|:---:|
+| AmazonQAC | Query Autocomplete | [[Link]](https://arxiv.org/abs/2411.04129) |
 | NineRec | 9 Domains | [[Link]](https://github.com/westlake-repl/NineRec) |
 | MicroLens | Video Streaming | [[Link]](https://github.com/westlake-repl/MicroLens?tab=readme-ov-file) |
 | Amazon-Review 2023 | E-commerce | [[Link]](https://arxiv.org/abs/2403.03952) |
