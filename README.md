@@ -597,6 +597,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Enhancing ID-based Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.02041) |
 | Transferable Sequential Recommendation via Vector Quantized Meta Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.01785) |
 | Self-Calibrated Listwise Reranking with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.04602) |
+| Enhancing Large Language Model Based Sequential Recommender Systems with Pseudo Labels Reconstruction | ACL Findings 2024 | [[Link]](https://aclanthology.org/2024.findings-emnlp.423/) |
 
 </p >
 </details>
