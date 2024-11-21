@@ -598,6 +598,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Transferable Sequential Recommendation via Vector Quantized Meta Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.01785) |
 | Self-Calibrated Listwise Reranking with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.04602) |
 | Enhancing Large Language Model Based Sequential Recommender Systems with Pseudo Labels Reconstruction | ACL Findings 2024 | [[Link]](https://aclanthology.org/2024.findings-emnlp.423/) |
+| Unleashing the Power of Large Language Models for Group POI Recommendations | Avrxi 2024 | [[Link]](https://arxiv.org/abs/2411.13415) |
+| Scaling Laws for Online Advertisement Retrieval | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.13322) |
+| Explainable LLM-driven Multi-dimensional Distillation for E-Commerce Relevance Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.13045) |
 
 </p >
 </details>
