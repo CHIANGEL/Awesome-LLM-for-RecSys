@@ -632,6 +632,7 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 
 | **Benchmarks** | **Webcite Link** | **Paper** |
 |:---:|:---:|:---:|
+| Shopping MMLU | [[Paper]](https://arxiv.org/abs/2410.20745?) |
 | Amazon-M2 (KDD Cup 2023) | [[Link]](https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge) | [[Paper]](https://arxiv.org/abs/2307.09688) |
 | LLMRec | [[Link]](https://github.com/williamliujl/LLMRec) | [[Paper]](https://arxiv.org/abs/2308.12241) |
 | OpenP5 | [[Link]](https://github.com/agiresearch/OpenP5) | [[Paper]](https://arxiv.org/abs/2306.11134) |
