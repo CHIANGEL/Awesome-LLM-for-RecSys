@@ -602,6 +602,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Unleashing the Power of Large Language Models for Group POI Recommendations | Avrxi 2024 | [[Link]](https://arxiv.org/abs/2411.13415) |
 | Scaling Laws for Online Advertisement Retrieval | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.13322) |
 | Explainable LLM-driven Multi-dimensional Distillation for E-Commerce Relevance Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.13045) |
+| GOT4Rec: Graph of Thoughts for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.14922) |
 
 </p >
 </details>
