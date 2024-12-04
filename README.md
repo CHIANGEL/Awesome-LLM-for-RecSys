@@ -605,6 +605,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | GOT4Rec: Graph of Thoughts for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.14922) |
 | HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.13865) |
 | Cross-Domain Recommendation Meets Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.19862) |
+| Explainable CTR Prediction via LLM Reasoning | WSDM 2025 | [[Link]]](https://arxiv.org/abs/2412.02588) |
+| Enabling Explainable Recommendation in E-commerce with LLM-powered Product Knowledge Graph | IJCAI Workshop 2025 | [[Link]](https://arxiv.org/abs/2412.01837) |
+| Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.18262) |
+| LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.13789) |
 
 </p >
 </details>
