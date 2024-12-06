@@ -610,6 +610,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Enabling Explainable Recommendation in E-commerce with LLM-powered Product Knowledge Graph | IJCAI Workshop 2025 | [[Link]](https://arxiv.org/abs/2412.01837) |
 | Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.18262) |
 | LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.13789) |
+| Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.04107) |
 
 </p >
 </details>
