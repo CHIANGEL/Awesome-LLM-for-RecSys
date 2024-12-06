@@ -301,6 +301,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| Recommender Systems in the Era of Large Language Model Agents: A Survey | Preprint | [[Link]](https://www.researchgate.net/publication/386342676_Recommender_Systems_in_the_Era_of_Large_Language_Model_Agents_A_Survey) |
 | A Survey on Efficient Solutions of Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://www.researchgate.net/publication/385863443_A_Survey_on_Efficient_Solutions_of_Large_Language_Models_for_Recommendation) |
 | Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.19744) |
 | Bias and Unfairness in Information Retrieval Systems: New Challenges in the LLM Era | KDD 2024 | [[Link]](https://arxiv.org/abs/2404.11457) |
