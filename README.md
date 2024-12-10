@@ -611,6 +611,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.18262) |
 | LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.13789) |
 | Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.04107) |
+| ULMRec: User-centric Large Language Model for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.05543) |
 
 </p >
 </details>
