@@ -612,6 +612,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2411.13789) |
 | Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.04107) |
 | ULMRec: User-centric Large Language Model for Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.05543) |
+| AltFS: Agency-light Feature Selection with Large Language Models in Deep Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.08516) |
+| MRP-LLM: Multitask Reflective Large Language Models for Privacy-Preserving Next POI Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.07796) |
+| MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.08847) |
+| SPRec: Leveraging Self-Play to Debias Preference Alignment for Large Language Model-based Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.09243) |
 
 </p >
 </details>
