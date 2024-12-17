@@ -616,6 +616,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | MRP-LLM: Multitask Reflective Large Language Models for Privacy-Preserving Next POI Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.07796) |
 | MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.08847) |
 | SPRec: Leveraging Self-Play to Debias Preference Alignment for Large Language Model-based Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.09243) |
+| RecSys Arena: Pair-wise Recommender System Evaluation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.11068) |
+| CRS Arena: Crowdsourced Benchmarking of Conversational Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.10514) |
 
 </p >
 </details>
