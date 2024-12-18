@@ -618,6 +618,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | SPRec: Leveraging Self-Play to Debias Preference Alignment for Large Language Model-based Recommendations | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.09243) |
 | RecSys Arena: Pair-wise Recommender System Evaluation with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.11068) |
 | CRS Arena: Crowdsourced Benchmarking of Conversational Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.10514) |
+| Boosting LLM-based Relevance Modeling with Distribution-Aware Robust Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.12504) |
+| LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.12464) |
 
 </p >
 </details>
