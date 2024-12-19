@@ -301,6 +301,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| Large Language Model Enhanced Recommender Systems: Taxonomy, Trend, Application and Future | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.13432) |
 | Recommender Systems in the Era of Large Language Model Agents: A Survey | Preprint | [[Link]](https://www.researchgate.net/publication/386342676_Recommender_Systems_in_the_Era_of_Large_Language_Model_Agents_A_Survey) |
 | A Survey on Efficient Solutions of Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://www.researchgate.net/publication/385863443_A_Survey_on_Efficient_Solutions_of_Large_Language_Models_for_Recommendation) |
 | Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2410.19744) |
@@ -620,6 +621,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | CRS Arena: Crowdsourced Benchmarking of Conversational Recommender Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.10514) |
 | Boosting LLM-based Relevance Modeling with Distribution-Aware Robust Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.12504) |
 | LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.12464) |
+| Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.13544) |
 
 </p >
 </details>
