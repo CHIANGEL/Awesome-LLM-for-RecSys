@@ -622,6 +622,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Boosting LLM-based Relevance Modeling with Distribution-Aware Robust Learning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.12504) |
 | LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.12464) |
 | Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.13544) |
+| Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.14574) |
+| ChainRank-DPO: Chain Rank Direct Preference Optimization for LLM Rankers | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.14405) |
+| Are Longer Prompts Always Better? Prompt Selection in Large Language Models for Recommendation Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.14454) |
 
 </p >
 </details>
