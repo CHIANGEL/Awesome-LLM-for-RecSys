@@ -625,6 +625,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Sliding Windows Are Not the End: Exploring Full Ranking with Long-Context Large Language Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.14574) |
 | ChainRank-DPO: Chain Rank Direct Preference Optimization for LLM Rankers | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.14405) |
 | Are Longer Prompts Always Better? Prompt Selection in Large Language Models for Recommendation Systems | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.14454) |
+| Towards a Unified Paradigm: Integrating Recommendation Systems as a New Language in Large Models | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.16933) |
+| LLM-Powered User Simulator for Recommender System | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.16984) |
+| Enhancing Item Tokenization for Generative Recommendation through Self-Improvement | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.17171) |
 
 </p >
 </details>
