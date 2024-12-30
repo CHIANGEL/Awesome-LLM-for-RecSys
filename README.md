@@ -630,6 +630,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Enhancing Item Tokenization for Generative Recommendation through Self-Improvement | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.17171) |
 | Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.18176) |
 | An Automatic Graph Construction Framework based on Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.18241) |
+| RecLM: Recommendation Instruction Tuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.19302) |
 
 </p >
 </details>
