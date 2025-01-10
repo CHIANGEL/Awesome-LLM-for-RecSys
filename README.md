@@ -632,6 +632,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Molar: Multimodal LLMs with Collaborative Filtering Alignment for Enhanced Sequential Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.18176) |
 | An Automatic Graph Construction Framework based on Large Language Models for Recommendation | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.18241) |
 | RecLM: Recommendation Instruction Tuning | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.19302) |
+| The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.02173) |
+| Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.02226) |
+| Efficient and Responsible Adaptation of Large Language Models for Robust and Equitable Top-k Recommendations | Avrxi 2025 | [[Link]](https://arxiv.org/abs/2501.04762) |
 
 </p >
 </details>
