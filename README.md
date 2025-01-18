@@ -636,6 +636,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.02226) |
 | Efficient and Responsible Adaptation of Large Language Models for Robust and Equitable Top-k Recommendations | Avrxi 2025 | [[Link]](https://arxiv.org/abs/2501.04762) |
 | Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation | KDD 2025 | [[Link]](https://arxiv.org/abs/2501.05647) |
+| Guiding Retrieval using LLM-based Listwise Rankers | Avrxi 2025 | [[Link]](https://arxiv.org/abs/2501.09186) |
 
 </p >
 </details>
