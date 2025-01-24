@@ -638,6 +638,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation | KDD 2025 | [[Link]](https://arxiv.org/abs/2501.05647) |
 | Guiding Retrieval using LLM-based Listwise Rankers | Avrxi 2025 | [[Link]](https://arxiv.org/abs/2501.09186) |
 | Generative Retrieval for Book search | KDD 2025 | [[Link]](https://arxiv.org/abs/2501.11034) |
+| Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.13344) |
+| Large Language Model driven Policy Exploration for Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.13816) |
 
 </p >
 </details>
