@@ -640,6 +640,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Generative Retrieval for Book search | KDD 2025 | [[Link]](https://arxiv.org/abs/2501.11034) |
 | Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.13344) |
 | Large Language Model driven Policy Exploration for Recommender Systems | WSDM 2025 | [[Link]](https://arxiv.org/abs/2501.13816) |
+| SampleLLM: Optimizing Tabular Data Synthesis in Recommendations | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.16125) |
+| PatchRec: Multi-Grained Patching for Efficient LLM-based Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.15087) |
 
 </p >
 </details>
