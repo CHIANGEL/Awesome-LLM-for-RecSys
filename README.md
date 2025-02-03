@@ -643,6 +643,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | SampleLLM: Optimizing Tabular Data Synthesis in Recommendations | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.16125) |
 | PatchRec: Multi-Grained Patching for Efficient LLM-based Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.15087) |
 | Uncertainty Quantification and Decomposition for LLM-based Recommendation | WWW 2025 | [[Link]](https://arxiv.org/abs/2501.17630) |
+| A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.19232) |
 
 </p >
 </details>
