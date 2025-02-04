@@ -644,6 +644,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | PatchRec: Multi-Grained Patching for Efficient LLM-based Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.15087) |
 | Uncertainty Quantification and Decomposition for LLM-based Recommendation | WWW 2025 | [[Link]](https://arxiv.org/abs/2501.17630) |
 | A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.19232) |
+| RankFlow: A Multi-Role Collaborative Reranking Workflow Utilizing Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.00709) |
 
 </p >
 </details>
@@ -656,6 +657,7 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 
 | **Dataset** | **RS Scenario** | **Link** |
 |:---:|:---:|:---:|
+| RecSysLLMsP | Social Networks | [[Link]](https://arxiv.org/abs/2502.00055) |
 | AmazonQAC | Query Autocomplete | [[Link]](https://arxiv.org/abs/2411.04129) |
 | NineRec | 9 Domains | [[Link]](https://github.com/westlake-repl/NineRec) |
 | MicroLens | Video Streaming | [[Link]](https://github.com/westlake-repl/MicroLens?tab=readme-ov-file) |
