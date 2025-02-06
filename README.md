@@ -645,6 +645,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Uncertainty Quantification and Decomposition for LLM-based Recommendation | WWW 2025 | [[Link]](https://arxiv.org/abs/2501.17630) |
 | A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2501.19232) |
 | RankFlow: A Multi-Role Collaborative Reranking Workflow Utilizing Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.00709) |
+| FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering for Enabling Fair LLM-Based Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.02966) |
+| Large Language Models Are Universal Recommendation Learners | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.03041) |
+| Intent Representation Learning with Large Language Model for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.03307) |
 
 </p >
 </details>
