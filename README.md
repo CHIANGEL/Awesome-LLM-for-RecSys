@@ -649,6 +649,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Large Language Models Are Universal Recommendation Learners | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.03041) |
 | Intent Representation Learning with Large Language Model for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.03307) |
 | Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.03715) |
+| RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning | WWW 2025 | [[Link]](https://arxiv.org/abs/2502.06101) |
 
 </p >
 </details>
