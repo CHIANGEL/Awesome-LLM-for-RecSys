@@ -652,6 +652,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning | WWW 2025 | [[Link]](https://arxiv.org/abs/2502.06101) |
 | Solving the Content Gap in Roblox Game Recommendations: LLM-Based Profile Generation and Reranking | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.06802) |
 | MoLoRec: A Generalizable and Efficient Framework for LLM-Based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.08271) |
+| Unleashing the Power of Large Language Model for Denoising Recommendation | WWW 2025 | [[Link]](https://arxiv.org/abs/2502.09058) |
+| Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.09089) |
 
 </p >
 </details>
