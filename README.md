@@ -301,6 +301,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| A Survey on LLM-based News Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.09797) |
+| A Survey on LLM-powered Agents for Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.10050) |
 | Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap | Arxiv 2025 | [[link]](https://arxiv.org/abs/2501.01945) |
 | Large Language Model Enhanced Recommender Systems: Taxonomy, Trend, Application and Future | Arxiv 2024 | [[Link]](https://arxiv.org/abs/2412.13432) |
 | Recommender Systems in the Era of Large Language Model Agents: A Survey | Preprint | [[Link]](https://www.researchgate.net/publication/386342676_Recommender_Systems_in_the_Era_of_Large_Language_Model_Agents_A_Survey) |
