@@ -656,6 +656,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | MoLoRec: A Generalizable and Efficient Framework for LLM-Based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.08271) |
 | Unleashing the Power of Large Language Model for Denoising Recommendation | WWW 2025 | [[Link]](https://arxiv.org/abs/2502.09058) |
 | Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.09089) |
+| Order-agnostic Identifier for Large Language Model-based Generative Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.10833) |
 
 </p >
 </details>
