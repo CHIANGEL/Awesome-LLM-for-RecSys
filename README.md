@@ -657,6 +657,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Unleashing the Power of Large Language Model for Denoising Recommendation | WWW 2025 | [[Link]](https://arxiv.org/abs/2502.09058) |
 | Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.09089) |
 | Order-agnostic Identifier for Large Language Model-based Generative Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.10833) |
+| G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation | WWW 2025 | [[Link]](https://arxiv.org/abs/2502.12586) |
 
 </p >
 </details>
