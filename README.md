@@ -658,6 +658,13 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Semantic Ads Retrieval at Walmart eCommerce with Language Models Progressively Trained on Multiple Knowledge Domains | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.09089) |
 | Order-agnostic Identifier for Large Language Model-based Generative Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.10833) |
 | G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation | WWW 2025 | [[Link]](https://arxiv.org/abs/2502.12586) |
+| LLM4Tag: Automatic Tagging System for Information Retrieval via Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.13481) |
+| Bursting Filter Bubble: Enhancing Serendipity Recommendations with Aligned Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.13539) |
+| ActionPiece: Contextually Tokenizing Action Sequences for Generative Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.13581) |
+| TALKPLAY: Multimodal Music Recommendation with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.13713) |
+| Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.13843) |
+| Enhancing LLM-Based Recommendations Through Personalized Reasoning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.13845) |
+| Lost in Sequence: Do Large Language Models Understand Sequential Recommendation? | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.13909) |
 
 </p >
 </details>
