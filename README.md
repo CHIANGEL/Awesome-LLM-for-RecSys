@@ -665,6 +665,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Enhancing Cross-Domain Recommendations with Memory-Optimized LLM-Based User Agents | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.13843) |
 | Enhancing LLM-Based Recommendations Through Personalized Reasoning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.13845) |
 | Lost in Sequence: Do Large Language Models Understand Sequential Recommendation? | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.13909) |
+| InstructAgent: Building User Controllable Recommender via LLM Agent | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.14662) |
+| EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.14735) |
+| Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.14305) |
+| Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.14137) |
 
 </p >
 </details>
