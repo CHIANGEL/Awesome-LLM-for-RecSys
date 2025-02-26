@@ -669,6 +669,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.14735) |
 | Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.14305) |
 | Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.14137) |
+| Active Large Language Model-based Knowledge Distillation for Session-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.15685) |
 
 </p >
 </details>
