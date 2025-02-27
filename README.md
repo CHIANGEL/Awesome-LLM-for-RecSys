@@ -301,6 +301,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| Agent-centric Information Access | Arxiv 2025 | [[Link]](https://arxiv.org/pdf/2502.19298) |
 | A Survey on LLM-based News Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.09797) |
 | A Survey on LLM-powered Agents for Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.10050) |
 | Cold-Start Recommendation towards the Era of Large Language Models (LLMs): A Comprehensive Survey and Roadmap | Arxiv 2025 | [[link]](https://arxiv.org/abs/2501.01945) |
@@ -670,6 +671,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Efficient AI in Practice: Training and Deployment of Efficient LLMs for Industry Applications | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.14305) |
 | Collaborative Retrieval for Large Language Model-based Conversational Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.14137) |
 | Active Large Language Model-based Knowledge Distillation for Session-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.15685) |
+| Training Large Recommendation Models via Graph-Language Token Alignment | WWW 2025 | [[Link]](https://arxiv.org/abs/2502.18757) |
 
 </p >
 </details>
