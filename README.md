@@ -673,6 +673,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Active Large Language Model-based Knowledge Distillation for Session-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.15685) |
 | Training Large Recommendation Models via Graph-Language Token Alignment | WWW 2025 | [[Link]](https://arxiv.org/abs/2502.18757) |
 | PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems | WWW 2025 | |[[Link]](https://arxiv.org/abs/2502.19628) |
+| FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.16924) |
 
 </p >
 </details>
