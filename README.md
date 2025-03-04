@@ -674,6 +674,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Training Large Recommendation Models via Graph-Language Token Alignment | WWW 2025 | [[Link]](https://arxiv.org/abs/2502.18757) |
 | PCL: Prompt-based Continual Learning for User Modeling in Recommender Systems | WWW 2025 | |[[Link]](https://arxiv.org/abs/2502.19628) |
 | FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.16924) |
+| Towards An Efficient LLM Training Paradigm for CTR Prediction | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.01001) |
+| LLMInit: A Free Lunch from Large Language Models for Selective Initialization of Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.01814) |
 
 </p >
 </details>
