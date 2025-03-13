@@ -301,6 +301,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.05659) |
 | Agent-centric Information Access | Arxiv 2025 | [[Link]](https://arxiv.org/pdf/2502.19298) |
 | A Survey on LLM-based News Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.09797) |
 | A Survey on LLM-powered Agents for Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.10050) |
@@ -677,6 +678,13 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Towards An Efficient LLM Training Paradigm for CTR Prediction | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.01001) |
 | LLMInit: A Free Lunch from Large Language Models for Selective Initialization of Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.01814) |
 | PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.02398) |
+| Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.09382) |
+| Uncovering Cross-Domain Recommendation Ability of Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.07761) |
+| LLM-Driven Usefulness Labeling for IR Evaluation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.08965) |
+| LREF: A Novel LLM-based Relevance Framework for E-commerce | WWW 2025 | [[Link]](https://arxiv.org/abs/2503.09223) |
+| Process-Supervised LLM Recommenders via Flow-guided Tuning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.07377) |
+| Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.06238) |
+| Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.06034) |
 
 </p >
 </details>
@@ -708,6 +716,8 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 
 | **Benchmarks** | **Webcite Link** | **Paper** |
 |:---:|:---:|:---:|
+| RecBench | [[Paper]](https://arxiv.org/abs/2503.05493) |
+| RecBench+ | [[Paper]](https://arxiv.org/abs/2503.09382) |
 | Shopping MMLU | [[Paper]](https://arxiv.org/abs/2410.20745?) |
 | Amazon-M2 (KDD Cup 2023) | [[Link]](https://www.aicrowd.com/challenges/amazon-kdd-cup-23-multilingual-recommendation-challenge) | [[Paper]](https://arxiv.org/abs/2307.09688) |
 | LLMRec | [[Link]](https://github.com/williamliujl/LLMRec) | [[Paper]](https://arxiv.org/abs/2308.12241) |
