@@ -685,6 +685,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Process-Supervised LLM Recommenders via Flow-guided Tuning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.07377) |
 | Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.06238) |
 | Rank-R1: Enhancing Reasoning in LLM-based Document Rerankers via Reinforcement Learning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.06034) |
+| Federated Cross-Domain Click-Through Rate Prediction With Large Language Model Augmentation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.16875) |
+| BeLightRec: A lightweight recommender system enhanced with BERT | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.20206) |
+| RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.20430) |
 
 </p >
 </details>
