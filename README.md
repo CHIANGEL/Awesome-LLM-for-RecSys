@@ -688,6 +688,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Federated Cross-Domain Click-Through Rate Prediction With Large Language Model Augmentation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.16875) |
 | BeLightRec: A lightweight recommender system enhanced with BERT | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.20206) |
 | RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.20430) |
+| Alleviating LLM-based Generative Retrieval Hallucination in Alipay Search | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.21098) |
 
 </p >
 </details>
