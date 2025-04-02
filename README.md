@@ -689,6 +689,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | BeLightRec: A lightweight recommender system enhanced with BERT | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.20206) |
 | RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.20430) |
 | Alleviating LLM-based Generative Retrieval Hallucination in Alipay Search | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.21098) |
+| RuleAgent: Discovering Rules for Recommendation Denoising with Autonomous Language Agents | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.23374) |
+| CoRanking: Collaborative Ranking with Small and Large Ranking Agents | Arxiv 2025 | [[Link]](https://arxiv.org/pdf/2503.23427) |
+| Get the Agents Drunk: Memory Perturbations in Autonomous Agent-based Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.23804) |
+| Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.24289) |
 
 </p >
 </details>
