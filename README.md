@@ -693,6 +693,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | CoRanking: Collaborative Ranking with Small and Large Ranking Agents | Arxiv 2025 | [[Link]](https://arxiv.org/pdf/2503.23427) |
 | Get the Agents Drunk: Memory Perturbations in Autonomous Agent-based Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.23804) |
 | Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.24289) |
+| LLM-Augmented Graph Neural Recommenders: Integrating User Reviews | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.02195) |
+| Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.02137) |
+| Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.02458) |
 
 </p >
 </details>
