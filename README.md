@@ -696,6 +696,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LLM-Augmented Graph Neural Recommenders: Integrating User Reviews | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.02195) |
 | Enhancing Embedding Representation Stability in Recommendation Systems with Semantic ID | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.02137) |
 | Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.02458) |
+| Pre-training Generative Recommender with Multi-Identifier Item Tokenization | SIGIR 2025 | [[Link]](https://arxiv.org/pdf/2504.04400) |
+| LLM-Alignment Live-Streaming Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05217) |
+| Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.04386) |
+| Automating Personalization: Prompt Optimization for Recommendation Reranking | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.03965) |
 
 </p >
 </details>
