@@ -700,6 +700,15 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LLM-Alignment Live-Streaming Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05217) |
 | Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.04386) |
 | Automating Personalization: Prompt Optimization for Recommendation Reranking | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.03965) |
+| IterQR: An Iterative Framework for LLM-based Query Rewrite in e-Commercial Search System | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05309) |
+| Multimodal Quantitative Language for Generative Recommendation | ICLR 2025 | [[Link]](https://arxiv.org/abs/2504.05314) |
+| Coherency Improved Explainable Recommendation via Large Language Model | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05315) |
+| VALUE: Value-Aware Large Language Model for Query Rewriting via Weighted Trie in Sponsored Search | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05321) |
+| Large Language Models Enhanced Hyperbolic Space Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05694) |
+| Unified Generative Search and Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05730) |
+| Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation | SIGIR 2025 | [[Link]](https://arxiv.org/abs/2504.05731) |
+| StealthRank: LLM Ranking Manipulation via Stealthy Prompt Optimization | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05804) |
+| PathGPT: Leveraging Large Language Models for Personalized Route Generation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05846) |
 
 </p >
 </details>
