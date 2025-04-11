@@ -709,6 +709,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Retrieval Augmented Generation with Collaborative Filtering for Personalized Text Generation | SIGIR 2025 | [[Link]](https://arxiv.org/abs/2504.05731) |
 | StealthRank: LLM Ranking Manipulation via Stealthy Prompt Optimization | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05804) |
 | PathGPT: Leveraging Large Language Models for Personalized Route Generation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05846) |
+| LLM4Ranking: An Easy-to-use Framework of Utilizing Large Language Models for Document Reranking | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.07439) |
 
 </p >
 </details>
