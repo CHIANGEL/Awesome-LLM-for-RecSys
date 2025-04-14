@@ -710,6 +710,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | StealthRank: LLM Ranking Manipulation via Stealthy Prompt Optimization | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05804) |
 | PathGPT: Leveraging Large Language Models for Personalized Route Generation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05846) |
 | LLM4Ranking: An Easy-to-use Framework of Utilizing Large Language Models for Document Reranking | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.07439) |
+| How Good Are Large Language Models for Course Recommendation in MOOCs? | Avrxi 2025 | [[Link]](https://arxiv.org/abs/2504.08208) |
 
 </p >
 </details>
