@@ -301,6 +301,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| A Survey of Personalization: From RAG to Agent | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10147) |
 | A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.05659) |
 | Agent-centric Information Access | Arxiv 2025 | [[Link]](https://arxiv.org/pdf/2502.19298) |
 | A Survey on LLM-based News Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.09797) |
@@ -711,6 +712,11 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | PathGPT: Leveraging Large Language Models for Personalized Route Generation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.05846) |
 | LLM4Ranking: An Easy-to-use Framework of Utilizing Large Language Models for Document Reranking | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.07439) |
 | How Good Are Large Language Models for Course Recommendation in MOOCs? | Avrxi 2025 | [[Link]](https://arxiv.org/abs/2504.08208) |
+| Large Language Model Empowered Recommendation Meets All-domain Continual Pre-Training | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.08949) |
+| Enhancing LLM-based Recommendation through Semantic-Aligned Collaborative Knowledge | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10107) |
+| HistLLM: A Unified Framework for LLM-Based Multimodal Recommendation with User History Encoding and Compression | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10150) |
+| CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation | Arxiv 20252 | [[Link]](https://arxiv.org/abs/2504.10307) |
+
 
 </p >
 </details>
