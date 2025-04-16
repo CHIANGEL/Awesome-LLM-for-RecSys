@@ -715,8 +715,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Large Language Model Empowered Recommendation Meets All-domain Continual Pre-Training | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.08949) |
 | Enhancing LLM-based Recommendation through Semantic-Aligned Collaborative Knowledge | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10107) |
 | HistLLM: A Unified Framework for LLM-Based Multimodal Recommendation with User History Encoding and Compression | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10150) |
-| CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation | Arxiv 20252 | [[Link]](https://arxiv.org/abs/2504.10307) |
-
+| CROSSAN: Towards Efficient and Effective Adaptation of Multiple Multimodal Foundation Models for Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10307) |
+| PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10507) |
+| Distilling Transitional Pattern to Large Language Models for Multimodal Session-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10538) |
+| Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10541) |
 
 </p >
 </details>
