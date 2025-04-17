@@ -719,6 +719,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | PinRec: Outcome-Conditioned, Multi-Token Generative Retrieval for Industry-Scale Recommendation Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10507) |
 | Distilling Transitional Pattern to Large Language Models for Multimodal Session-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10538) |
 | Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10541) |
+| Rethinking LLM-Based Recommendations: A Query Generation-Based, Training-Free Approach | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.11889) |
+| Generative Recommendation with Continuous-Token Diffusion | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.12007) |
 
 </p >
 </details>
