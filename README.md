@@ -721,6 +721,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10541) |
 | Rethinking LLM-Based Recommendations: A Query Generation-Based, Training-Free Approach | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.11889) |
 | Generative Recommendation with Continuous-Token Diffusion | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.12007) |
+| From Reviews to Dialogues: Active Synthesis for Zero-Shot LLM-based Conversational Recommender System | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.15476) |
 
 </p >
 </details>
