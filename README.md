@@ -301,6 +301,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| A Survey of Foundation Model-Powered Recommender Systems: From Feature-Based, Generative to Agentic Paradi | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.16420) |
 | A Survey of Personalization: From RAG to Agent | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10147) |
 | A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.05659) |
 | Agent-centric Information Access | Arxiv 2025 | [[Link]](https://arxiv.org/pdf/2502.19298) |
@@ -722,6 +723,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Rethinking LLM-Based Recommendations: A Query Generation-Based, Training-Free Approach | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.11889) |
 | Generative Recommendation with Continuous-Token Diffusion | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.12007) |
 | From Reviews to Dialogues: Active Synthesis for Zero-Shot LLM-based Conversational Recommender System | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.15476) |
+| Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model | SIGIR 2025 | [[Link(https://arxiv.org/abs/2504.16454) |
 
 </p >
 </details>
