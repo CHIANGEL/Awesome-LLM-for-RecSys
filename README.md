@@ -724,6 +724,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Generative Recommendation with Continuous-Token Diffusion | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.12007) |
 | From Reviews to Dialogues: Active Synthesis for Zero-Shot LLM-based Conversational Recommender System | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.15476) |
 | Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model | SIGIR 2025 | [[Link(https://arxiv.org/abs/2504.16454) |
+| Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation | SIGIR 2025 | [[Link]](https://arxiv.org/abs/2504.18383) |
 
 </p >
 </details>
