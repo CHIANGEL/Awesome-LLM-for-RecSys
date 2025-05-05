@@ -726,6 +726,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model | SIGIR 2025 | [[Link(https://arxiv.org/abs/2504.16454) |
 | Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation | SIGIR 2025 | [[Link]](https://arxiv.org/abs/2504.18383) |
 | Search-Based Interaction For Conversation Recommendation via Generative Reward Model Based Simulated User | SIGIR 2025 | [[Link]](https://arxiv.org/abs/2504.20458) |
+| Preserving Privacy and Utility in LLM-Based Product Recommendations | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.00951) |
+| Multi-agents based User Values Mining for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.00981) |
 
 </p >
 </details>
