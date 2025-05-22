@@ -730,6 +730,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Multi-agents based User Values Mining for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.00981) |
 | Who You Are Matters: Bridging Topics and Social Roles via LLM-Enhanced Logical Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.10940) |
 | Explain What You Mean: Intent Augmented Knowledge Graph Recommender Built With LLM | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.10900) |
+| ThinkRec: Thinking-based recommendation via LLM | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.15091) |
 
 </p >
 </details>
