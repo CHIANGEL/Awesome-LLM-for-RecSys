@@ -731,6 +731,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Who You Are Matters: Bridging Topics and Social Roles via LLM-Enhanced Logical Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.10940) |
 | Explain What You Mean: Intent Augmented Knowledge Graph Recommender Built With LLM | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.10900) |
 | ThinkRec: Thinking-based recommendation via LLM | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.15091) |
+| DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.16810) |
 
 </p >
 </details>
@@ -762,6 +763,7 @@ The datasets & benchmarks for LLM-related RS topics should maintain the original
 
 | **Benchmarks** | **Webcite Link** | **Paper** |
 |:---:|:---:|:---:|
+| InfoDeepSeek | [[Paper]](https://arxiv.org/abs/2505.15872) |
 | RecBench | [[Paper]](https://arxiv.org/abs/2503.05493) |
 | RecBench+ | [[Paper]](https://arxiv.org/abs/2503.09382) |
 | Shopping MMLU | [[Paper]](https://arxiv.org/abs/2410.20745?) |
