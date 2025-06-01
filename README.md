@@ -734,6 +734,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.16810) |
 | Bridging the Gap: Self-Optimized Fine-Tuning for LLM-based Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.20771) |
 | What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.20730) |
+| Reinforced Latent Reasoning for LLM-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.19092) |
+| AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.19623) |
 
 </p >
 </details>
