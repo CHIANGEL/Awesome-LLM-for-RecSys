@@ -737,6 +737,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Reinforced Latent Reasoning for LLM-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.19092) |
 | AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2505.19623) |
 | Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.05069) |
+| Generating Long Semantic IDs in Parallel for Recommendation | KDD 2025 | [[Link]](https://arxiv.org/abs/2506.05781) |
+| RecGPT: A Foundation Model for Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.06270) |
 
 </p >
 </details>
