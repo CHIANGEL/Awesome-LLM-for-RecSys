@@ -740,6 +740,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Generating Long Semantic IDs in Parallel for Recommendation | KDD 2025 | [[Link]](https://arxiv.org/abs/2506.05781) |
 | RecGPT: A Foundation Model for Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.06270) |
 | Serendipitous Recommendation with Multimodal LLM | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.08283) |
+| Research on E-Commerce Long-Tail Product Recommendation Mechanism Based on Large-Scale Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.06316) |
 
 </p >
 </details>
