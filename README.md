@@ -741,6 +741,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | RecGPT: A Foundation Model for Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.06270) |
 | Serendipitous Recommendation with Multimodal LLM | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.08283) |
 | Research on E-Commerce Long-Tail Product Recommendation Mechanism Based on Large-Scale Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.06316) |
+| LettinGo: Explore User Profile Generation for Recommendation System | Arxiv 2025| [[Link]](https://arxiv.org/abs/2506.18309) |
+| CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.17281) |
 
 </p >
 </details>
