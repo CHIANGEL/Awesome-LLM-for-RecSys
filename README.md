@@ -743,6 +743,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Research on E-Commerce Long-Tail Product Recommendation Mechanism Based on Large-Scale Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.06316) |
 | LettinGo: Explore User Profile Generation for Recommendation System | Arxiv 2025| [[Link]](https://arxiv.org/abs/2506.18309) |
 | CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.17281) |
+| CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.19993) |
 
 </p >
 </details>
