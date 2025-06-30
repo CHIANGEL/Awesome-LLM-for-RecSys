@@ -744,6 +744,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LettinGo: Explore User Profile Generation for Recommendation System | Arxiv 2025| [[Link]](https://arxiv.org/abs/2506.18309) |
 | CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.17281) |
 | CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.19993) |
+| LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.21579) |
+| Reinforcement Fine-Tuned Large Language Models for Next POI Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.21599) |
+| IRanker: Towards Ranking Foundation Model | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.21638) |
+| LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation | KDD 2025 | [[Link]](https://arxiv.org/abs/2506.21579) |
 
 </p >
 </details>
