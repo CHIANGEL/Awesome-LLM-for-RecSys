@@ -301,6 +301,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.02097) |
 | A Survey of Foundation Model-Powered Recommender Systems: From Feature-Based, Generative to Agentic Paradi | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.16420) |
 | A Survey of Personalization: From RAG to Agent | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10147) |
 | A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.05659) |
