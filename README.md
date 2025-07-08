@@ -749,6 +749,10 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Reinforcement Fine-Tuned Large Language Models for Next POI Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.21599) |
 | IRanker: Towards Ranking Foundation Model | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2506.21638) |
 | LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation | KDD 2025 | [[Link]](https://arxiv.org/abs/2506.21579) |
+| FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation | KDD 2025 | [[Link]](https://arxiv.org/abs/2507.04651) |
+| Heterogeneous User Modeling for LLM-based Recommendation | RecSys 2025 | [[Link]](https://arxiv.org/abs/2507.04626) |
+| BiFair: A Fairness-aware Training Framework for LLM-enhanced Recommender Systems via Bi-level Optimization | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.04294) |
+| CTR-Guided Generative Query Suggestion in Conversational Search | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.04072) |
 
 </p >
 </details>
