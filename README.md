@@ -301,6 +301,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Paper** | **Publication** | **Link** |
 |:---|:---:|:---:|
+| GR-LLMs: Recent Advances in Generative Recommendation Based on Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.06507) |
 | The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.02097) |
 | A Survey of Foundation Model-Powered Recommender Systems: From Feature-Based, Generative to Agentic Paradi | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.16420) |
 | A Survey of Personalization: From RAG to Agent | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2504.10147) |
@@ -753,6 +754,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Heterogeneous User Modeling for LLM-based Recommendation | RecSys 2025 | [[Link]](https://arxiv.org/abs/2507.04626) |
 | BiFair: A Fairness-aware Training Framework for LLM-enhanced Recommender Systems via Bi-level Optimization | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.04294) |
 | CTR-Guided Generative Query Suggestion in Conversational Search | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.04072) |
+| Boosting Parameter Efficiency in LLM-Based Recommendation through Sophisticated Pruning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.07064) |
 
 </p >
 </details>
