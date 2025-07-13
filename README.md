@@ -755,6 +755,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | BiFair: A Fairness-aware Training Framework for LLM-enhanced Recommender Systems via Bi-level Optimization | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.04294) |
 | CTR-Guided Generative Query Suggestion in Conversational Search | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.04072) |
 | Boosting Parameter Efficiency in LLM-Based Recommendation through Sophisticated Pruning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.07064) |
+| A Language-Driven Framework for Improving Personalized Recommendations: Merging LLMs with Traditional Algorithms | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.07251) |
 
 </p >
 </details>
