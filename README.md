@@ -757,6 +757,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Boosting Parameter Efficiency in LLM-Based Recommendation through Sophisticated Pruning | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.07064) |
 | A Language-Driven Framework for Improving Personalized Recommendations: Merging LLMs with Traditional Algorithms | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.07251) |
 | LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.10917) |
+| Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.13525) |
 
 </p >
 </details>
