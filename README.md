@@ -758,6 +758,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | A Language-Driven Framework for Improving Personalized Recommendations: Merging LLMs with Traditional Algorithms | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.07251) |
 | LLM-Driven Dual-Level Multi-Interest Modeling for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.10917) |
 | Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.13525) |
+| R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems | RecSys 2025 | [[Link]](https://arxiv.org/abs/2507.17249) |
+| Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems | RecSys 2025 | [[Link]](https://arxiv.org/abs/2507.17290) |
 
 </p >
 </details>
