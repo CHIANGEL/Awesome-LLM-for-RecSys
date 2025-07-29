@@ -760,6 +760,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.13525) |
 | R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems | RecSys 2025 | [[Link]](https://arxiv.org/abs/2507.17249) |
 | Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems | RecSys 2025 | [[Link]](https://arxiv.org/abs/2507.17290) |
+| Improving the Performance of Sequential Recommendation Systems with an Extended Large Language Model | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.19990) |
+| Integrating LLM-Derived Multi-Semantic Intent into Graph Model for Session-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.20147) |
 
 </p >
 </details>
