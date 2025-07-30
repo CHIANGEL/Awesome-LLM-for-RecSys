@@ -762,6 +762,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems | RecSys 2025 | [[Link]](https://arxiv.org/abs/2507.17290) |
 | Improving the Performance of Sequential Recommendation Systems with an Extended Large Language Model | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.19990) |
 | Integrating LLM-Derived Multi-Semantic Intent into Graph Model for Session-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.20147) |
+| A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.21117) |
 
 </p >
 </details>
