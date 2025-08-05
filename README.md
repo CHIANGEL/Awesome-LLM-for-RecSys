@@ -763,6 +763,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Improving the Performance of Sequential Recommendation Systems with an Extended Large Language Model | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.19990) |
 | Integrating LLM-Derived Multi-Semantic Intent into Graph Model for Session-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.20147) |
 | A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.21117) |
+| End-to-End Personalization: Unifying Recommender Systems with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.01514) |
 
 </p >
 </details>
