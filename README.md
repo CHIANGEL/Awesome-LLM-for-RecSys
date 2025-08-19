@@ -765,6 +765,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | A Comprehensive Review on Harnessing Large Language Models to Overcome Recommender System Challenges | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2507.21117) |
 | End-to-End Personalization: Unifying Recommender Systems with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.01514) |
 | Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.08454) |
+| LLM-Based Intelligent Agents for Music Recommendation: A Comparison with Classical Content-Based Filtering | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.11671) |
 
 </p >
 </details>
