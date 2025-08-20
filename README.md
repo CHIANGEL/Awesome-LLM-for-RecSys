@@ -766,6 +766,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | End-to-End Personalization: Unifying Recommender Systems with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.01514) |
 | Temporal User Profiling with LLMs: Balancing Short-Term and Long-Term Preferences for Recommendations | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.08454) |
 | LLM-Based Intelligent Agents for Music Recommendation: A Comparison with Classical Content-Based Filtering | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.11671) |
+| AdaptJobRec: Enhancing Conversational Career Recommendation through an LLM-Powered Agentic System | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.13423) |
+| LLM-Enhanced Linear Autoencoders for Recommendation | CIKM 2025 | [[Link]](https://arxiv.org/abs/2508.13500) |
 
 </p >
 </details>
