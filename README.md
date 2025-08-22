@@ -768,6 +768,9 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | LLM-Based Intelligent Agents for Music Recommendation: A Comparison with Classical Content-Based Filtering | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.11671) |
 | AdaptJobRec: Enhancing Conversational Career Recommendation through an LLM-Powered Agentic System | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.13423) |
 | LLM-Enhanced Linear Autoencoders for Recommendation | CIKM 2025 | [[Link]](https://arxiv.org/abs/2508.13500) |
+| TrackRec: Iterative Alternating Feedback with Chain-of-Thought via Preference Alignment for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.15388) |
+| MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.15281) |
+| MLLMRec: Exploring the Potential of Multimodal Large Language Models in Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.15304) |
 
 </p >
 </details>
