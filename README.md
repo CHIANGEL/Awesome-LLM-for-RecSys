@@ -771,6 +771,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | TrackRec: Iterative Alternating Feedback with Chain-of-Thought via Preference Alignment for Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.15388) |
 | MMQ: Multimodal Mixture-of-Quantization Tokenization for Semantic ID Generation and User Behavioral Adaptation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.15281) |
 | MLLMRec: Exploring the Potential of Multimodal Large Language Models in Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.15304) |
+| Membership Inference Attacks on LLM-based Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.18665) |
 
 </p >
 </details>
