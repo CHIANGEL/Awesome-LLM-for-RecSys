@@ -774,6 +774,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Membership Inference Attacks on LLM-based Recommender Systems | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2508.18665) |
 | Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting | Arxiv 2025 | [[Link]](https://arxiv.org/pdf/2508.20401) |
 | Efficient Item ID Generation for Large-Scale LLM-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2509.03746) |
+| Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2509.05564) |
 
 </p >
 </details>
