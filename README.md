@@ -775,6 +775,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting | Arxiv 2025 | [[Link]](https://arxiv.org/pdf/2508.20401) |
 | Efficient Item ID Generation for Large-Scale LLM-based Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2509.03746) |
 | Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2509.05564) |
+| Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation | EMNLP 2025 | [[Link]](https://arxiv.org/abs/2509.11524) |
+| Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2509.10468) |
 
 </p >
 </details>
