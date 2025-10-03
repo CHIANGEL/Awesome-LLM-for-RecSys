@@ -777,6 +777,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Knowledge-Augmented Relation Learning for Complementary Recommendation with Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2509.05564) |
 | Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation | EMNLP 2025 | [[Link]](https://arxiv.org/abs/2509.11524) |
 | Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2509.10468) |
+| LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2510.01622) |
 
 </p >
 </details>
