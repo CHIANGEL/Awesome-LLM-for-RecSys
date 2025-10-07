@@ -778,6 +778,8 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Decoding in Latent Spaces for Efficient Inference in LLM-based Recommendation | EMNLP 2025 | [[Link]](https://arxiv.org/abs/2509.11524) |
 | Learning Decomposed Contextual Token Representations from Pretrained and Collaborative Signals for Generative Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2509.10468) |
 | LLM4Rec: Large Language Models for Multimodal Generative Recommendation with Causal Debiasing | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2510.01622) |
+| Empowering Denoising Sequential Recommendation with Large Language Model Embeddings | CIKM 2025 | [[Link]](https://arxiv.org/abs/2510.04239) |
+| GRACE: Generative Representation Learning via Contrastive Policy Optimization | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2510.04506) |
 
 </p >
 </details>
