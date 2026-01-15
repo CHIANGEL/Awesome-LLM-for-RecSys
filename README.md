@@ -65,6 +65,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 
 | **Name** | **Paper** | **LLM Backbone (Largest)** | **LLM Tuning Strategy** | **Publication** | **Link** |
 |:---:|:---|:---:|:---:|:---:|:---:|
+| RecInter | Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems | GPT-4o | Frozen | EMNLP 2025 | [[Link]](https://aclanthology.org/2025.emnlp-main.956) |
 | GReaT | Language Models are Realistic Tabular Data Generators | GPT2-medium (355M) | Full Finetuning | ICLR 2023 | [[Link]](https://arxiv.org/abs/2210.06280) |
 | ONCE | ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models | ChatGPT | Frozen | WSDM 2024 | [[Link]](https://arxiv.org/abs/2305.06566) |
 | AnyPredict | AnyPredict: Foundation Model for Tabular Prediction | ChatGPT | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2305.12081) |
