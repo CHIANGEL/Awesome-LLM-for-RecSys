@@ -682,7 +682,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | FilterLLM: Text-To-Distribution LLM for Billion-Scale Cold-Start Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2502.16924) |
 | Towards An Efficient LLM Training Paradigm for CTR Prediction | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.01001) |
 | LLMInit: A Free Lunch from Large Language Models for Selective Initialization of Recommendation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.01814) |
-| PersonaX: A Recommendation Agent Oriented User Modeling Framework for Long Behavior Sequence | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.02398) |
+| PersonaX: A Recommendation Agent-Oriented User Modeling Framework for Long Behavior Sequence | Findings of ACL 2025 | [[Link]](https://aclanthology.org/2025.findings-acl.300/) [[Code]](https://github.com/Ancientshi/PersonaX) |
 | Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.09382) |
 | Uncovering Cross-Domain Recommendation Ability of Large Language Models | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.07761) |
 | LLM-Driven Usefulness Labeling for IR Evaluation | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2503.08965) |
