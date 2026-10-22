@@ -782,6 +782,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | Empowering Denoising Sequential Recommendation with Large Language Model Embeddings | CIKM 2025 | [[Link]](https://arxiv.org/abs/2510.04239) |
 | GRACE: Generative Representation Learning via Contrastive Policy Optimization | Arxiv 2025 | [[Link]](https://arxiv.org/abs/2510.04506) |
 | SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers | CIKM 2026 | [[Link]](https://arxiv.org/abs/2606.10375) |
+| Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative Recommendations | WWW 2026 | [[Link]](https://arxiv.org/abs/2603.00980) |
 
 </p >
 </details>
