@@ -117,6 +117,7 @@ We classify papers according to where LLM will be adapted in the pipeline of RS,
 | KERL | Knowledge Graphs and Pre-trained Language Models enhanced Representation Learning for Conversational Recommender Systems | BERT-mini | Frozen | TNNLS | [[Link]](https://arxiv.org/abs/2312.10967) |
 | N/A | Empowering Few-Shot Recommender Systems with Large Language Models -- Enhanced Representations | ChatGPT | Frozen | IEEE Access | [[Link]](https://arxiv.org/abs/2312.13557) |
 | N/A | Better Generalization with Semantic IDs: A Case Study in Ranking for Recommendations | Unknown | Frozen | Arxiv 2023 | [[Link]](https://arxiv.org/abs/2306.08121) |
+| N/A | Encoder Language Models for Zero-Shot Recommender Systems: Cross-Domain and Cross-Lingual Evaluation | Various (BERT, RoBERTa, LLaMA2, Qwen, etc.) | Frozen | MDPI Computers 2026 | [[Link]](https://www.mdpi.com/2073-431X/15/9/639) |
 
 <b>1.2.2 Unified Cross-domain Recommendation</b>
 
